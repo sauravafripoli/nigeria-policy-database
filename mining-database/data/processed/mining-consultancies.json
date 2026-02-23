@@ -1,0 +1,39 @@
+{
+  "category": "Mining Consultancies",
+  "count": 1,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "minin-tectonics--001",
+      "name": "Tectonics Engineering Group",
+      "slug": "tectonics-engineering-group",
+      "category": "Mining Consultancies",
+      "type": "Mining Consultancies",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://tectonicsgroup.co.uk/",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    }
+  ]
+}

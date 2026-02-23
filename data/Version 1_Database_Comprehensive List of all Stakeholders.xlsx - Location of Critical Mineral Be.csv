@@ -1,0 +1,38 @@
+State ,Locality,Mineral Belt ,Latitude (N),Longitude (E),Source
+Benue,Gboko,"Bauxite, limestone, associated critical minerals",7.3316,8.97601,database.earth city coordinates(database.earth)
+,Ushongo (LGA),"Bauxite / REE potential, mapped in lit.",7.04411,9.08871,Admin region coordinates(DB City)
+,Oju (LGA / town),Bauxite + other minerals in LGA profile,6.85,8.41667,Maplandia town coordinates(maplandia.com)
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Kogi ,Egbe (Egbe Mekun),"Pegmatites (Sn–Nb–Ta, Li) / ASM cluster",8.21927,5.50662,Maptons & long-lat DB(nz.maptons.com)
+,Isanlu / Isanlu area,Egbe–Isanlu pegmatite corridor,8.28,5.83,"Coordinate DB for Isanlu, Kogi(longitude-latitude-maps.com)"
+,Odo-Eri,ASM mining locality in the belt,8.27918,5.58372,GeoNames / Mindat(Mindat)
+,Okene,,7.55,6.23333,Coordinate DB for Okene(longitude-latitude-maps.com)
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Nasarawa,Nasarawa town,Pegmatite / coltan corridor ,8.53895,7.70821,City coordinate dataset(Time OK)
+,Akwanga,Major pegmatite & REE belt ,8.91077,8.40655,GeoNames / population DB(Time OK)
+,Keffi,"Pegmatites, Sn–Nb–Ta, Li ",8.84651,7.87354,City coordinates DB(Time OK)
+,Karu,SW extent of Nasarawa pegmatite zone,9.03368,7.60058,Maptons / coordinate DB(nz.maptons.com)
+,Kokona (LGA centre),Kokona pegmatite corridor,8.85559,8.06111,GeoNames / admin division record(geonames.org)
+,Wamba,REE–Nb–Ta–Sn pegmatites ,8.94153,8.60315,Mindat / locality DB(Mindat)
+,Udegi / Udege,Pegmatite field (Li–Sn–Nb–Ta coltan),8.25139,7.90222,Mindat populated place record(Mindat)
+,Endo ,,8.36917,7.79056,Mindat populated place record(Mindat)
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Kwara ,Kaiama,Kaiama–Bani–Oke Bani area,9.60621,3.94194,City coordinate DB(nz.maptons.com)
+,Bani (lithium cluster),Reported illegal lithium mining hotspot,9.14394,4.19814,"Premium Times lithium investigation gives 9°08′38.2″N, 4°11′53.3″E (converted to decimal)(Premium Times Nigeria)"
+,Oke Bani Hill,,9.01667,4.11667,Mindat hill locality(Mindat)
+,Gbugbu,ASM / mining locality in Edu area,8.7854,5.29718,Maptons / Mapcarta(Maptons)
+,Share,Bauxite / laterite-related work in Ifelodun,8.82282,4.96886,Maptons + geological field mapping report(nz.maptons.com)
+,Pategi (Patigi),,8.72851,5.75561,Mindat / town locality(Mindat)
+,,,,,
+,,,,,
+Ekiti,Ijero-Ekiti,"Major pegmatite district (Li–Sn–Nb–Ta, REE)",7.81514,5.06716,latitudelongitude.org + Maptons(latitudelongitude.org)
+,Aramoko-Ekiti,Pegmatite / hard-rock corridor to SW,7.70483,5.04054,latitude.to + coordinate DB(latitude.to)

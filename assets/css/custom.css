@@ -1,0 +1,69 @@
+/**
+ * Custom CSS for Nigeria Mining Hub
+ * Add any custom styling here
+ */
+
+/* Ensure main content has proper spacing */
+.main-content-wrapper {
+    min-height: 400px;
+}
+
+/* Custom utility classes */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Leaflet Map Styling */
+#map-container {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Leaflet popup customization */
+.leaflet-popup-content-wrapper {
+    border-radius: 8px;
+    padding: 0;
+}
+
+.leaflet-popup-content {
+    margin: 0;
+    padding: 12px;
+}
+
+.stakeholder-popup-content h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 8px 0;
+}
+
+.stakeholder-popup-content p {
+    font-size: 13px;
+    margin: 4px 0;
+    line-height: 1.4;
+}
+
+/* State tooltip styling */
+.state-tooltip {
+    background: rgba(255, 192, 60, 0.9);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.state-tooltip:before {
+    border-top-color: rgba(255, 192, 60, 0.9);
+}
+
+/* Leaflet attribution */
+.leaflet-control-attribution {
+    font-size: 10px;
+    background: rgba(255, 255, 255, 0.8);
+}
+

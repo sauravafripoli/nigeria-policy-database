@@ -1,0 +1,391 @@
+{
+  "category": "Federal Government",
+  "count": 12,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "feder-the-minist-001",
+      "name": "The Ministry of Mines and Steels Development (MMSD)",
+      "slug": "the-ministry-of-mines-and-steels-development-mmsd",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3686,
+          9.106499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Formulate and implement national policies for solid minerals development, regulate and supervise the mining sector,\n and drive investment and value addition.",
+      "website": "https://msmd.gov.ng/",
+      "acronym": "MMSD",
+      "valueChainRole": "Policy leadership, regulation and strategic coordination across the mineral value chain.",
+      "jurisdiction": "Federal Republic of Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-mining-cad-002",
+      "name": "Mining Cadastre Office (MCO)",
+      "slug": "mining-cadastre-office-mco",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Administer and manage mineral titles in Nigeria through a transparent mining cadastre system.",
+      "website": "",
+      "acronym": "MCO",
+      "valueChainRole": "Administration of mineral rights, licensing and tenure management.",
+      "jurisdiction": "Nationwide mineral title coverage",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-mines-insp-003",
+      "name": "Mines Inspectorate",
+      "slug": "mines-inspectorate",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Enforce mine health, safety and technical standards and monitor compliance with mining regulations.",
+      "website": "https://msmd.gov.ng/mines-inspectorate/",
+      "acronym": "MI",
+      "valueChainRole": "Operational oversight, safety enforcement and production monitoring.",
+      "jurisdiction": "All licensed mine sites in Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-nigerian-g-004",
+      "name": "Nigerian Geological Survey Agency (NGSA)",
+      "slug": "nigerian-geological-survey-agency-ngsa",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Generate, store and disseminate geoscientific and mineral resource data for Nigeria.",
+      "website": "",
+      "acronym": "NGSA",
+      "valueChainRole": "Upstream geological mapping, resource identification and exploration support.",
+      "jurisdiction": "Entire national territory and offshore areas under Nigerian control",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-national-e-005",
+      "name": "National Environmental Standards and Regulations Enforcement Agency (NESREA)",
+      "slug": "national-environmental-standards-and-regulations-enforcement-agency-nesrea",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Enforce environmental laws, regulations and standards (excluding upstream oil and gas) across Nigeria.",
+      "website": "",
+      "acronym": "NESREA",
+      "valueChainRole": "Environmental compliance, pollution control and enforcement in mining and processing.",
+      "jurisdiction": "Federal Republic of Nigeria (excluding upstream petroleum operations)",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-raw-materi-006",
+      "name": "Raw Materials Research and Development Council (RMRDC)",
+      "slug": "raw-materials-research-and-development-council-rmrdc",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3186,
+          9.1565
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Promote research, development and utilisation of Nigeria’s raw materials for industrialisation.",
+      "website": "",
+      "acronym": "RMRDC",
+      "valueChainRole": "Linking minerals to industry, processing and manufacturing value chains.",
+      "jurisdiction": "Nationwide raw materials and industrial sectors",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-nigeria-ex-008",
+      "name": "Nigeria Extractive Industries Transparency Initiative (NEITI)",
+      "slug": "nigeria-extractive-industries-transparency-initiative-neiti",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4586,
+          9.016499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Promote transparency and accountability in the management of revenues from Nigeria’s extractive industries.",
+      "website": "https://neiti.gov.ng/",
+      "acronym": "NEITI",
+      "valueChainRole": "Revenue transparency, governance and accountability across the value chain.",
+      "jurisdiction": "All extractive sectors and government entities handling extractive revenues in Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-the-depart-009",
+      "name": "The Department of Mines Environmental Compliance (MEC)",
+      "slug": "the-department-of-mines-environmental-compliance-mec",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Oversee and coordinate environmental compliance obligations specific to mining operations under MMSD.",
+      "website": "https://msmd.gov.ng/mines-environment-compliance/",
+      "acronym": "MEC",
+      "valueChainRole": "Sector‑specific environmental oversight within the mining value chain.",
+      "jurisdiction": "Mining and quarrying operations across Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-artisanal--010",
+      "name": "Artisanal & Small-Scale Mining",
+      "slug": "artisanal-small-scale-mining",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Formalise, support and regulate artisanal and small‑scale mining activities in Nigeria.",
+      "website": "https://msmd.gov.ng/artisanal-small-scale-mining/",
+      "acronym": "ASM",
+      "valueChainRole": "ASM formalisation, support services and integration into the formal minerals economy.",
+      "jurisdiction": "Artisanal and small‑scale mining operators nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-solid-mine-011",
+      "name": "Solid Minerals Development Fund (SMDF)",
+      "slug": "solid-minerals-development-fund-smdf",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4686,
+          9.006499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Provide financing and catalytic investments to stimulate exploration and development of Nigeria’s solid minerals.",
+      "website": "https://www.smdf.gov.ng/",
+      "acronym": "SMDF",
+      "valueChainRole": "Project finance, de‑risking exploration and supporting early‑stage development.",
+      "jurisdiction": "Eligible solid minerals projects across Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-national-a-012",
+      "name": "National Assembly Committee on Mines & Steel",
+      "slug": "national-assembly-committee-on-mines-steel",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Exercise legislative oversight over the mines and steel sector and review relevant laws and budgets.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Legislative oversight, law‑making and budget scrutiny for the minerals sector.",
+      "jurisdiction": "Federal legislative oversight across all mining institutions and programmes",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "feder-national-s-013",
+      "name": "National Steel Raw Materials Exploration Agency (NSRMEA )",
+      "slug": "national-steel-raw-materials-exploration-agency-nsrmea",
+      "category": "Federal Government",
+      "type": "Federal Government",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.448799999999999,
+          10.5164
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Explore and evaluate raw materials required for the iron and steel industry in Nigeria.",
+      "website": "",
+      "acronym": "NSRMEA",
+      "valueChainRole": "Upstream exploration for steel‑related minerals (iron ore, coal, limestone, etc.).",
+      "jurisdiction": "Prospective iron and steel raw material provinces across Nigeria",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    }
+  ]
+}

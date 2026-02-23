@@ -1,0 +1,755 @@
+{
+  "category": "Donors",
+  "count": 22,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "donor-world-bank-001",
+      "name": "World Bank",
+      "slug": "world-bank",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3686,
+          9.106499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.worldbank.org",
+      "acronym": "",
+      "valueChainRole": "Finances governance reforms, environmental management and infrastructure relevant to mining and critical minerals",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Mining governance, public finance, environment",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-african-de-002",
+      "name": "African Development Bank (AfDB)",
+      "slug": "african-development-bank-afdb",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6378,
+          9.8908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.afdb.org",
+      "acronym": "",
+      "valueChainRole": "Funds infrastructure, industrial projects and policy work related to mineral value chains and energy transition",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Industrialisation, minerals & metals, infrastructure",
+      "scale": "Africa-wide"
+    },
+    {
+      "id": "donor-united-nat-003",
+      "name": "United Nations Development Programme (UNDP)",
+      "slug": "united-nations-development-programme-undp",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3086,
+          9.1665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.undp.org/nigeria",
+      "acronym": "",
+      "valueChainRole": "Supports governance, conflict prevention and livelihoods including in resource-rich regions",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Governance, climate, inclusive growth",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-united-nat-004",
+      "name": "United Nations Industrial Development Organization (UNIDO)",
+      "slug": "united-nations-industrial-development-organization-unido",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.577800000000001,
+          9.9508
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.unido.org",
+      "acronym": "",
+      "valueChainRole": "Promotes mineral value addition, resource-efficient processing and SME upgrading",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Industrial development, cleaner production",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-united-nat-005",
+      "name": "United Nations Children’s Fund (UNICEF)",
+      "slug": "united-nations-children-s-fund-unicef",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4486,
+          9.026499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.unicef.org/nigeria",
+      "acronym": "",
+      "valueChainRole": "Addresses child labour risks and social services in mining-affected communities",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Child protection, education, WASH",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-internatio-006",
+      "name": "International Labour Organization (ILO)",
+      "slug": "international-labour-organization-ilo",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5178,
+          10.0108
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.ilo.org",
+      "acronym": "",
+      "valueChainRole": "Supports safe and decent work initiatives including in small-scale mining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Decent work, elimination of child labour",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-internatio-007",
+      "name": "International Finance Corporation (IFC)",
+      "slug": "international-finance-corporation-ifc",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3692,
+          6.5344
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.ifc.org",
+      "acronym": "",
+      "valueChainRole": "Finances private sector mining, infrastructure and value-chain projects",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Private investment in mining & infrastructure",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-european-u-008",
+      "name": "European Union (EU Delegation to Nigeria)",
+      "slug": "european-union-eu-delegation-to-nigeria",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4586,
+          9.016499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.eeas.europa.eu/delegations/nigeria_en",
+      "acronym": "",
+      "valueChainRole": "Funds governance reforms, renewable energy and emerging green/critical minerals partnerships",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Governance, green transition, critical minerals",
+      "scale": "EU \n Nigeria"
+    },
+    {
+      "id": "donor-ecowas-com-009",
+      "name": "ECOWAS Commission",
+      "slug": "ecowas-commission",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3286,
+          9.1465
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.ecowas.int",
+      "acronym": "",
+      "valueChainRole": "Develops regional mining frameworks and supports member states on harmonised policies",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Regional mining & mineral resources policy",
+      "scale": "West Africa"
+    },
+    {
+      "id": "donor-fcdo-uk-fo-010",
+      "name": "FCDO – UK Foreign, Commonwealth & Development Office",
+      "slug": "fcdo-uk-foreign-commonwealth-development-office",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "British High Commission",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3986,
+          9.0765
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.gov.uk/world/organisations/foreign-commonwealth-development-office",
+      "acronym": "",
+      "valueChainRole": "Funds programmes on governance, resource transparency and just energy transition",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Governance, anti-corruption, climate & energy",
+      "scale": "UK \nNigeria"
+    },
+    {
+      "id": "donor-usaid-unit-011",
+      "name": "USAID – United States Agency for International Development",
+      "slug": "usaid-united-states-agency-for-international-development",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4686,
+          9.006499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.usaid.gov/nigeria",
+      "acronym": "",
+      "valueChainRole": "Supports economic growth and governance in northern states including some mining regions",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Economic growth, governance, biodiversity, conflict",
+      "scale": "US \nNigeria"
+    },
+    {
+      "id": "donor-giz-deutsc-012",
+      "name": "GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit",
+      "slug": "giz-deutsche-gesellschaft-f-r-internationale-zusammenarbeit",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3386000000000005,
+          9.1365
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.giz.de/en/worldwide/324.html",
+      "acronym": "",
+      "valueChainRole": "Implements German-funded projects on renewable energy, climate, governance and skills relevant to green minerals",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Energy transition, climate, governance, skills",
+      "scale": "Germany \nNigeria"
+    },
+    {
+      "id": "donor-global-aff-013",
+      "name": "Global Affairs Canada",
+      "slug": "global-affairs-canada",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "High Commission of Canada",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4086,
+          9.0665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.international.gc.ca",
+      "acronym": "",
+      "valueChainRole": "Supports governance and gender-responsive programmes including those intersecting with mining and energy",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Gender equality, governance, natural resources",
+      "scale": "Canada \nNigeria"
+    },
+    {
+      "id": "donor-embassy-of-014",
+      "name": "Embassy of the Kingdom of the Netherlands",
+      "slug": "embassy-of-the-kingdom-of-the-netherlands",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4786,
+          8.9965
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.netherlandsandyou.nl/your-country-and-the-netherlands/nigeria",
+      "acronym": "",
+      "valueChainRole": "Engages on responsible supply chains and may support gold and agricultural-commodities governance",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Sustainable value chains, human rights, agriculture",
+      "scale": "Netherlands \nNigeria"
+    },
+    {
+      "id": "donor-agence-fra-015",
+      "name": "Agence Française de Développement (AFD)",
+      "slug": "agence-fran-aise-de-d-veloppement-afd",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3486,
+          9.1265
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.afd.fr",
+      "acronym": "",
+      "valueChainRole": "Finances infrastructure and climate-related projects with indirect links to mining and minerals",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Infrastructure, climate, urban development",
+      "scale": "France \n Nigeria"
+    },
+    {
+      "id": "donor-japan-inte-016",
+      "name": "Japan International Cooperation Agency (JICA)",
+      "slug": "japan-international-cooperation-agency-jica",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4186,
+          9.0565
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.jica.go.jp",
+      "acronym": "",
+      "valueChainRole": "Supports infrastructure and human-capacity development that can underpin mineral sector development",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Infrastructure, capacity building, science & technology",
+      "scale": "Japan \n Nigeria"
+    },
+    {
+      "id": "donor-ford-found-017",
+      "name": "Ford Foundation – West Africa Office",
+      "slug": "ford-foundation-west-africa-office",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lagos",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6878,
+          9.8408
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.fordfoundation.org",
+      "acronym": "",
+      "valueChainRole": "Funds civil society working on extractive justice, inequality and climate",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Inequality, natural resource governance, civic space",
+      "scale": "West Africa"
+    },
+    {
+      "id": "donor-open-socie-018",
+      "name": "Open Society Foundations (OSF)",
+      "slug": "open-society-foundations-osf",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5578,
+          9.970799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.opensocietyfoundations.org",
+      "acronym": "",
+      "valueChainRole": "Supports organisations working on transparency, governance and civic freedoms around extractives",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Democracy, human rights, transparency",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-macarthur--019",
+      "name": "MacArthur Foundation Nigeria",
+      "slug": "macarthur-foundation-nigeria",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4286,
+          9.0465
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.macfound.org",
+      "acronym": "",
+      "valueChainRole": "Funds anti-corruption work including watchdog journalism on resource governance",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Anti-corruption, accountability, journalism",
+      "scale": "US \n Nigeria"
+    },
+    {
+      "id": "donor-rockefelle-020",
+      "name": "Rockefeller Foundation",
+      "slug": "rockefeller-foundation",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.497800000000001,
+          9.8308
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.rockefellerfoundation.org",
+      "acronym": "",
+      "valueChainRole": "Supports initiatives on energy transition and resilience with potential intersections with critical minerals",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Energy transition, climate resilience",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-bill-melin-021",
+      "name": "Bill & Melinda Gates Foundation",
+      "slug": "bill-melinda-gates-foundation",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5678,
+          9.960799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.gatesfoundation.org",
+      "acronym": "",
+      "valueChainRole": "Finances governance and data initiatives that can indirectly support transparency in public spending, including resource revenues",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Health, data, poverty reduction, governance",
+      "scale": "Global"
+    },
+    {
+      "id": "donor-bloomberg--022",
+      "name": "Bloomberg Philanthropies",
+      "slug": "bloomberg-philanthropies",
+      "category": "Donors",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.bloomberg.org",
+      "acronym": "",
+      "valueChainRole": "Supports clean energy and climate initiatives; potential partner on just transition agendas",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Clean energy, climate",
+      "scale": "Global"
+    }
+  ]
+}

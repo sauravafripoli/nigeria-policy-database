@@ -1,0 +1,891 @@
+{
+  "category": "Universities",
+  "count": 26,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "unive-federal-un-001",
+      "name": "Federal University of Technology Akure (FUTA)",
+      "slug": "federal-university-of-technology-akure-futa",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Akure",
+        "state": "Ondo",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.1178,
+          6.9449000000000005
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.futa.edu.ng",
+      "acronym": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Applied Geology (Undergraduate & Postgraduate)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-federal-un-002",
+      "name": "Federal University of Technology Minna (FUTMINNA)",
+      "slug": "federal-university-of-technology-minna-futminna",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Minna",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6378,
+          9.8908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.futminna.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Geology (UG/PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-university-003",
+      "name": "University of Jos (UNIJOS)",
+      "slug": "university-of-jos-unijos",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jos",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.4279,
+          9.3082
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.unijos.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering (Undergraduate); Geology & Mining (UG/PG); Mineral Exploration (PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-ahmadu-bel-004",
+      "name": "Ahmadu Bello University (ABU Zaria)",
+      "slug": "ahmadu-bello-university-abu-zaria",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Zaria",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.4188,
+          10.5464
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.abu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering; Geology (UG/PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-university-005",
+      "name": "University of Benin (UNIBEN)",
+      "slug": "university-of-benin-uniben",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Benin City",
+        "state": "Edo",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          5.9848,
+          6.5845
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.uniben.edu",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering; Metallurgical Engineering; Geology (UG/PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-university-006",
+      "name": "University of Ilorin (UNILORIN)",
+      "slug": "university-of-ilorin-unilorin",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ilorin",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.2989999999999995,
+          9.047
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.unilorin.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Materials & Metallurgical Engineering; Geology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-university-007",
+      "name": "University of Nigeria Nsukka (UNN)",
+      "slug": "university-of-nigeria-nsukka-unn",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Nsukka",
+        "state": "Enugu",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          7.428,
+          6.5424
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.unn.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Metallurgical & Materials Engineering; Geology (UG/PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-abubakar-t-008",
+      "name": "Abubakar Tafawa Balewa University (ATBU Bauchi)",
+      "slug": "abubakar-tafawa-balewa-university-atbu-bauchi",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bauchi",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.904200000000001,
+          10.255799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.atbu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mining Engineering; Metallurgical & Materials Engineering; Geology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-nasarawa-s-009",
+      "name": "Nasarawa State University Keffi (NSUK)",
+      "slug": "nasarawa-state-university-keffi-nsuk",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Keffi",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.128499999999999,
+          8.5609
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.nsuk.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology & Mining (UG/PG)",
+      "level": "State"
+    },
+    {
+      "id": "unive-modibbo-ad-010",
+      "name": "Modibbo Adama University Yola (MAUTECH)",
+      "slug": "modibbo-adama-university-yola-mautech",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Yola",
+        "state": "Adamawa",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          12.3984,
+          9.3265
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.mautech.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology; Mineral Resources Engineering (UG/PG)",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-akwa-ibom--011",
+      "name": "Akwa Ibom State University (AKSU)",
+      "slug": "akwa-ibom-state-university-aksu",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Mkpat-Enin",
+        "state": "Akwa Ibom",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          7.9237,
+          4.8357
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.aksu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology; Applied Geophysics",
+      "level": "State"
+    },
+    {
+      "id": "unive-delta-stat-012",
+      "name": "Delta State University (DELSU)",
+      "slug": "delta-state-university-delsu",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abraka",
+        "state": "Delta",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          5.8554,
+          5.741199999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.delsu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology (UG/PG)",
+      "level": "State"
+    },
+    {
+      "id": "unive-kaduna-sta-013",
+      "name": "Kaduna State University (KASU)",
+      "slug": "kaduna-state-university-kasu",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.448799999999999,
+          10.5164
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.kasu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology & Mineral Resources",
+      "level": "State"
+    },
+    {
+      "id": "unive-ekiti-stat-014",
+      "name": "Ekiti State University (EKSU)",
+      "slug": "ekiti-state-university-eksu",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ado-Ekiti",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.391,
+          7.639
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://eksu.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology",
+      "level": "State"
+    },
+    {
+      "id": "unive-nigerian-i-015",
+      "name": "Nigerian Institute of Mining and Geosciences (NIMG Jos)",
+      "slug": "nigerian-institute-of-mining-and-geosciences-nimg-jos",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jos",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.467899999999998,
+          9.2682
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.nimg.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "PGD Mining Engineering; PGD Mineral Exploration; Short Courses",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-federal-po-016",
+      "name": "Federal Polytechnic Bida",
+      "slug": "federal-polytechnic-bida",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bida",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6178,
+          9.9108
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.fedpolybida.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral & Petroleum Resources Engineering; Minerals Exploration ND/HND",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-federal-po-017",
+      "name": "Federal Polytechnic Nasarawa",
+      "slug": "federal-polytechnic-nasarawa",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Nasarawa",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.288499999999999,
+          8.4009
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://fedpolynas.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral Resources Engineering; Geological Technology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-kaduna-pol-018",
+      "name": "Kaduna Polytechnic (KADPOLY)",
+      "slug": "kaduna-polytechnic-kadpoly",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3988,
+          10.5664
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://kadunapoly.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral Resources Engineering; Geological Technology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-federal-po-019",
+      "name": "Federal Polytechnic Ado-Ekiti",
+      "slug": "federal-polytechnic-ado-ekiti",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ado-Ekiti",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.341,
+          7.689
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.fedpolyado.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral Resources Engineering; Geological Technology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-plateau-st-020",
+      "name": "Plateau State Polytechnic Barkin Ladi",
+      "slug": "plateau-state-polytechnic-barkin-ladi",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Barkin Ladi",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.4179,
+          9.1182
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://plapoly.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral & Petroleum Engineering Technology; Geological Technology",
+      "level": "State"
+    },
+    {
+      "id": "unive-yaba-colle-021",
+      "name": "Yaba College of Technology (YABATECH)",
+      "slug": "yaba-college-of-technology-yabatech",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Yaba",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3492,
+          6.5544
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.yabatech.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral & Petroleum Resources Engineering; Geological Engineering Technology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-imt-enugu-022",
+      "name": "IMT Enugu",
+      "slug": "imt-enugu",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Enugu",
+        "state": "Enugu",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          7.478,
+          6.4924
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://imt.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geological Technology",
+      "level": "State"
+    },
+    {
+      "id": "unive-federal-po-023",
+      "name": "Federal Polytechnic Bauchi",
+      "slug": "federal-polytechnic-bauchi",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bauchi",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.7542,
+          10.4058
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://fptb.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral Resources Engineering; Geological Technology",
+      "level": "Federal"
+    },
+    {
+      "id": "unive-kwara-stat-024",
+      "name": "Kwara State Polytechnic",
+      "slug": "kwara-state-polytechnic",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ilorin",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.359,
+          8.987
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://kwarastatepolytechnic.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Mineral Resources Engineering",
+      "level": "State"
+    },
+    {
+      "id": "unive-ogun-state-025",
+      "name": "Ogun State Institute of Technology",
+      "slug": "ogun-state-institute-of-technology",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Igbesa",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.5269999999999997,
+          6.9478
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://ogitech.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geological Technology",
+      "level": "State"
+    },
+    {
+      "id": "unive-university-026",
+      "name": "University of Abuja (UNIABUJA)",
+      "slug": "university-of-abuja-uniabuja",
+      "category": "Universities",
+      "type": "Education",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3186,
+          9.1565
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://uniabuja.edu.ng",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "programmes": "Geology and Mining (Undergraduate)\n\nB.Sc. Geology (Undergraduate)",
+      "level": "Federal"
+    }
+  ]
+}

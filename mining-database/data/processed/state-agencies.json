@@ -1,0 +1,601 @@
+{
+  "category": "State Agencies",
+  "count": 18,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "state-bauchi-sta-001",
+      "name": "Bauchi State Ministry of Solid Minerals Development",
+      "slug": "bauchi-state-ministry-of-solid-minerals-development",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bauchi",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.814200000000001,
+          10.345799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Develop, regulate and manage Bauchi State’s solid mineral resources, including policy, investment promotion and sector governance.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "State-level policy, regulation and investment coordination for minerals.",
+      "jurisdiction": "All solid mineral activities within Bauchi State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Designs and implements solid minerals policy; supervises mining and quarrying; promotes investment and reforms; coordinates with federal agencies and communities."
+    },
+    {
+      "id": "state-ministry-o-002",
+      "name": "Ministry of Lands, Survey and Solid Minerals",
+      "slug": "ministry-of-lands-survey-and-solid-minerals",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Makurdi",
+        "state": "Benue",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.7823,
+          7.2964
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Oversee land administration, surveying and regulation of the solid minerals sector in Benue State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Sector coordination, regulation and land/tenure support for mining.",
+      "jurisdiction": "Land and mineral activities in Benue State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Allocates land for mining; regulates operations; supports sector planning and coordination; liaises with federal regulators and investors."
+    },
+    {
+      "id": "state-cross-rive-003",
+      "name": "Cross River State Ministry of Solid Minerals Development",
+      "slug": "cross-river-state-ministry-of-solid-minerals-development",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Calabar",
+        "state": "Cross River",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          8.5081,
+          5.9638
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage, regulate and promote sustainable development of Cross River State’s mineral resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "State-level policy, regulation and minerals sector governance.",
+      "jurisdiction": "Solid mineral operations within Cross River State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Develops policies and regulations; supervises operators; supports investment promotion; coordinates environmental and regulatory compliance."
+    },
+    {
+      "id": "state-ebonyi-sta-004",
+      "name": "Ebonyi State Ministry of Solid Minerals Development",
+      "slug": "ebonyi-state-ministry-of-solid-minerals-development",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abakaliki",
+        "state": "Ebonyi",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          7.9937000000000005,
+          6.2848999999999995
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Administer, regulate and develop Ebonyi State’s solid mineral resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation, sector planning and mineral development promotion.",
+      "jurisdiction": "Solid mineral activities within Ebonyi State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Oversees mining and quarrying; manages state mineral agreements; promotes responsible exploitation; engages communities and investors."
+    },
+    {
+      "id": "state-office-of--005",
+      "name": "Office of Solid Mineral Resources, Ekiti State",
+      "slug": "office-of-solid-mineral-resources-ekiti-state",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ado-Ekiti",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.361,
+          7.6690000000000005
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Coordinate the development and regulation of Ekiti State’s solid mineral resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Sector planning, investment facilitation and basic oversight.",
+      "jurisdiction": "Solid mineral activities within Ekiti State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Identifies mineral occurrences; supports investors; coordinates with federal agencies; advises government on mineral-led development."
+    },
+    {
+      "id": "state-ministry-o-006",
+      "name": "Ministry of Commerce, Industry and Solid Minerals",
+      "slug": "ministry-of-commerce-industry-and-solid-minerals",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Dutse",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.4816,
+          12.3084
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Drive industrial development and regulate solid mineral activities in Jigawa State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Investment promotion and mineral value-chain development.",
+      "jurisdiction": "Commerce, industry and solid mineral activities in Jigawa State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Promotes mineral-linked industrial projects; supports investors; facilitates SME and value-chain development; coordinates compliance."
+    },
+    {
+      "id": "state-kano-state-007",
+      "name": "Kano State Ministry of Solid Minerals Resources",
+      "slug": "kano-state-ministry-of-solid-minerals-resources",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kano",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.582,
+          12.0122
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage and promote sustainable development of Kano State’s mineral resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "State-level regulation and mineral sector economic planning.",
+      "jurisdiction": "Solid mineral resources in Kano State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Maps opportunities; supervises operations; supports mineral-based SMEs; aligns mineral development with state economic goals."
+    },
+    {
+      "id": "state-kaduna-sta-008",
+      "name": "Kaduna State Ministry of Solid Minerals",
+      "slug": "kaduna-state-ministry-of-solid-minerals",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.498799999999999,
+          10.4664
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Develop and implement mineral sector policy and support mineral-led economic activities in Kaduna State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation, planning and investment facilitation.",
+      "jurisdiction": "Solid mineral activities in Kaduna State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Coordinates licensing inputs; oversees mining activities; promotes value addition; engages communities and local government."
+    },
+    {
+      "id": "state-ministry-o-009",
+      "name": "Ministry of Solid Minerals Development and Mining",
+      "slug": "ministry-of-solid-minerals-development-and-mining",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Birnin Kebbi",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.1289,
+          11.5665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Oversee solid mineral development and mining activities in Kebbi State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation and investment facilitation across exploration and mining.",
+      "jurisdiction": "Mineral development and mining operations in Kebbi State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Supervises mines and quarries; supports investors; coordinates environmental and regulatory compliance; promotes responsible mineral exploitation."
+    },
+    {
+      "id": "state-kogi-state-010",
+      "name": "Kogi State Ministry of Solid Minerals and Natural Resources",
+      "slug": "kogi-state-ministry-of-solid-minerals-and-natural-resources",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lokoja",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.695,
+          7.7333
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage and develop Kogi State’s solid minerals and natural resources, including mapping and reserve estimation.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Resource assessment, sector planning and project facilitation.",
+      "jurisdiction": "Solid mineral operations in Kogi State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Conducts mapping and studies; guides mineral project development; supports investors; works with communities and federal regulators."
+    },
+    {
+      "id": "state-kwara-stat-011",
+      "name": "Kwara State Commission for Solid Minerals Development",
+      "slug": "kwara-state-commission-for-solid-minerals-development",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ilorin",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.449,
+          8.897
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Promote, develop and manage the solid minerals sector in Kwara State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Sector development, exploration support and investment promotion.",
+      "jurisdiction": "Solid mineral development across Kwara State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Identifies mineral opportunities; promotes investment; coordinates PPPs; supports local communities and state-backed mineral projects."
+    },
+    {
+      "id": "state-ogun-state-012",
+      "name": "Ogun State Mineral Resources Development Agency",
+      "slug": "ogun-state-mineral-resources-development-agency",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abeokuta",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.417,
+          7.057799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage and develop Ogun State’s mineral resources and ensure responsible mining.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Resource management, data generation and oversight.",
+      "jurisdiction": "Mineral resources and operations in Ogun State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Conducts geological surveys; maintains mineral data bank; supports responsible mining; coordinates with communities for inclusive development."
+    },
+    {
+      "id": "state-bureau-for-013",
+      "name": "Bureau for Solid Minerals, Taraba State",
+      "slug": "bureau-for-solid-minerals-taraba-state",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jalingo",
+        "state": "Taraba",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          10.7838,
+          7.9899000000000004
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Regulate, promote and support exploration and sustainable development of Taraba State’s solid minerals.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation, exploration oversight and sustainable development planning.",
+      "jurisdiction": "Solid mineral activities in Taraba State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Issues permits; supports exploration programmes; coordinates safeguards; promotes investment aligned with state priorities."
+    },
+    {
+      "id": "state-niger-stat-014",
+      "name": "Niger State Ministry of Mineral Resources",
+      "slug": "niger-state-ministry-of-mineral-resources",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Minna",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6778,
+          9.8508
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage the mineral sector in Niger State, tackle illegal mining and support investment attraction.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation, governance and investment promotion.",
+      "jurisdiction": "Mineral resources and mining activities in Niger State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Profiles miners; combats illegal mining; coordinates strategies to attract investors; collaborates with security agencies and federal regulators."
+    },
+    {
+      "id": "state-nasarawa-i-015",
+      "name": "Nasarawa Investment & Development Agency (NASIDA)",
+      "slug": "nasarawa-investment-development-agency-nasida",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lafia",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.148499999999999,
+          8.5409
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Facilitate and coordinate investments in Nasarawa State, including PPPs and commercialisation of mineral assets.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Investment promotion and transaction facilitation.",
+      "jurisdiction": "Investment projects and PPPs in Nasarawa State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Structures PPPs; markets investment opportunities; coordinates approvals; supports investors; commercialises mineral-linked state assets."
+    },
+    {
+      "id": "state-zamfara-st-016",
+      "name": "Zamfara State Ministry of Environment, Mines & Solid Minerals",
+      "slug": "zamfara-state-ministry-of-environment-mines-solid-minerals",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Gusau",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.244,
+          12.1023
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Regulate environmental protection and solid mineral development in Zamfara State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Environmental governance, minerals oversight and compliance.",
+      "jurisdiction": "Environment, mines and solid minerals in Zamfara State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Supervises mining with focus on environment and public health; coordinates remediation; supports formalisation and safer mining practices."
+    },
+    {
+      "id": "state-office-of--017",
+      "name": "Office of Mineral Resources, Ministry of Energy and Mineral Resources",
+      "slug": "office-of-mineral-resources-ministry-of-energy-and-mineral-resources",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ikeja",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4692,
+          6.4344
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Manage Lagos State’s energy and mineral resources and enforce environmental/resource standards.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Energy and minerals policy, regulation and environmental oversight.",
+      "jurisdiction": "Energy and mineral activities in Lagos State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Plans and regulates energy and mineral resource use; enforces standards; coordinates with federal agencies; promotes sustainable mineral and energy projects."
+    },
+    {
+      "id": "state-oyo-state--018",
+      "name": "Oyo State Ministry of Energy and Mineral Resources",
+      "slug": "oyo-state-ministry-of-energy-and-mineral-resources",
+      "category": "State Agencies",
+      "type": "State Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ibadan",
+        "state": "Oyo",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.5787,
+          8.1974
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Responsible for formulating, coordinating and implementing policies on energy and mineral resources in Oyo State, including the development, regulation and sustainable management of mineral assets and energy resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Energy and minerals sector policy, regulation, investment facilitation and environmental oversight.",
+      "jurisdiction": "Energy and solid mineral activities within Oyo State",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Develops and enforces state policies on energy and mineral resource management; supervises mining and quarrying operations; coordinates with federal agencies on licensing and compliance; supports investment in mineral and energy projects; ensures environmental and community safeguards; promotes sustainable resource exploitation to enhance state economic development."
+    }
+  ]
+}

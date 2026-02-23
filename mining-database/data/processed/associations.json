@@ -1,0 +1,601 @@
+{
+  "category": "Associations",
+  "count": 18,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "assoc-miners-ass-001",
+      "name": "Miners Association of Nigeria (MAN)",
+      "slug": "miners-association-of-nigeria-man",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3686,
+          9.106499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "National industry association representing miners across Nigeria; advocates for enabling policies, sector development and improved operating environment.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Sector advocacy, industry coordination, membership representation.",
+      "jurisdiction": "Nationwide (all mining operators).",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Represents mining companies; engages government on policy reforms; supports mining business environment; provides platforms for dialogue between industry, government and communities."
+    },
+    {
+      "id": "assoc-women-in-m-002",
+      "name": "Women in Mining in Nigeria (WIM)",
+      "slug": "women-in-mining-in-nigeria-wim",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4386,
+          9.0365
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Promote gender inclusion, women’s participation and leadership in Nigeria’s mining sector; provide advocacy, training and empowerment for women in mining.",
+      "website": "https://wimng.org/about-us/",
+      "acronym": "",
+      "valueChainRole": "Gender inclusion, advocacy, capacity building.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Supports women miners; conducts training and advocacy; engages policymakers on gender-responsive mining governance; leads national campaigns for women’s representation."
+    },
+    {
+      "id": "assoc-nigeria-in-003",
+      "name": "Nigeria Indigenous Women in Mining and Natural Resources Organisation (NINWINRO)",
+      "slug": "nigeria-indigenous-women-in-mining-and-natural-resources-organisation-ninwinro",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3086,
+          9.1665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Advance participation and rights of indigenous women involved in mining and natural resource activities.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Advocacy, community development, gender inclusion.",
+      "jurisdiction": "Nationwide indigenous communities.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Supports indigenous women in mining; drives advocacy on rights and inclusion; promotes safe and fair resource practices."
+    },
+    {
+      "id": "assoc-nigerian-m-004",
+      "name": "Nigerian Mining and Geosciences Society (NMGS)",
+      "slug": "nigerian-mining-and-geosciences-society-nmgs",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3786000000000005,
+          9.096499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional body for geoscientists, mining engineers and earth science professionals.",
+      "website": "https://nmgs.org.ng",
+      "acronym": "",
+      "valueChainRole": "Professional development, technical standards, scientific research.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Promotes geoscience research; publishes journals; organises scientific conferences and training."
+    },
+    {
+      "id": "assoc-nigerian-s-005",
+      "name": "Nigerian Society of Mining Engineers (NSME)",
+      "slug": "nigerian-society-of-mining-engineers-nsme",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4486,
+          9.026499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional body promoting technical excellence, safety and industry development.",
+      "website": "https://nsme.org.ng/",
+      "acronym": "",
+      "valueChainRole": "Engineering standards, capacity building, professional accreditation.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Provides training, technical guidance and certification; supports engineering best practices; advises government."
+    },
+    {
+      "id": "assoc-council-of-006",
+      "name": "Council of Nigerian Mining Engineers and Geoscientists (COMEG)",
+      "slug": "council-of-nigerian-mining-engineers-and-geoscientists-comeg",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3186,
+          9.1565
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Regulate and accredit mining and geoscience professionals in Nigeria.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Accreditation, professional regulation, competency assurance.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Certifies and licenses professionals; enforces ethical and technical standards; accredits academic programmes."
+    },
+    {
+      "id": "assoc-geological-007",
+      "name": "Geological Society of Nigeria (GSN)",
+      "slug": "geological-society-of-nigeria-gsn",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3886,
+          9.0865
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional society for geologists promoting earth science and resource development.",
+      "website": "https://geosociety.com.ng/",
+      "acronym": "",
+      "valueChainRole": "Research, geological capacity building, professional exchange.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Organises conferences; supports geological fieldwork; publishes research."
+    },
+    {
+      "id": "assoc-nigerian-a-008",
+      "name": "Nigerian Association of Hydrogeologists (NAH)",
+      "slug": "nigerian-association-of-hydrogeologists-nah",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4586,
+          9.016499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional body dedicated to hydrogeology and groundwater management.",
+      "website": "https://nah-nigeria.org/#/",
+      "acronym": "",
+      "valueChainRole": "Groundwater science, environmental monitoring, professional development.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Provides training; conducts groundwater studies; advises government on water resource management."
+    },
+    {
+      "id": "assoc-nigerian-a-009",
+      "name": "Nigerian Association for Engineering Geology (NAEG)",
+      "slug": "nigerian-association-for-engineering-geology-naeg",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3286,
+          9.1465
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional society for engineering geology and geotechnics.",
+      "website": "https://naege.org/",
+      "acronym": "",
+      "valueChainRole": "Technical standards, geotechnical expertise, professional development.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Provides training and field workshops; advances engineering geology practice; supports infrastructure and mining projects."
+    },
+    {
+      "id": "assoc-miners-ass-010",
+      "name": "Miners Association of Nigeria Youth Wing / Nigeria Youth in Mining",
+      "slug": "miners-association-of-nigeria-youth-wing-nigeria-youth-in-mining",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3986,
+          9.0765
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Youth-focused wing promoting youth participation and innovation in mining.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Youth empowerment, skills development.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Mobilises youth; offers training; supports entrepreneurship and sector engagement."
+    },
+    {
+      "id": "assoc-the-nigeri-011",
+      "name": "The Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture",
+      "slug": "the-nigerian-association-of-chambers-of-commerce-industry-mines-and-agriculture",
+      "category": "Associations",
+      "type": "Chamber of Commerce",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4492,
+          6.4544
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Umbrella organisation representing business interests including mining.",
+      "website": "https://chamberofmines.com.ng",
+      "acronym": "",
+      "valueChainRole": "Business advocacy, investment promotion, coordination.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Engages government on economic policies; connects investors; promotes trade and mineral sector opportunities."
+    },
+    {
+      "id": "assoc-nigerian-m-012",
+      "name": "Nigerian Metallurgical Society (NMS)",
+      "slug": "nigerian-metallurgical-society-nms",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3386000000000005,
+          9.1365
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Professional body for metallurgists promoting materials science and metallurgy research.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Metallurgy, processing, research.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Promotes metallurgical research; supports steel and metals development; organises capacity-building programmes."
+    },
+    {
+      "id": "assoc-society-of-013",
+      "name": "Society of Exploration Geophysicists (SEG) Nigeria Chapter",
+      "slug": "society-of-exploration-geophysicists-seg-nigeria-chapter",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3891999999999998,
+          6.5144
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Supports geophysics education, research and exploration applications.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Geophysics, exploration science, research.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Provides training; promotes innovation in exploration geoscience; connects academia and industry."
+    },
+    {
+      "id": "assoc-society-fo-014",
+      "name": "Society for Mining Metallurgy Exploration (SME) Africa/Nigeria",
+      "slug": "society-for-mining-metallurgy-exploration-sme-africa-nigeria",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Supports mining engineering, metallurgy and global mining standards.",
+      "website": "https://www.smenet.org/",
+      "acronym": "",
+      "valueChainRole": "Technical excellence, training, global standards.",
+      "jurisdiction": "Regional/National",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Delivers global-standard training; promotes best practices; links Nigerian professionals to global networks."
+    },
+    {
+      "id": "assoc-nigerian-a-015",
+      "name": "Nigerian Association for Engineering Geology and the Environment (NAEGE)-IAEG Nigeria Chapter",
+      "slug": "nigerian-association-for-engineering-geology-and-the-environment-naege-iaeg-nigeria-chapter",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3486,
+          9.1265
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Promotes engineering geology and environmental geoscience.",
+      "website": "https://iaeg.info/event/3rd-iaeg-africa-regional-confernece/",
+      "acronym": "",
+      "valueChainRole": "Environmental geoscience, geotechnical practice.",
+      "jurisdiction": "Nationwide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Organises conferences; supports research; participates in global engineering geology initiatives."
+    },
+    {
+      "id": "assoc-geological-016",
+      "name": "Geological Society of Africa (GSAf)",
+      "slug": "geological-society-of-africa-gsaf",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6178,
+          9.9108
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Pan-African society promoting Earth science across Africa.",
+      "website": "gsafr.org",
+      "acronym": "",
+      "valueChainRole": "Continental research, collaboration, professional development.",
+      "jurisdiction": "Africa-wide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Promotes African geoscience research; organises continental conferences; supports collaboration on minerals and geoscience."
+    },
+    {
+      "id": "assoc-african-un-017",
+      "name": "African Union African Minerals Development Centre (AMDC)",
+      "slug": "african-union-african-minerals-development-centre-amdc",
+      "category": "Associations",
+      "type": "African Union Development Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Supports AU states with policies on minerals governance, beneficiation and capacity building.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Mineral policy, governance, beneficiation.",
+      "jurisdiction": "Africa-wide",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Provides technical assistance; supports reforms; promotes Africa’s mineral beneficiation agenda."
+    },
+    {
+      "id": "assoc-lagos-stat-018",
+      "name": "Lagos State Dredgers' and Miners' Association",
+      "slug": "lagos-state-dredgers-and-miners-association",
+      "category": "Associations",
+      "type": "Mining Association",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3392,
+          6.5644
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Collection of legal  dredging and mining operators in Lagos",
+      "website": "https://nairametrics.com/2025/01/26/lagos-govt-mandates-dredgers-miners-to-maintain-motorable-roads-leading-to-sites/",
+      "acronym": "",
+      "valueChainRole": "Mining and dredging",
+      "jurisdiction": "Lagos",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Promoting safe and sustainable mineral resource management practices, ensuring that haulage operations i"
+    }
+  ]
+}

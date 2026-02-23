@@ -1,0 +1,205 @@
+{
+  "category": "State Companies",
+  "count": 6,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "state-bauchi-min-001",
+      "name": "Bauchi Mining Synergy and Exploration Limited (BAMSEL)",
+      "slug": "bauchi-mining-synergy-and-exploration-limited-bamsel",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bauchi",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.814200000000001,
+          10.345799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Responsible for commercial mineral exploration, development and investment partnerships on behalf of Bauchi State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "State-owned exploration and mining operations, investment facilitation and project development.",
+      "jurisdiction": "Mineral exploration and mining projects within Bauchi State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Conducts mineral prospecting and exploration; manages state equity in mining ventures; partners with private companies; supports job creation and state revenue generation."
+    },
+    {
+      "id": "state-benue-stat-002",
+      "name": "Benue State Bureau for Solid Minerals",
+      "slug": "benue-state-bureau-for-solid-minerals",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Makurdi",
+        "state": "Benue",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.7823,
+          7.2964
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Responsible for overseeing state mineral assets, regulating state-level mining activities and supporting state-owned mineral projects.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation, project oversight and state participation in mineral development.",
+      "jurisdiction": "Solid mineral activities within Benue State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Coordinates state-owned mining initiatives; provides governance and oversight; supports licensing, monitoring and mineral resource management."
+    },
+    {
+      "id": "state-benue-stat-003",
+      "name": "Benue State Geo-Mining Company Nigeria Limited",
+      "slug": "benue-state-geo-mining-company-nigeria-limited",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Makurdi",
+        "state": "Benue",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.6523,
+          7.4264
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "State-owned company responsible for mineral exploration, geological mapping and development of state mineral resources.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, early-stage resource development and project facilitation.",
+      "jurisdiction": "Mineral exploration and project development across Benue State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Conducts geological studies, sampling and resource estimation; initiates mining projects; partners with investors; promotes commercial development of priority minerals."
+    },
+    {
+      "id": "state-fountain-s-004",
+      "name": "Fountain Solid Mineral Development Company (FSMDC)",
+      "slug": "fountain-solid-mineral-development-company-fsmdc",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ado-Ekiti",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.291,
+          7.739
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Responsible for commercial mineral development for Ekiti State, including exploration, project participation and value-chain development.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "State-owned mineral exploration, mining and mineral-based industrial development.",
+      "jurisdiction": "Mineral projects within Ekiti State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Leads state-backed mineral initiatives; undertakes exploration; partners with private miners; facilitates downstream processing and value addition projects."
+    },
+    {
+      "id": "state-plateau-mi-005",
+      "name": "Plateau Mineral Development Company Limited (PMDC Ltd)",
+      "slug": "plateau-mineral-development-company-limited-pmdc-ltd",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jos",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.5679,
+          9.168199999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "State-owned corporation managing Plateau Stateâ€™s mineral exploration and development portfolio.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, mining investment, value chain development and resource commercialisation.",
+      "jurisdiction": "Mining and exploration activities within Plateau State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Conducts exploration; manages state mineral assets; participates in joint ventures; oversees mineral-based projects including tin, columbite and granite."
+    },
+    {
+      "id": "state-kaduna-min-006",
+      "name": "Kaduna Mining Development Company (KMDC)",
+      "slug": "kaduna-mining-development-company-kmdc",
+      "category": "State Companies",
+      "type": "State-owned",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3588,
+          10.6064
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "Responsible for exploring, developing and commercialising mineral resources owned by Kaduna State.",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, mining development and investment facilitation.",
+      "jurisdiction": "Solid mineral projects within Kaduna State.",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "summaryFunctions": "Identifies mineral opportunities; engages in exploration; secures partnerships; supports state industrialisation through mineral development."
+    }
+  ]
+}

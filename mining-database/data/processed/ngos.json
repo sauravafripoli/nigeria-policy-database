@@ -1,0 +1,890 @@
+{
+  "category": "NGOs",
+  "count": 26,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "ngos-csr-in-act-001",
+      "name": "CSR-in-Action",
+      "slug": "csr-in-action",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3492,
+          6.5544
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.linkedin.com/company/csrinaction/posts/?feedView=all",
+      "acronym": "",
+      "valueChainRole": "Advocacy, community engagement and ESG advisory for extractive industries",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Extractive governance, ESG, community relations",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-budgit-002",
+      "name": "BudgIT",
+      "slug": "budgit",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4192,
+          6.4844
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.budgit.org",
+      "acronym": "",
+      "valueChainRole": "Tracks public revenues and spending, including those from mining and oil & gas",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Budget transparency, public finance, mining revenues",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-neiti-cso--003",
+      "name": "NEITI-CSO Working Group",
+      "slug": "neiti-cso-working-group",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3086,
+          9.1665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://neiti.gov.ng/",
+      "acronym": "",
+      "valueChainRole": "Civil society platform engaging with NEITI on extractives revenue transparency",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Extractives transparency, EITI",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-centre-for-004",
+      "name": "Centre for Transparency Advocacy (CTA)",
+      "slug": "centre-for-transparency-advocacy-cta",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3786000000000005,
+          9.096499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.ctransparency.org",
+      "acronym": "",
+      "valueChainRole": "Promotes transparency and accountability including in natural resource governance",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Governance, elections, transparency",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-spaces-for-005",
+      "name": "Spaces for Change",
+      "slug": "spaces-for-change",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4292,
+          6.4744
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://spacesforchange.org",
+      "acronym": "",
+      "valueChainRole": "Research and advocacy on land, environment and community rights in resource-rich areas",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Environment, land & housing rights, displacement",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-environmen-006",
+      "name": "Environmental Rights Action (ERA/FoEN)",
+      "slug": "environmental-rights-action-era-foen",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.2992,
+          6.6044
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://erafoen.org",
+      "acronym": "",
+      "valueChainRole": "Supports communities affected by extractive industries, campaigns on environmental justice",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Environmental justice, pollution, mining impacts",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-global-rig-007",
+      "name": "Global Rights Nigeria",
+      "slug": "global-rights-nigeria",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3886,
+          9.0865
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://globalrights.org/nigeria",
+      "acronym": "",
+      "valueChainRole": "Works with mining-affected communities on rights, security and governance of natural resources",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Human rights in mining communities, ASM",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-civil-soci-008",
+      "name": "Civil Society Legislative Advocacy Centre (CISLAC)",
+      "slug": "civil-society-legislative-advocacy-centre-cislac",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4586,
+          9.016499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.cislac.org",
+      "acronym": "",
+      "valueChainRole": "Advocates for transparency and accountability in extractive sector laws and policies",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Anti-corruption, legislative advocacy",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-connected--009",
+      "name": "Connected Development (CODE)",
+      "slug": "connected-development-code",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3286,
+          9.1465
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.connecteddevelopment.org",
+      "acronym": "",
+      "valueChainRole": "Runs FollowTheMoney and other initiatives tracking resource flows and projects in communities",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Open government, resource tracking, community monitoring",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-africa-cen-010",
+      "name": "Africa Centre for Leadership, Strategy & Development (Centre LSD)",
+      "slug": "africa-centre-for-leadership-strategy-development-centre-lsd",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3986,
+          9.0765
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.centrelsd.org",
+      "acronym": "",
+      "valueChainRole": "Implements programmes on mining governance, climate justice and leadership development",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Leadership, mining governance, climate",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-extractive-011",
+      "name": "Extractive360",
+      "slug": "extractive360",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4492,
+          6.4544
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://extractive360.com",
+      "acronym": "",
+      "valueChainRole": "Provides specialised reporting and analysis on mining and petroleum governance",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Extractive sector journalism & advocacy",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-human-envi-012",
+      "name": "Human & Environmental Development Agenda (HEDA)",
+      "slug": "human-environmental-development-agenda-heda",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3192,
+          6.5844
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://hedang.org",
+      "acronym": "",
+      "valueChainRole": "Engages on corruption risks and environmental abuses in extractive industries",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Anti-corruption, environmental governance",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-women-in-m-013",
+      "name": "Women in Mining in Nigeria (WIMIN)",
+      "slug": "women-in-mining-in-nigeria-wimin",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4086,
+          9.0665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://wimng.org",
+      "acronym": "",
+      "valueChainRole": "Organises women in mining, advocates for gender-responsive mining policies and supports women miners",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Gender inclusion, ASM, women’s rights",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-host-commu-014",
+      "name": "Host Communities Network of Nigeria (HoCoN)",
+      "slug": "host-communities-network-of-nigeria-hocon",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Nigeria (Niger Delta focus",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Network advocating for the rights and benefits of communities hosting extractive projects",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Host community rights, environment",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-afri-cird--015",
+      "name": "AFRI-CIRD (African Centre for Innovative Research & Development)",
+      "slug": "afri-cird-african-centre-for-innovative-research-development",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.542,
+          12.052200000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://afri-cird.org",
+      "acronym": "",
+      "valueChainRole": "Promotes transparency and citizen engagement in extractive sector governance",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Extractive governance, social accountability",
+      "scale": "Regional (North-West)"
+    },
+    {
+      "id": "ngos-cefsan-cen-016",
+      "name": "CEFSAN (Centre for Social Advancement & Development)",
+      "slug": "cefsan-centre-for-social-advancement-development",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.612,
+          11.9822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Works with communities on development and social justice including in resource-rich areas",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Community development, social inclusion",
+      "scale": "Regional (North-West)"
+    },
+    {
+      "id": "ngos-environmen-017",
+      "name": "Environmental Rights Initiative of Nigeria (ERIN)",
+      "slug": "environmental-rights-initiative-of-nigeria-erin",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6878,
+          9.8408
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Supports communities impacted by mining and other environmentally harmful activities",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Environment & community rights",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-pact-018",
+      "name": "PACT",
+      "slug": "pact",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5578,
+          9.970799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.pactworld.org",
+      "acronym": "",
+      "valueChainRole": "Implements artisanal and small-scale mining (ASM) improvement and child-labour reduction projects",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "ASM formalisation, responsible mining, child labour",
+      "scale": "Global / Nigeria presence"
+    },
+    {
+      "id": "ngos-solidarida-019",
+      "name": "Solidaridad West Africa",
+      "slug": "solidaridad-west-africa",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.627800000000001,
+          9.9008
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.solidaridadnetwork.org",
+      "acronym": "",
+      "valueChainRole": "Works on responsible gold supply chains, ESG standards and livelihoods",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Responsible gold & minerals value chains",
+      "scale": "West Africa (incl. Nigeria)"
+    },
+    {
+      "id": "ngos-oxfam-in-n-020",
+      "name": "Oxfam in Nigeria",
+      "slug": "oxfam-in-nigeria",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.2986,
+          8.9765
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://nigeria.oxfam.org",
+      "acronym": "",
+      "valueChainRole": "Advocates for fair sharing of natural resource benefits and supports host communities",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Resource justice, inequality, community rights",
+      "scale": "National"
+    },
+    {
+      "id": "ngos-natural-re-021",
+      "name": "Natural Resource Governance Institute (NRGI)",
+      "slug": "natural-resource-governance-institute-nrgi",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5678,
+          9.960799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://resourcegovernance.org",
+      "acronym": "",
+      "valueChainRole": "Provides research and technical assistance on governance of oil, gas and mining",
+      "jurisdiction": "",
+      "influenceLevel": "High",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Extractive governance, fiscal rules, contracts",
+      "scale": "Global / Africa"
+    },
+    {
+      "id": "ngos-global-wit-022",
+      "name": "Global Witness",
+      "slug": "global-witness",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6378,
+          9.8908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.globalwitness.org",
+      "acronym": "",
+      "valueChainRole": "Investigative advocacy on corruption, secrecy and environmental abuses in resource sectors",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Anti-corruption, illicit financial flows in extractives",
+      "scale": "Global"
+    },
+    {
+      "id": "ngos-heinrich-b-023",
+      "name": "Heinrich Böll Foundation (HBF) – Abuja Office",
+      "slug": "heinrich-b-ll-foundation-hbf-abuja-office",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3086,
+          9.1665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://ng.boell.org",
+      "acronym": "",
+      "valueChainRole": "Supports civil society on environmental justice, energy transition and natural resource governance",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Climate justice, gender, extractive governance",
+      "scale": "National / Regional"
+    },
+    {
+      "id": "ngos-search-for-024",
+      "name": "Search for Common Ground (SFCG)",
+      "slug": "search-for-common-ground-sfcg",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.577800000000001,
+          9.9508
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.sfcg.org",
+      "acronym": "",
+      "valueChainRole": "Works on peacebuilding and conflict mitigation in areas including those affected by resource extraction",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Conflict transformation, resource conflict",
+      "scale": "Northern Nigeria focus"
+    },
+    {
+      "id": "ngos-internatio-025",
+      "name": "International Alert",
+      "slug": "international-alert",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6478,
+          9.880799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.international-alert.org",
+      "acronym": "",
+      "valueChainRole": "Supports conflict-sensitive approaches to natural resource projects",
+      "jurisdiction": "",
+      "influenceLevel": "Medium",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "Conflict sensitivity, peace & security around resources",
+      "scale": "Global / Nigeria projects"
+    },
+    {
+      "id": "ngos-ziva-commu-026",
+      "name": "Ziva Communities Initiative",
+      "slug": "ziva-communities-initiative",
+      "category": "NGOs",
+      "type": "Other",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "Ziva Community – Non Profit Organization",
+      "acronym": "",
+      "valueChainRole": "Focused on strengthening value chains within the agricultural and mining sector.",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "thematicFocus": "ASM formalisation, responsible mining, child labour"
+    }
+  ]
+}

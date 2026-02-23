@@ -1,0 +1,1987 @@
+{
+  "category": "Mining Companies",
+  "count": 55,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "minin-jiuling-li-001",
+      "name": "Jiuling Lithium (Nigeria Project)",
+      "slug": "jiuling-lithium-nigeria-project",
+      "category": "Mining Companies",
+      "type": "Foreign Investor / Mining & Processing Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.1685,
+          8.5209
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, mining and chemical processing (lithium carbonate plant)",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Developing a $200m lithium processing factory in Nasarawa LGA in partnership with Nasarawa State Government.",
+      "notes": "Focused on lithium ore-to-chemical processing for EV battery value chains."
+    },
+    {
+      "id": "minin-avatar-new-002",
+      "name": "Avatar New Energy Materials Nigeria Ltd",
+      "slug": "avatar-new-energy-materials-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Foreign Investor / Processing Plant",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.238499999999998,
+          8.4509
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Processing (concentrate upgrading and refining)",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Operating a lithium processing plant in Lafia area to process locally mined lithium ore.",
+      "notes": "Part of new wave of Chinese-backed lithium processors in Nasarawa."
+    },
+    {
+      "id": "minin-canmax-tec-003",
+      "name": "Canmax Technologies (Nigeria Lithium Project)",
+      "slug": "canmax-technologies-nigeria-lithium-project",
+      "category": "Mining Companies",
+      "type": "Foreign Investor / Off-taker & Processor",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.1085,
+          8.5809
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Off-take, processing and export",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Investing in Nigerian lithium supply and processing facilities across multiple states including Nasarawa.",
+      "notes": "Integrated into global battery materials supply chain."
+    },
+    {
+      "id": "minin-canmax-chi-004",
+      "name": "Canmax / Chinese Lithium Consortia (Kogi Projects)",
+      "slug": "canmax-chinese-lithium-consortia-kogi-projects",
+      "category": "Mining Companies",
+      "type": "Foreign Investor / JV",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.675000000000001,
+          7.753299999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, ASM off-take, processing/export",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Securing lithium pegmatite fields and ASM off-take agreements in parts of Kogi State.",
+      "notes": "Linked to larger Nigeria critical minerals investments."
+    },
+    {
+      "id": "minin-tree-mines-005",
+      "name": "Tree Mines Global",
+      "slug": "tree-mines-global",
+      "category": "Mining Companies",
+      "type": "Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.745,
+          7.6833
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://treeminesglobal.com",
+      "acronym": "",
+      "valueChainRole": "Exploration and small-scale mining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Lithium (early-stage)",
+      "currentProjects": "Developing small-scale gold operations in Kabba-Bunu and exploring for lithium and other critical minerals in Kogi and Kwara States.",
+      "notes": "Important Nigerian-owned player linking ASM to formal markets."
+    },
+    {
+      "id": "minin-thor-explo-006",
+      "name": "Thor Explorations  (Lithium mining)",
+      "slug": "thor-explorations-lithium-mining",
+      "category": "Mining Companies",
+      "type": "Mining / Exploration",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Oyo",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.5387,
+          8.237400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://thorexpl.com",
+      "acronym": "",
+      "valueChainRole": "Exploration (greenfield)",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lithium, Gold",
+      "currentProjects": "Holder of ~600 km2 of lithium exploration tenure including parts of Oyo State, parallel to its Segilola gold success.",
+      "notes": "Targeting lithium-bearing pegmatites within the Nigerian Basement Complex."
+    },
+    {
+      "id": "minin-thor-explo-007",
+      "name": "Thor Explorations ( Lithium)",
+      "slug": "thor-explorations-lithium",
+      "category": "Mining Companies",
+      "type": "Mining / Exploration",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.301,
+          7.729
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://thorexpl.com",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Exploring lithium pegmatites in Ekiti State as part of its critical minerals strategy.",
+      "notes": "Builds on legacy of gemstone and pegmatite mining around Ijero-Ekiti."
+    },
+    {
+      "id": "minin-thor-explo-008",
+      "name": "Thor Explorations ( Lithium)",
+      "slug": "thor-explorations-lithium",
+      "category": "Mining Companies",
+      "type": "Mining / Exploration",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.438999999999999,
+          8.907
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://thorexpl.com",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lithium",
+      "currentProjects": "Part of a multi-state lithium exploration package spanning Kwara and neighbouring states.",
+      "notes": "Early-stage tenure around basement-hosted pegmatites."
+    },
+    {
+      "id": "minin-tree-mines-009",
+      "name": "Tree Mines Global",
+      "slug": "tree-mines-global",
+      "category": "Mining Companies",
+      "type": "Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.308999999999999,
+          9.037
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://treeminesglobal.com",
+      "acronym": "",
+      "valueChainRole": "Exploration and medium-scale mining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Critical Minerals",
+      "currentProjects": "Holds solid minerals properties in Kwara including gold and associated critical minerals.",
+      "notes": "Engages with women and local communities in its operations."
+    },
+    {
+      "id": "minin-various-ch-010",
+      "name": "Various Chinese-backed Lithium & Pegmatite Operators",
+      "slug": "various-chinese-backed-lithium-pegmatite-operators",
+      "category": "Mining Companies",
+      "type": "Foreign / Local JV Clusters",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Cross River",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          8.5981,
+          5.8738
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Early-stage mining and export of pegmatite ores",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small/Medium",
+      "mineralCommodities": "Lithium, Pegmatite minerals",
+      "currentProjects": "Clusters of pegmatite and lithium-bearing operations emerging in parts of Cross River State.",
+      "notes": "Often linked to informal/ASM supply chains with limited public corporate visibility."
+    },
+    {
+      "id": "minin-kelechi-mi-011",
+      "name": "Kelechi Minerals Nigeria Ltd",
+      "slug": "kelechi-minerals-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.5879,
+          9.1482
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://kelechimineralsltd.com",
+      "acronym": "",
+      "valueChainRole": "Exploration and early-stage mining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lithium, Tin, Niobium (Coltan)",
+      "currentProjects": "Active across Kogi, Kwara, Nasarawa, Ekiti and Oyo with interests also extending into Plateau-linked belts; focuses on lithium and associated critical minerals.",
+      "notes": "Positions itself as a critical minerals champion for Nigeria’s energy transition."
+    },
+    {
+      "id": "minin-hasetins-c-012",
+      "name": "Hasetins Commodities Ltd ( REE Plant)",
+      "slug": "hasetins-commodities-ltd-ree-plant",
+      "category": "Mining Companies",
+      "type": "Critical Minerals Processing Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.138499999999999,
+          8.5509
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Processing and value-addition plant",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Rare Earth Elements (REE), PGMs",
+      "currentProjects": "Developing a $400m rare earth and critical minerals processing facility in Nasarawa State.",
+      "notes": "Flagship African REE processing hub targeting monazite-rich concentrates from Plateau, Benue, Nasarawa and Cross River."
+    },
+    {
+      "id": "minin-hasetins-c-013",
+      "name": "Hasetins Commodities Ltd (Supply Agreements)",
+      "slug": "hasetins-commodities-ltd-supply-agreements",
+      "category": "Mining Companies",
+      "type": "Critical Minerals Processor / Off-taker",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.527899999999999,
+          9.2082
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Off-take and processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Rare Earth Elements (Monazite)",
+      "currentProjects": "Expected to source monazite-bearing heavy mineral sands from Plateau’s historic tin fields for processing in Nasarawa.",
+      "notes": "Links legacy tin tailings to new REE value chains."
+    },
+    {
+      "id": "minin-hasetins-c-014",
+      "name": "Hasetins Commodities Ltd (Supply Agreements)",
+      "slug": "hasetins-commodities-ltd-supply-agreements",
+      "category": "Mining Companies",
+      "type": "Critical Minerals Processor / Off-taker",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Benue",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.8223,
+          7.2564
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Supply, aggregation and beneficiation",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Rare Earth Elements",
+      "currentProjects": "Targeting REE-bearing sands and concentrates from Benue for processing in Nasarawa.",
+      "notes": "Transforms scattered REE resources into a coherent value chain."
+    },
+    {
+      "id": "minin-hasetins-c-015",
+      "name": "Hasetins Commodities Ltd (Coastal Sands REE Initiative)",
+      "slug": "hasetins-commodities-ltd-coastal-sands-ree-initiative",
+      "category": "Mining Companies",
+      "type": "Critical Minerals Processor / Off-taker",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Cross River",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          8.5481,
+          5.9238
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Off-take and processing of coastal sand concentrates",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Rare Earth Elements",
+      "currentProjects": "Exploring supply relationships for monazite-bearing coastal sands in Cross River.",
+      "notes": "Draws on evidence of REE-rich beach sands as a low-impact source."
+    },
+    {
+      "id": "minin-mexcon-met-016",
+      "name": "Mexcon Metals Ltd (Plateau Tin Project)",
+      "slug": "mexcon-metals-ltd-plateau-tin-project",
+      "category": "Mining Companies",
+      "type": "Junior Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.537899999999999,
+          9.1982
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://mexconmetals.com",
+      "acronym": "",
+      "valueChainRole": "Mining and concentrate production",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Tin, Niobium (Columbite-Tantalite)",
+      "currentProjects": "Developing a tin concentrate project on three concessions in the Jos Plateau region, historically mined for tin and columbite.",
+      "notes": "Part of efforts to revive Nigeria’s tin sector with modern processing."
+    },
+    {
+      "id": "minin-multiverse-017",
+      "name": "Multiverse Mining & Exploration Plc",
+      "slug": "multiverse-mining-exploration-plc",
+      "category": "Mining Companies",
+      "type": "Public Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.607899999999999,
+          9.1282
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.multiverseplc.com",
+      "acronym": "",
+      "valueChainRole": "Exploration, mining and processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Tin, Columbite, Other metallics",
+      "currentProjects": "Operates tin and columbite projects in Plateau and Nasarawa States with associated critical minerals.",
+      "notes": "One of the few Nigeria-listed mining companies with exposure to critical metals."
+    },
+    {
+      "id": "minin-multiverse-018",
+      "name": "Multiverse Mining & Exploration Plc",
+      "slug": "multiverse-mining-exploration-plc",
+      "category": "Mining Companies",
+      "type": "Public Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.1585,
+          8.530899999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.multiverseplc.com",
+      "acronym": "",
+      "valueChainRole": "Mining and processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Tin, Columbite, Other metallics",
+      "currentProjects": "Holds mineral titles in Nasarawa that include tin-columbite and associated minerals.",
+      "notes": "Links central Nigerian tin belts into formal corporate operations."
+    },
+    {
+      "id": "minin-thor-explo-019",
+      "name": "Thor Explorations – Segilola Resources Operating Ltd",
+      "slug": "thor-explorations-segilola-resources-operating-ltd",
+      "category": "Mining Companies",
+      "type": "Gold Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Osun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          4.55,
+          7.5329
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://thorexpl.com",
+      "acronym": "",
+      "valueChainRole": "Open-pit mining, processing and export of gold doré",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Operates the Segilola Gold Mine near Ilesha, Nigeria’s first commercial-scale modern gold mine.",
+      "notes": "Anchor gold producer and key reference project for Nigeria’s precious metals sector."
+    },
+    {
+      "id": "minin-tree-mines-020",
+      "name": "Tree Mines Global – Kabba-Bunu Gold Project",
+      "slug": "tree-mines-global-kabba-bunu-gold-project",
+      "category": "Mining Companies",
+      "type": "Nigerian Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.595000000000001,
+          7.6333
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://treeminesglobal.com",
+      "acronym": "",
+      "valueChainRole": "Small-scale mining and early-stage development",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Developing small-scale gold mining operations in Kabba-Bunu area under a mining lease.",
+      "notes": "Blends formal licensing with ASM integration in North-Central Nigeria."
+    },
+    {
+      "id": "minin-various-sm-021",
+      "name": "Various Small & Medium Tin/Columbite Operators (Jos Plateau Cluster)",
+      "slug": "various-small-medium-tin-columbite-operators-jos-plateau-cluster",
+      "category": "Mining Companies",
+      "type": "Multiple ASM / SMEs",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.4879,
+          9.248199999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Alluvial / hard-rock mining and primary concentration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small/Medium",
+      "mineralCommodities": "Tin, Niobium (Columbite-Tantalite)",
+      "currentProjects": "Numerous small and medium-scale operators work historic tin and columbite fields around Jos, Barkin Ladi and Riyom.",
+      "notes": "Feedstock for prospective REE recovery and tin value-addition projects."
+    },
+    {
+      "id": "minin-kursi-grou-022",
+      "name": "Kursi Group",
+      "slug": "kursi-group",
+      "category": "Mining Companies",
+      "type": "Private Mining & Mineral Investment Group",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration → Mining → Mineral Trading",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Lithium, Gemstones, Industrial Minerals",
+      "currentProjects": "Mineral exploration and ASM formalisation initiatives",
+      "notes": "Nigerian-owned mineral investment and development company"
+    },
+    {
+      "id": "minin-kaduna-min-023",
+      "name": "Kaduna Mining Development Company (KMDC)",
+      "slug": "kaduna-mining-development-company-kmdc",
+      "category": "Mining Companies",
+      "type": "State-Owned Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3488,
+          10.6164
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://nasida.na.gov.ng",
+      "acronym": "",
+      "valueChainRole": "Mining → Licensing → ASM Integration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Nickel, Lithium, Clay, Feldspar",
+      "currentProjects": "State-led mineral development and PPP mining ventures",
+      "notes": "Coordinates and promotes Kaduna State's mineral assets"
+    },
+    {
+      "id": "minin-nasarawa-i-024",
+      "name": "Nasarawa Investment & Development Agency (NASIDA)",
+      "slug": "nasarawa-investment-development-agency-nasida",
+      "category": "Mining Companies",
+      "type": "State Investment & Development Agency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lafia",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.1785,
+          8.5109
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://anrml.com",
+      "acronym": "",
+      "valueChainRole": "Investment Facilitation → PPPs → Mineral Value Chain Expansion",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Lithium, REE, Tin, Columbite, Barite",
+      "currentProjects": "Facilitating over $600m lithium & REE investments (Jiuling, Avatar, Hasetins)",
+      "notes": "Key driver of Nasarawa’s rapid critical minerals growth"
+    },
+    {
+      "id": "minin-african-na-025",
+      "name": "African Natural Resources and Mines Ltd. (ANRML)",
+      "slug": "african-natural-resources-and-mines-ltd-anrml",
+      "category": "Mining Companies",
+      "type": "Large Mining & Steel Processing Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Gujeni",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://niomco.gov.ng",
+      "acronym": "",
+      "valueChainRole": "Mining → Processing → Steel Production",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Iron Ore",
+      "currentProjects": "$600m Integrated Iron Ore & DRI Steel Plant",
+      "notes": "Nigeria’s most modern iron ore and DRI steel operation"
+    },
+    {
+      "id": "minin-national-i-026",
+      "name": "National Iron Ore Mining Company (NIOMCO), Itakpe",
+      "slug": "national-iron-ore-mining-company-niomco-itakpe",
+      "category": "Mining Companies",
+      "type": "Federal Government Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Itakpe",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.615,
+          7.8133
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://ajaokutasteel.com",
+      "acronym": "",
+      "valueChainRole": "Iron ore mining → Beneficiation → Steel feedstock",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Iron Ore",
+      "currentProjects": "Rehabilitation of Itakpe concentrator; supply to ASCL",
+      "notes": "Nigeria’s primary government-owned iron ore mine"
+    },
+    {
+      "id": "minin-ajaokuta-s-027",
+      "name": "Ajaokuta Steel Company Limited (ASCL)",
+      "slug": "ajaokuta-steel-company-limited-ascl",
+      "category": "Mining Companies",
+      "type": "Federal Government Steel Corporation",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ajaokuta",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.6850000000000005,
+          7.7433
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Steel Production → Metal Value Chain",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Steel (iron ore, limestone, coal inputs)",
+      "currentProjects": "Ongoing rehabilitation and concession reform",
+      "notes": "Nigeria’s flagship steel development complex"
+    },
+    {
+      "id": "minin-eta-zuma-g-028",
+      "name": "Eta-Zuma Group (Zuma Mining)",
+      "slug": "eta-zuma-group-zuma-mining",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.755,
+          7.6733
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.etazuma.com",
+      "acronym": "",
+      "valueChainRole": "Extraction, Processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Coal, Limestone",
+      "currentProjects": "Coal mining in Kogi",
+      "notes": "Integrated mining & power"
+    },
+    {
+      "id": "minin-african-na-029",
+      "name": "African Natural Resources & Mines Ltd",
+      "slug": "african-natural-resources-mines-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.368799999999999,
+          10.596400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.anrml.com",
+      "acronym": "",
+      "valueChainRole": "Extraction, Value Addition",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Iron Ore",
+      "currentProjects": "Kaduna Iron Ore & Steel",
+      "notes": "Integrated steel plant"
+    },
+    {
+      "id": "minin-kian-smith-030",
+      "name": "Kian Smith Refinery",
+      "slug": "kian-smith-refinery",
+      "category": "Mining Companies",
+      "type": "Processing/Refining",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Osun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          4.52,
+          7.5629
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.kiansmithtradeco.com",
+      "acronym": "",
+      "valueChainRole": "Refining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Gold refining",
+      "notes": "Lagos refinery initiative"
+    },
+    {
+      "id": "minin-multiverse-031",
+      "name": "Multiverse Mining & Exploration",
+      "slug": "multiverse-mining-exploration",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.5879,
+          9.1482
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "http://www.multiverseplc.com",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lead, Zinc, Granite",
+      "currentProjects": "Lead–Zinc projects",
+      "notes": "NSE-listed"
+    },
+    {
+      "id": "minin-symbol-min-032",
+      "name": "Symbol Mining",
+      "slug": "symbol-mining",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.7842,
+          10.3758
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://symbolmining.com.au",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Zinc, Lead",
+      "currentProjects": "Macy & Tawny Projects",
+      "notes": "Australian junior"
+    },
+    {
+      "id": "minin-dangote-mi-033",
+      "name": "Dangote Mining Division",
+      "slug": "dangote-mining-division",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.dangote.com",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Limestone, Gypsum",
+      "currentProjects": "Cement raw materials",
+      "notes": "Multiple states"
+    },
+    {
+      "id": "minin-ag-vision--034",
+      "name": "AG Vision Mining Ltd",
+      "slug": "ag-vision-mining-ltd",
+      "category": "Mining Companies",
+      "type": "Exploration",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5188,
+          10.4464
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.agvisionmining.com",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Base Metals",
+      "currentProjects": "Gold exploration",
+      "notes": "Foreign-backed"
+    },
+    {
+      "id": "minin-pw-nigeria-035",
+      "name": "PW Nigeria Ltd (PW Mining International)",
+      "slug": "pw-nigeria-ltd-pw-mining-international",
+      "category": "Mining Companies",
+      "type": "Mining Contractor",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3486,
+          9.1265
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.pwnigeria.com",
+      "acronym": "",
+      "valueChainRole": "Contract Mining",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Multi-mineral",
+      "currentProjects": "Mining civils",
+      "notes": "Regional contractor"
+    },
+    {
+      "id": "minin-cibi-niger-036",
+      "name": "CIBI Nigeria Ltd",
+      "slug": "cibi-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Quarrying",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.458799999999999,
+          10.506400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.cibi-nigeria.com",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Granite",
+      "currentProjects": "Dimension stones",
+      "notes": "Largest granite company"
+    },
+    {
+      "id": "minin-nigachem-n-037",
+      "name": "Nigachem Nigeria Ltd",
+      "slug": "nigachem-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Services",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4692,
+          6.4344
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.nigachem.com",
+      "acronym": "",
+      "valueChainRole": "Input Supplier",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Explosives",
+      "currentProjects": "Supplies blasting explosives",
+      "notes": "Major explosives manufacturer"
+    },
+    {
+      "id": "minin-red-mining-038",
+      "name": "Red Mining Company Ltd",
+      "slug": "red-mining-company-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3586,
+          9.116499999999998
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Extraction, Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Gemstones",
+      "currentProjects": "Gold exploration",
+      "notes": "Lusha-recorded company"
+    },
+    {
+      "id": "minin-greenfield-039",
+      "name": "Greenfield Metals Ltd",
+      "slug": "greenfield-metals-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Ebonyi",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          8.0437,
+          6.2349
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://greenfieldmetals.com",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lead, Zinc",
+      "currentProjects": "Lead–Zinc mining",
+      "notes": "Active in SE Nigeria"
+    },
+    {
+      "id": "minin-mosra-ener-040",
+      "name": "Mosra Enerji Ltd",
+      "slug": "mosra-enerji-ltd",
+      "category": "Mining Companies",
+      "type": "Mining & Energy",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.595000000000001,
+          7.6333
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://mosraenerji.com",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Coal",
+      "currentProjects": "Coal extraction",
+      "notes": "Major contractor"
+    },
+    {
+      "id": "minin-japaul-gol-041",
+      "name": "Japaul Gold & Ventures plc",
+      "slug": "japaul-gold-ventures-plc",
+      "category": "Mining Companies",
+      "type": "Mining/Services",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3686,
+          9.106499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://japaulgroup.com",
+      "acronym": "",
+      "valueChainRole": "Extraction, Processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Nasarawa gold",
+      "notes": "Diversified from marine to mining"
+    },
+    {
+      "id": "minin-mantrac-ni-042",
+      "name": "Mantrac Nigeria Ltd",
+      "slug": "mantrac-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Equipment Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4192,
+          6.4844
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.mantracgroup.com",
+      "acronym": "",
+      "valueChainRole": "Supply/Distribution",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Mining Equipment",
+      "currentProjects": "Equipment supply",
+      "notes": "CAT distributor"
+    },
+    {
+      "id": "minin-resource-h-043",
+      "name": "Resource House Ltd",
+      "slug": "resource-house-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3086,
+          9.1665
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small/Medium",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Gold exploration",
+      "notes": "Junior mining firm"
+    },
+    {
+      "id": "minin-echelon-mi-044",
+      "name": "Echelon Mining & Energy Ltd",
+      "slug": "echelon-mining-energy-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3786000000000005,
+          9.096499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Gold, Lithium",
+      "currentProjects": "Lithium exploratory claims",
+      "notes": "Active in North-Central"
+    },
+    {
+      "id": "minin-zuma-energ-045",
+      "name": "Zuma Energy Nigeria Ltd",
+      "slug": "zuma-energy-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Mining/Energy",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.745,
+          7.6833
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "mineralCommodities": "Coal",
+      "currentProjects": "Coal operations",
+      "notes": "Subsidiary of Zuma Group"
+    },
+    {
+      "id": "minin-rockbridge-046",
+      "name": "Rockbridge Mining Nigeria Ltd",
+      "slug": "rockbridge-mining-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Quarrying",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.397,
+          7.0778
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Granite",
+      "currentProjects": "Granite quarrying",
+      "notes": "Listed on Lusha"
+    },
+    {
+      "id": "minin-western-qu-047",
+      "name": "Western Quarry Ltd",
+      "slug": "western-quarry-ltd",
+      "category": "Mining Companies",
+      "type": "Quarrying",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.467,
+          7.0078
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Granite, Stones",
+      "currentProjects": "Construction aggregates",
+      "notes": "Active supplier"
+    },
+    {
+      "id": "minin-sbog-niger-048",
+      "name": "SBOG Nigeria Ltd",
+      "slug": "sbog-nigeria-ltd",
+      "category": "Mining Companies",
+      "type": "Mining Company",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.4586,
+          9.016499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "mineralCommodities": "Lead, Zinc",
+      "currentProjects": "Lead–Zinc",
+      "notes": "Appears in multiple directories"
+    },
+    {
+      "id": "minin-quarrymen--049",
+      "name": "Quarrymen Ltd",
+      "slug": "quarrymen-ltd",
+      "category": "Mining Companies",
+      "type": "ASM/Quarrying",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.407,
+          7.0678
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Granite",
+      "currentProjects": "Granite quarrying",
+      "notes": "Regional supplier"
+    },
+    {
+      "id": "minin-hasen-nige-050",
+      "name": "Hasen–Nigerian Mining Co.",
+      "slug": "hasen-nigerian-mining-co",
+      "category": "Mining Companies",
+      "type": "ASM",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.4388,
+          10.5264
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Gold",
+      "currentProjects": "Gold pits",
+      "notes": "Active ASM"
+    },
+    {
+      "id": "minin-zigma-expl-051",
+      "name": "Zigma Explorers",
+      "slug": "zigma-explorers",
+      "category": "Mining Companies",
+      "type": "Junior Mining",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.2685,
+          8.4209
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Exploration",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Lithium, Gold",
+      "currentProjects": "Lithium exploration",
+      "notes": "Active in Nasarawa lithium belts"
+    },
+    {
+      "id": "minin-global-exp-052",
+      "name": "Global Exploration & Mining Services",
+      "slug": "global-exploration-mining-services",
+      "category": "Mining Companies",
+      "type": "Mining Services",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3386000000000005,
+          9.1365
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Exploration Support",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Multi-mineral",
+      "currentProjects": "Lithology/geochem support",
+      "notes": "Provides exploration logistics"
+    },
+    {
+      "id": "minin-brightway--053",
+      "name": "Brightway Mining Ltd",
+      "slug": "brightway-mining-ltd",
+      "category": "Mining Companies",
+      "type": "ASM",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6078,
+          9.9208
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Gold",
+      "currentProjects": "ASM gold",
+      "notes": "Informal operations"
+    },
+    {
+      "id": "minin-amachy-min-054",
+      "name": "Amachy Mining Ltd",
+      "slug": "amachy-mining-ltd",
+      "category": "Mining Companies",
+      "type": "ASM",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.5979,
+          9.1382
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Gemstones",
+      "currentProjects": "Tourmaline, Aquamarine",
+      "notes": "Plateau gemstone belts"
+    },
+    {
+      "id": "minin-kabba-mine-055",
+      "name": "Kabba Mines Ltd",
+      "slug": "kabba-mines-ltd",
+      "category": "Mining Companies",
+      "type": "ASM",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.6450000000000005,
+          7.7833
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "—",
+      "acronym": "",
+      "valueChainRole": "Extraction",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Small",
+      "mineralCommodities": "Tantalite, Gold",
+      "currentProjects": "Tantalite ASM",
+      "notes": "Located in Kabba-Bunu"
+    }
+  ]
+}

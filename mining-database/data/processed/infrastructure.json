@@ -1,0 +1,462 @@
+{
+  "category": "Infrastructure",
+  "count": 13,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "infra-shandong-x-001",
+      "name": "Shandong Xinhai Mining Technology & Equipment Inc.",
+      "slug": "shandong-xinhai-mining-technology-equipment-inc",
+      "category": "Infrastructure",
+      "type": "Mining Equipment & EPC Infrastructure",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.xinhaimining.com",
+      "acronym": "",
+      "valueChainRole": "Mineral Processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Processing plants, flotation systems, crushing/milling machinery",
+      "currentProjects": "Expanding EPC presence in Nigeria's lithium & gold sector"
+    },
+    {
+      "id": "infra-bristol-sc-002",
+      "name": "Bristol Scientific Nigeria Ltd",
+      "slug": "bristol-scientific-nigeria-ltd",
+      "category": "Infrastructure",
+      "type": "Mining Laboratory & Scientific Equipment Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lagos",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6378,
+          9.8908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Laboratory Analysis",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "equipment": "Assay instruments, geochemistry tools, scientific equipment",
+      "currentProjects": "Supporting various exploration campaigns in Nigeria"
+    },
+    {
+      "id": "infra-henan-hong-003",
+      "name": "Henan Hongxing Mining Machinery Co.",
+      "slug": "henan-hongxing-mining-machinery-co",
+      "category": "Infrastructure",
+      "type": "Mining Machinery Manufacturer",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Henan",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.hxjq.com",
+      "acronym": "",
+      "valueChainRole": "Mining \nCrushing\nProcessing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Crushers, ball mills, rotary kilns, beneficiation lines",
+      "currentProjects": "Equipment used in tin, gold, quarrying & lithium operations in Nigeria"
+    },
+    {
+      "id": "infra-liaoning-v-004",
+      "name": "Liaoning Vasoar Co., Ltd",
+      "slug": "liaoning-vasoar-co-ltd",
+      "category": "Infrastructure",
+      "type": "Processing Chemicals & Reagents Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Liaoning",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Processing and Beneficiation",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "equipment": "Flotation chemicals & reagents",
+      "currentProjects": "Active in REE, lithium & columbite beneficiation"
+    },
+    {
+      "id": "infra-xugong-nig-005",
+      "name": "Xugong Nigeria Company Limited (XCMG Nigeria)",
+      "slug": "xugong-nigeria-company-limited-xcmg-nigeria",
+      "category": "Infrastructure",
+      "type": "Heavy Mining Equipment Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lagos",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6478,
+          9.880799999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Mining  and Infrastructure Equipment",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Excavators, bulldozers, haulage trucks",
+      "currentProjects": "Supplies machinery to lithium, quarry & coal miners in Nigeria"
+    },
+    {
+      "id": "infra-paranthama-006",
+      "name": "Paranthaman Exporters (PMT Machines)",
+      "slug": "paranthaman-exporters-pmt-machines",
+      "category": "Infrastructure",
+      "type": "Gem & Mineral Processing Machinery Manufacturer",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Tamil Nadu",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://paranthamanexporters.com",
+      "acronym": "",
+      "valueChainRole": "Processing and  ASM Support",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "equipment": "Grinding mills, washing plants, gem processing machinery",
+      "currentProjects": "Supports gold, precious stones & pegmatite processing"
+    },
+    {
+      "id": "infra-hebei-jinc-007",
+      "name": "Hebei Jinchangsheng Chemical Technology Co.",
+      "slug": "hebei-jinchangsheng-chemical-technology-co",
+      "category": "Infrastructure",
+      "type": "Processing Chemicals Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Hebei",
+        "state": "Unknown",
+        "lga": "",
+        "zone": "Unknown",
+        "coordinates": [
+          7.5,
+          9.0
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Beneficiation and  Processing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "equipment": "Flotation chemicals & mineral reagents",
+      "currentProjects": "Active in Nigeria via Lagos import channels"
+    },
+    {
+      "id": "infra-rapidlink--008",
+      "name": "Rapidlink Resources Limited",
+      "slug": "rapidlink-resources-limited",
+      "category": "Infrastructure",
+      "type": "Mining Equipment & Logistics Supplier",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6578,
+          9.8708
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Exploration, Processing  Logistics",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Medium",
+      "equipment": "Processing machinery, testing equipment, logistics",
+      "currentProjects": "Supports lithium, gold & REE exploration companies"
+    },
+    {
+      "id": "infra-mantrac-ca-009",
+      "name": "Mantrac (Caterpillar)",
+      "slug": "mantrac-caterpillar",
+      "category": "Infrastructure",
+      "type": "Heavy Equipment Distributor",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3092,
+          6.5944
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.mantracgroup.com",
+      "acronym": "",
+      "valueChainRole": "Mining \nHaulage & Fleet",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Caterpillar mining trucks, bulldozers, loaders",
+      "currentProjects": "Widely used in quarrying, limestone & coal mining"
+    },
+    {
+      "id": "infra-julius-ber-010",
+      "name": "Julius Berger Mining Division",
+      "slug": "julius-berger-mining-division",
+      "category": "Infrastructure",
+      "type": "Mining & Infrastructure Contractor",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5978,
+          9.9308
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.julius-berger.com",
+      "acronym": "",
+      "valueChainRole": "Infrastructure\n Mine Development",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Quarry equipment, mine development, civil works",
+      "currentProjects": "Active in aggregates & mine access roads"
+    },
+    {
+      "id": "infra-atlas-copc-011",
+      "name": "Atlas Copco Nigeria",
+      "slug": "atlas-copco-nigeria",
+      "category": "Infrastructure",
+      "type": "Drilling & Mining Equipment",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.4492,
+          6.4544
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.atlascopco.com",
+      "acronym": "",
+      "valueChainRole": "Exploration \nDrilling Services",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Exploration rigs, compressors, drilling consumables",
+      "currentProjects": "Used across gold, lithium & tin exploration"
+    },
+    {
+      "id": "infra-sandvik-mi-012",
+      "name": "Sandvik Mining & Rock Solutions",
+      "slug": "sandvik-mining-rock-solutions",
+      "category": "Infrastructure",
+      "type": "Mining Machinery",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.537800000000001,
+          9.9908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.rocktechnology.sandvik",
+      "acronym": "",
+      "valueChainRole": "Mining \nProcessing/Crushing",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Crushers, drill rigs, liners",
+      "currentProjects": "Used in tin, columbite & quarry operations"
+    },
+    {
+      "id": "infra-boart-long-013",
+      "name": "Boart Longyear",
+      "slug": "boart-longyear",
+      "category": "Infrastructure",
+      "type": "Exploration Drilling Equipment",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.6078,
+          9.9208
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "https://www.boartlongyear.com",
+      "acronym": "",
+      "valueChainRole": "Exploration Core Drilling",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "companySize": "Large",
+      "equipment": "Core drilling rigs, diamond bits",
+      "currentProjects": "Used in advanced lithium, gold & REE drilling"
+    }
+  ]
+}

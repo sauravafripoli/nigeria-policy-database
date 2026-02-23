@@ -1,0 +1,2183 @@
+{
+  "category": "Civil Society",
+  "count": 68,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "civil-network-fo-001",
+      "name": "Network for Empowerment and Development Initiative (NEDIN)",
+      "slug": "network-for-empowerment-and-development-initiative-nedin",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.562000000000001,
+          12.0322
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-kaf-care-f-002",
+      "name": "KAF Care Foundation",
+      "slug": "kaf-care-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.632,
+          11.962200000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-inter-fait-003",
+      "name": "Inter Faith Peace Foundation",
+      "slug": "inter-faith-peace-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.502,
+          12.0922
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-african-ce-004",
+      "name": "African Centre for Innovative Research and Development (AFRI-CIRD)",
+      "slug": "african-centre-for-innovative-research-and-development-afri-cird",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.572000000000001,
+          12.0222
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-wwodi-gcaj-005",
+      "name": "Wwodi/GCAJ",
+      "slug": "wwodi-gcaj",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.642000000000001,
+          11.9522
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-campaign-f-006",
+      "name": "Campaign for Democracy",
+      "slug": "campaign-for-democracy",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.512,
+          12.0822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-women-adva-007",
+      "name": "Women Advancement Initiative (WAI)",
+      "slug": "women-advancement-initiative-wai",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.582,
+          12.0122
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-centre-for-008",
+      "name": "Centre for Awareness on Justice and Accountability",
+      "slug": "centre-for-awareness-on-justice-and-accountability",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.652000000000001,
+          11.9422
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-centre-for-009",
+      "name": "Centre for Research and Democratic Studies",
+      "slug": "centre-for-research-and-democratic-studies",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.522,
+          12.0722
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-women-in-m-010",
+      "name": "Women in Media",
+      "slug": "women-in-media",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.592,
+          12.0022
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-tdii-011",
+      "name": "TDII",
+      "slug": "tdii",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.662,
+          11.9322
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-nigerian-u-012",
+      "name": "Nigerian Union of Journalists",
+      "slug": "nigerian-union-of-journalists",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.532,
+          12.0622
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-kano-civil-013",
+      "name": "Kano Civil Society Forum",
+      "slug": "kano-civil-society-forum",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.602,
+          11.9922
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-voice-agai-014",
+      "name": "Voice Against Corruption in Nigeria",
+      "slug": "voice-against-corruption-in-nigeria",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.672,
+          11.9222
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-radio-kano-015",
+      "name": "Radio Kano FM",
+      "slug": "radio-kano-fm",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.542,
+          12.052200000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-jonapwd-016",
+      "name": "JONAPWD",
+      "slug": "jonapwd",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.612,
+          11.9822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-budget-tra-017",
+      "name": "Budget Tracking Group",
+      "slug": "budget-tracking-group",
+      "category": "Civil Society",
+      "type": "Budget Transparency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.682,
+          11.9122
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-time-base--018",
+      "name": "Time Base TV",
+      "slug": "time-base-tv",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.552000000000001,
+          12.0422
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-cefsan-019",
+      "name": "CEFSAN",
+      "slug": "cefsan",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.622,
+          11.9722
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-nba-020",
+      "name": "NBA",
+      "slug": "nba",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.492,
+          11.9022
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-vohedi-021",
+      "name": "VOHEDI",
+      "slug": "vohedi",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.562000000000001,
+          12.0322
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-fida-022",
+      "name": "FIDA",
+      "slug": "fida",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.632,
+          11.962200000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-democratic-023",
+      "name": "Democratic Action Group",
+      "slug": "democratic-action-group",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.502,
+          12.0922
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-sophiessam-024",
+      "name": "SOPHIESSAM Foundation",
+      "slug": "sophiessam-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.572000000000001,
+          12.0222
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-wazobia-in-025",
+      "name": "Wazobia International foundation",
+      "slug": "wazobia-international-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.642000000000001,
+          11.9522
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-uad-026",
+      "name": "UAD",
+      "slug": "uad",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.512,
+          12.0822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-cislac-027",
+      "name": "CISLAC",
+      "slug": "cislac",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.582,
+          12.0122
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-kaycad-028",
+      "name": "KAYCAD",
+      "slug": "kaycad",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.652000000000001,
+          11.9422
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-leads-nige-029",
+      "name": "LEADS-Nigeria, Kaduna",
+      "slug": "leads-nigeria-kaduna",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.368799999999999,
+          10.596400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-youth-agai-030",
+      "name": "Youth Against Corruption",
+      "slug": "youth-against-corruption",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.4388,
+          10.5264
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-citizens-r-031",
+      "name": "Citizens Rights Initiative, Kaduna",
+      "slug": "citizens-rights-initiative-kaduna",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5088,
+          10.4564
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-gender-awa-032",
+      "name": "Gender Awareness Trust",
+      "slug": "gender-awareness-trust",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3788,
+          10.586400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-youth-init-033",
+      "name": "Youth Initiative for development",
+      "slug": "youth-initiative-for-development",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.448799999999999,
+          10.5164
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-campaign-f-034",
+      "name": "Campaign for Democracy",
+      "slug": "campaign-for-democracy",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5188,
+          10.4464
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-vision-tru-035",
+      "name": "Vision Trust Foundation",
+      "slug": "vision-trust-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3888,
+          10.576400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-yac-036",
+      "name": "YAC",
+      "slug": "yac",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.458799999999999,
+          10.506400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-bridge-tha-037",
+      "name": "Bridge that Gap Hope for Africa",
+      "slug": "bridge-that-gap-hope-for-africa",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5287999999999995,
+          10.4364
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-follow-tax-038",
+      "name": "Follow Taxes",
+      "slug": "follow-taxes",
+      "category": "Civil Society",
+      "type": "Budget Transparency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3988,
+          10.5664
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-six-measur-039",
+      "name": "Six Measures Foundation",
+      "slug": "six-measures-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.4688,
+          10.496400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-connecting-040",
+      "name": "Connecting Voices Initiative",
+      "slug": "connecting-voices-initiative",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3388,
+          10.426400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-community--041",
+      "name": "Community Initiative For Advocacy",
+      "slug": "community-initiative-for-advocacy",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5877,
+          13.0208
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-murna-foun-042",
+      "name": "Murna Foundation",
+      "slug": "murna-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6577,
+          12.950800000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-kttv-043",
+      "name": "KTTV",
+      "slug": "kttv",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5277,
+          13.0808
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-progress-a-044",
+      "name": "Progress and Development Initiative",
+      "slug": "progress-and-development-initiative",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.597700000000001,
+          13.0108
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-coalition--045",
+      "name": "Coalition of CSOs in Katsina state",
+      "slug": "coalition-of-csos-in-katsina-state",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6677,
+          12.9408
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-daurawa-de-046",
+      "name": "Daurawa Development Group",
+      "slug": "daurawa-development-group",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5377,
+          13.0708
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-katsina-st-047",
+      "name": "Katsina State Budget Awareness Initiative",
+      "slug": "katsina-state-budget-awareness-initiative",
+      "category": "Civil Society",
+      "type": "Budget Transparency",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6077,
+          13.0008
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-gender-and-048",
+      "name": "Gender and Social Inclusion",
+      "slug": "gender-and-social-inclusion",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6777,
+          12.9308
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-sustainabl-049",
+      "name": "Sustainable Development Initiative",
+      "slug": "sustainable-development-initiative",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5477,
+          13.0608
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-daily-trus-050",
+      "name": "Daily Trust",
+      "slug": "daily-trust",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6177,
+          12.9908
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-padeap-051",
+      "name": "PADEAP",
+      "slug": "padeap",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.6877,
+          12.9208
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-katsina-st-052",
+      "name": "Katsina state Radio",
+      "slug": "katsina-state-radio",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5577000000000005,
+          13.0508
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-health-dev-053",
+      "name": "Health Dev. Foundation",
+      "slug": "health-dev-foundation",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.5716,
+          12.2184
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-project-mo-054",
+      "name": "Project Monitoring Partners",
+      "slug": "project-monitoring-partners",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.6416,
+          12.1484
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-organizati-055",
+      "name": "Organization for Social Justice and Community Development",
+      "slug": "organization-for-social-justice-and-community-development",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.5116,
+          12.278400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-nta-056",
+      "name": "NTA",
+      "slug": "nta",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.5816,
+          12.208400000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-nawoj-057",
+      "name": "NAWOJ",
+      "slug": "nawoj",
+      "category": "Civil Society",
+      "type": "Host Community",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.314,
+          12.0323
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-m-a-n-zamf-058",
+      "name": "M.A.N Zamfara",
+      "slug": "m-a-n-zamfara",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.184,
+          12.162299999999998
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-cencex-059",
+      "name": "CENCEX",
+      "slug": "cencex",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.2540000000000004,
+          12.0923
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-zamfara-st-060",
+      "name": "Zamfara State Coalition of NGOs",
+      "slug": "zamfara-state-coalition-of-ngos",
+      "category": "Civil Society",
+      "type": "Extractive Governance",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.1240000000000006,
+          12.0223
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-hcomdi-061",
+      "name": "HCOMDI",
+      "slug": "hcomdi",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Sokoto",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          5.2039,
+          13.0922
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-jonapwd-062",
+      "name": "JONAPWD",
+      "slug": "jonapwd",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Sokoto",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          5.2739,
+          13.022200000000002
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-centre-for-063",
+      "name": "Centre for Social Advocacy",
+      "slug": "centre-for-social-advocacy",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Sokoto",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          5.1439,
+          13.1522
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-community--064",
+      "name": "Community Centre for Development",
+      "slug": "community-centre-for-development",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Sokoto",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          5.213900000000001,
+          13.0822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-dsi-birnin-065",
+      "name": "DSI Birnin Kebbi",
+      "slug": "dsi-birnin-kebbi",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.2489,
+          11.446499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-m-a-n-kebb-066",
+      "name": "M.A.N Kebbi",
+      "slug": "m-a-n-kebbi",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.1189,
+          11.5765
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-nagarta-co-067",
+      "name": "Nagarta Community Health and Gender Education Initiative",
+      "slug": "nagarta-community-health-and-gender-education-initiative",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.1889,
+          11.506499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    },
+    {
+      "id": "civil-child-righ-068",
+      "name": "Child Right Brigade",
+      "slug": "child-right-brigade",
+      "category": "Civil Society",
+      "type": "Social Justice",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.2589,
+          11.436499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29"
+    }
+  ]
+}

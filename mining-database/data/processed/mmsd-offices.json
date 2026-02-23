@@ -1,0 +1,1234 @@
+{
+  "category": "MMSD Offices",
+  "count": 37,
+  "lastUpdated": "2026-01-29",
+  "stakeholders": [
+    {
+      "id": "mmsd--north-cent-001",
+      "name": "North-Central Zonal Mines Office",
+      "slug": "north-central-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD Zonal Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jos",
+        "state": "Plateau",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          9.4879,
+          9.248199999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "Regulation & Compliance Enforcement\n\nMine Health & Safety Oversight\n\nEnvironmental Monitoring\n\nProduction Verification & Data Collection\n\nField Operations / Day-to-Day Supervision\n\nThese offices implement federal mining regulations directly at state level.",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for North-Central oversight",
+      "officeAddress": "No. 2, Club Road. Jos, Plateau State"
+    },
+    {
+      "id": "mmsd--north-east-002",
+      "name": "North-East Zonal Mines Office",
+      "slug": "north-east-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD Zonal Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Maiduguri",
+        "state": "Borno",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          13.191899999999999,
+          11.844600000000002
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for North-East oversight",
+      "officeAddress": "No. 2, Nursery Rd. Beside Lake Chad Hotel, Maiduguri. Borno State"
+    },
+    {
+      "id": "mmsd--north-west-003",
+      "name": "North-West Zonal Mines Office",
+      "slug": "north-west-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD Zonal Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kaduna",
+        "state": "Kaduna",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.3488,
+          10.6164
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for North-West oversight",
+      "officeAddress": "No. 1 & 2, Aliu Makama Road. Barnawa, Kaduna State"
+    },
+    {
+      "id": "mmsd--south-west-004",
+      "name": "South-West Zonal Mines Office",
+      "slug": "south-west-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD Zonal Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ibadan",
+        "state": "Oyo",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.5987,
+          8.1774
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for South-West oversight",
+      "officeAddress": "Federal Sec. Complex, Ikolaba P.M.B 5028, Ibadan. Oyo State."
+    },
+    {
+      "id": "mmsd--south-sout-005",
+      "name": "South-South Zonal Mines Office",
+      "slug": "south-south-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD Zonal Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Benin City",
+        "state": "Edo",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          5.9848,
+          6.5845
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for South-South oversight",
+      "officeAddress": "Federal Sec. Complex, Auchi-Benin Road, Aduwawa, Benin city, Edo State."
+    },
+    {
+      "id": "mmsd--south-east-006",
+      "name": "South-East Zonal Mines Office",
+      "slug": "south-east-zonal-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Enugu",
+        "state": "Enugu",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          7.358,
+          6.6124
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "notes": "HQ for South-East oversight",
+      "officeAddress": "No. 11, Leck Avenue, State Sec. Enugu, Enugu State."
+    },
+    {
+      "id": "mmsd--adamawa-mi-007",
+      "name": "Adamawa Mines Office",
+      "slug": "adamawa-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Yola",
+        "state": "Adamawa",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          12.3884,
+          9.3365
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Yola road, Yola, Adamawa State."
+    },
+    {
+      "id": "mmsd--akwa-ibom--008",
+      "name": "Akwa Ibom Mines Office",
+      "slug": "akwa-ibom-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Uyo",
+        "state": "Akwa Ibom",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          7.9136999999999995,
+          4.845700000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Abak Road, Uyo, Akwa Ibom State."
+    },
+    {
+      "id": "mmsd--abia-mines-009",
+      "name": "Abia Mines Office",
+      "slug": "abia-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Umuahia",
+        "state": "Abia",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          7.4548,
+          5.5227
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Plot 55 Government Station Layout, Ehimiri, Umuahia, Abia State"
+    },
+    {
+      "id": "mmsd--anambra-mi-010",
+      "name": "Anambra Mines Office",
+      "slug": "anambra-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Awka",
+        "state": "Anambra",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          6.937,
+          6.2209
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 203, Zip Avenue, Amawbia Awka South, Opposite St. Augustine Anglican Church Umuokpu, Awka, Anambra State"
+    },
+    {
+      "id": "mmsd--bauchi-min-011",
+      "name": "Bauchi Mines Office",
+      "slug": "bauchi-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Bauchi",
+        "state": "Bauchi",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          9.914200000000001,
+          10.2458
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "3rd floor, Federal Sec. Complex, P.M.B 0173, Bauchi, Bauchi State"
+    },
+    {
+      "id": "mmsd--bayelsa-mi-012",
+      "name": "Bayelsa Mines Office",
+      "slug": "bayelsa-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Yenagoa",
+        "state": "Bayelsa",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          6.0099,
+          4.831899999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Otiotio Road, Yenezuegene No. BGIS 692 Yanagoa, Bayelsa State"
+    },
+    {
+      "id": "mmsd--benue-mine-013",
+      "name": "Benue Mines Office",
+      "slug": "benue-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Makurdi",
+        "state": "Benue",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.7523,
+          7.3264000000000005
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Makurdi. Benue State."
+    },
+    {
+      "id": "mmsd--cross-rive-014",
+      "name": "Cross River Mines Office",
+      "slug": "cross-river-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Calabar",
+        "state": "Cross River",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          8.6781,
+          5.7938
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, P.M.B 1060, Calabar. Cross River State."
+    },
+    {
+      "id": "mmsd--delta-mine-015",
+      "name": "Delta Mines Office",
+      "slug": "delta-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Asaba",
+        "state": "Delta",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          5.8654,
+          5.731199999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Fed. Sec Complex, Okpnama Road, Asaba, Delta State"
+    },
+    {
+      "id": "mmsd--ebonyi-min-016",
+      "name": "Ebonyi Mines Office",
+      "slug": "ebonyi-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abakaliki",
+        "state": "Ebonyi",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          8.0337,
+          6.2449
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 3, Nwaele Street, GRA By CBN Office, Abakaliki, Ebonyi State."
+    },
+    {
+      "id": "mmsd--ekiti-mine-017",
+      "name": "Ekiti Mines Office",
+      "slug": "ekiti-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ado-Ekiti",
+        "state": "Ekiti",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.401,
+          7.6290000000000004
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Block 11/12, Ayo Fayose Housing Estate, Afao Rd. Ado Ekiti, Ekiti State."
+    },
+    {
+      "id": "mmsd--fct-mines--018",
+      "name": "FCT Mines Office",
+      "slug": "fct-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          7.3586,
+          9.116499999999998
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 10 Lola Close, Off Luanda Crescent, Behind Ministry of Mines and Steel Dev. Complex, FCT, Abuja"
+    },
+    {
+      "id": "mmsd--gombe-mine-019",
+      "name": "Gombe Mines Office",
+      "slug": "gombe-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Gombe",
+        "state": "Gombe",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          11.197899999999999,
+          10.2597
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Secretariat Biu Rd. (Beside PHCN Pantami undertaking Office) Gombe. Gombe State."
+    },
+    {
+      "id": "mmsd--imo-mines--020",
+      "name": "Imo Mines Office",
+      "slug": "imo-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Owerri",
+        "state": "Imo",
+        "lga": "",
+        "zone": "South East",
+        "coordinates": [
+          6.9588,
+          5.472
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, PortHarcourt Express way, Owerri, Imo State."
+    },
+    {
+      "id": "mmsd--jigawa-min-021",
+      "name": "Jigawa Mines Office",
+      "slug": "jigawa-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Dutse",
+        "state": "Jigawa",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          9.531600000000001,
+          12.2584
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Dutse. Jigawa State."
+    },
+    {
+      "id": "mmsd--kano-mines-022",
+      "name": "Kano Mines Office",
+      "slug": "kano-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Kano",
+        "state": "Kano",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          8.632,
+          11.962200000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 2 Zaria Rd. Beside Unity Bank H/Qtrs. Kano. Kano State."
+    },
+    {
+      "id": "mmsd--katsina-mi-023",
+      "name": "Katsina Mines Office",
+      "slug": "katsina-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Katsina",
+        "state": "Katsina",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          7.5277,
+          13.0808
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex. Katsina. Katsina State."
+    },
+    {
+      "id": "mmsd--kebbi-mine-024",
+      "name": "Kebbi Mines Office",
+      "slug": "kebbi-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Birnin Kebbi",
+        "state": "Kebbi",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          4.1789000000000005,
+          11.516499999999999
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "C/o Kebbi State Ministry of Environment Haliru Audu Secretariat Brinin Kebbi. Kebbi State"
+    },
+    {
+      "id": "mmsd--kogi-mines-025",
+      "name": "Kogi Mines Office",
+      "slug": "kogi-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lokoja",
+        "state": "Kogi",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          6.745,
+          7.6833
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 9 Sam Akoji Avenue, Lokongoma, Phase 2 Lokoja, Kogi State"
+    },
+    {
+      "id": "mmsd--kwara-mine-026",
+      "name": "Kwara Mines Office",
+      "slug": "kwara-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ilorin",
+        "state": "Kwara",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          4.2989999999999995,
+          9.047
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Secretariat Complex, Fate Rd., Ilorin. Kwara State."
+    },
+    {
+      "id": "mmsd--lagos-mine-027",
+      "name": "Lagos Mines Office",
+      "slug": "lagos-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Ikeja",
+        "state": "Lagos",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.3692,
+          6.5344
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "6th Floor, Glass house, Fed. Min. of Works complex, Moloney Street, Lagos State."
+    },
+    {
+      "id": "mmsd--nasarawa-m-028",
+      "name": "Nasarawa Mines Office",
+      "slug": "nasarawa-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Lafia",
+        "state": "Nasarawa",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          8.2585,
+          8.4309
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "54, Jos Road, P.M.B .99, Lafia. Nasarawa State"
+    },
+    {
+      "id": "mmsd--niger-mine-029",
+      "name": "Niger Mines Office",
+      "slug": "niger-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Minna",
+        "state": "Niger",
+        "lga": "",
+        "zone": "North Central",
+        "coordinates": [
+          5.5278,
+          10.0008
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, P.M.B. 172 Minna. Niger State."
+    },
+    {
+      "id": "mmsd--ogun-mines-030",
+      "name": "Ogun Mines Office",
+      "slug": "ogun-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Abeokuta",
+        "state": "Ogun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          3.477,
+          6.9978
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "4th Floor Room 4.16, Federal Secretariat Complex, Oke-Mosan, Abeokuta, Ogun State"
+    },
+    {
+      "id": "mmsd--ondo-mines-031",
+      "name": "Ondo Mines Office",
+      "slug": "ondo-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Akure",
+        "state": "Ondo",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          5.2178,
+          6.8449
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Igbatoro Rd. Akure, Ondo State."
+    },
+    {
+      "id": "mmsd--osun-mines-032",
+      "name": "Osun Mines Office",
+      "slug": "osun-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Osogbo",
+        "state": "Osun",
+        "lga": "",
+        "zone": "South West",
+        "coordinates": [
+          4.46,
+          7.6229
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Km 7, New Ikirun Rd., Ota-Efun, Oshogbo. Osun State."
+    },
+    {
+      "id": "mmsd--rivers-min-033",
+      "name": "Rivers Mines Office",
+      "slug": "rivers-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Port Harcourt",
+        "state": "Rivers",
+        "lga": "",
+        "zone": "South South",
+        "coordinates": [
+          6.9215,
+          4.8296
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Aba Road. Port Harcourt, Rivers State"
+    },
+    {
+      "id": "mmsd--sokoto-min-034",
+      "name": "Sokoto Mines Office",
+      "slug": "sokoto-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Sokoto",
+        "state": "Sokoto",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          5.3139,
+          12.9822
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 4 Abdulrahman Alzaid Road, Sokoto, Sokoto State."
+    },
+    {
+      "id": "mmsd--taraba-min-035",
+      "name": "Taraba Mines Office",
+      "slug": "taraba-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Jalingo",
+        "state": "Taraba",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          10.723799999999999,
+          8.049900000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "No. 54 Donga Road, Jalingo, Taraba State."
+    },
+    {
+      "id": "mmsd--yobe-mines-036",
+      "name": "Yobe Mines Office",
+      "slug": "yobe-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Damaturu",
+        "state": "Yobe",
+        "lga": "",
+        "zone": "North East",
+        "coordinates": [
+          11.985999999999999,
+          12.273900000000001
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Federal Sec. Complex, Damaturu. Yobe State"
+    },
+    {
+      "id": "mmsd--zamfara-mi-037",
+      "name": "Zamfara Mines Office",
+      "slug": "zamfara-mines-office",
+      "category": "MMSD Offices",
+      "type": "MMSD State Office",
+      "contact": {
+        "person": "",
+        "position": "",
+        "email": "",
+        "phone": "",
+        "address": ""
+      },
+      "location": {
+        "city": "Gusau",
+        "state": "Zamfara",
+        "lga": "",
+        "zone": "North West",
+        "coordinates": [
+          6.314,
+          12.0323
+        ],
+        "coordinateType": "centroid"
+      },
+      "description": "",
+      "website": "",
+      "acronym": "",
+      "valueChainRole": "",
+      "jurisdiction": "",
+      "influenceLevel": "",
+      "dateAdded": "2026-01-29",
+      "officeAddress": "Block G2, Commissioner Quarters, Gusau-Sokoto Bypass, Gusau, Zamfara State."
+    }
+  ]
+}
