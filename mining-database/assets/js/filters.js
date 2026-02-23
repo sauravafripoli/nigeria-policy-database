@@ -254,7 +254,44 @@ function exportToCSV() {
         return;
     }
     
-    // Create CSV content
+    // Get current date and time
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    const timeStr = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+    
+    // Build CSV with APRI branding header
+    let csv = '';
+    
+    // === HEADER SECTION ===
+    csv += '"AFRICA POLICY RESEARCH INSTITUTE (APRI)"\n';
+    csv += '"Nigeria Mining Stakeholder Database"\n';
+    csv += '"\n';
+    csv += `"Report Generated: ${dateStr} at ${timeStr}"\n`;
+    csv += `"Total Records: ${data.length} stakeholders"\n`;
+    csv += `"Website: https://apri.africa"\n`;
+    csv += `"Contact: info@apri.africa"\n`;
+    csv += '"\n';
+    
+    // Active filters info
+    const activeFiltersList = [];
+    if (activeFilters.search) activeFiltersList.push(`Search: "${activeFilters.search}"`);
+    if (activeFilters.state !== 'all') activeFiltersList.push(`State: ${activeFilters.state}`);
+    if (activeFilters.categories.length > 0) activeFiltersList.push(`Categories: ${activeFilters.categories.join(', ')}`);
+    if (activeFilters.zones.length > 0) activeFiltersList.push(`Zones: ${activeFilters.zones.join(', ')}`);
+    
+    if (activeFiltersList.length > 0) {
+        csv += '"Active Filters:"\n';
+        activeFiltersList.forEach(filter => {
+            csv += `"  - ${filter}"\n`;
+        });
+        csv += '"\n';
+    }
+    
+    csv += '"\n';
+    csv += '"==========================================="\n';
+    csv += '"\n';
+    
+    // === DATA SECTION ===
     const headers = [
         'Name',
         'Category',
@@ -271,7 +308,7 @@ function exportToCSV() {
         'Description'
     ];
     
-    let csv = headers.join(',') + '\n';
+    csv += headers.join(',') + '\n';
     
     data.forEach(s => {
         const row = [
@@ -292,20 +329,39 @@ function exportToCSV() {
         csv += row.join(',') + '\n';
     });
     
+    // === FOOTER SECTION ===
+    csv += '\n';
+    csv += '"==========================================="\n';
+    csv += '"\n';
+    csv += '"COPYRIGHT & TERMS OF USE"\n';
+    csv += `"© ${now.getFullYear()} Africa Policy Research Institute (APRI). All rights reserved."\n`;
+    csv += '"\n';
+    csv += '"This data is provided for research and informational purposes only."\n';
+    csv += '"Redistribution or commercial use requires written permission from APRI."\n';
+    csv += '"\n';
+    csv += '"For inquiries, partnerships, or data licensing:"\n';
+    csv += '"  Email: info@apri.africa"\n';
+    csv += '"  Website: https://apri.africa"\n';
+    csv += '"  Phone: +234 XXX XXX XXXX"\n';
+    csv += '"\n';
+    csv += '"Data Source: Nigeria Mining Stakeholder Database"\n';
+    csv += '"Maintained by: Africa Policy Research Institute"\n';
+    csv += `"Last Updated: ${dateStr}"\n`;
+    
     // Download CSV
     const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement('a');
     const url = URL.createObjectURL(blob);
     
     link.setAttribute('href', url);
-    link.setAttribute('download', `mining-stakeholders-${new Date().toISOString().split('T')[0]}.csv`);
+    link.setAttribute('download', `APRI-Mining-Stakeholders-${now.toISOString().split('T')[0]}.csv`);
     link.style.visibility = 'hidden';
     
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
     
-    console.log(`Exported ${data.length} records`);
+    console.log(`Exported ${data.length} records with APRI branding`);
 }
 
 // Utility: Debounce function
