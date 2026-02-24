@@ -106,11 +106,13 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
         </a>
     </div>
     
-    <!-- Policy Database (Coming Soon) -->
-    <div class="feature-card" style="opacity: 0.6;">
+    <!-- Policy Database -->
+    <div class="feature-card">
         <h3>📋 Policy Database</h3>
         <p>Comprehensive collection of mining policies, regulations, and frameworks governing Nigeria's mineral sector.</p>
-        <span style="color: #9ca3af; font-size: 14px; margin-top: 20px; display: inline-block;">Coming Soon</span>
+        <a href="<?php get_site_url(); ?>index.php?id=policies" class="btn-primary" style="margin-top: 20px; padding: 10px 20px; font-size: 14px;">
+            View Policies
+        </a>
     </div>
     
     <!-- Analytics (Coming Soon) -->

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generatedAt": "2026-02-24T16:07:31.096901",
+    "totalPolicies": 11
+  },
+  "statistics": {
+    "byFamily": {
+      "Uncategorized": 11
+    },
+    "byType": {
+      "Legal Framework": 1,
+      "Regulatory": 1,
+      "Policy": 1,
+      "Strategic Roadmap": 1,
+      "Government Project": 1,
+      "Uncategorized": 6
+    },
+    "byYear": {},
+    "byStatus": {
+      "In force": 7,
+      "Active": 2,
+      "Active/developing": 1,
+      "Required for large-scale mining": 1
+    },
+    "byJurisdiction": {
+      "Unknown": 11
+    },
+    "byStakeholder": {
+      "MCO": 4,
+      "MMSD": 7,
+      "NESREA": 2,
+      "NGSA": 4,
+      "NEITI": 1
+    },
+    "totalPolicies": 11,
+    "policiesWithStakeholders": 9
+  }
+}

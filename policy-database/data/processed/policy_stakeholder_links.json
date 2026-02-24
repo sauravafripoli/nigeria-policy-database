@@ -1,0 +1,93 @@
+{
+    "stakeholderToPolicies": {
+        "feder-mines-insp-003": [
+            {
+                "id": "policy-nigerian-minerals-an-002",
+                "name": "Nigerian Minerals and Mining Act",
+                "slug": "nigerian-minerals-and-mining-act"
+            },
+            {
+                "id": "policy-nigerian-minerals-an-003",
+                "name": "Nigerian Minerals and Mining Regulations",
+                "slug": "nigerian-minerals-and-mining-regulations"
+            }
+        ],
+        "civil-nta-056": [
+            {
+                "id": "policy-nigerian-minerals-an-002",
+                "name": "Nigerian Minerals and Mining Act",
+                "slug": "nigerian-minerals-and-mining-act"
+            },
+            {
+                "id": "policy-nigerian-minerals-an-003",
+                "name": "Nigerian Minerals and Mining Regulations",
+                "slug": "nigerian-minerals-and-mining-regulations"
+            }
+        ],
+        "feder-mining-cad-002": [
+            {
+                "id": "policy-nigerian-minerals-an-003",
+                "name": "Nigerian Minerals and Mining Regulations",
+                "slug": "nigerian-minerals-and-mining-regulations"
+            }
+        ],
+        "feder-nigerian-g-004": [
+            {
+                "id": "policy-nigerian-minerals-an-003",
+                "name": "Nigerian Minerals and Mining Regulations",
+                "slug": "nigerian-minerals-and-mining-regulations"
+            }
+        ]
+    },
+    "policyToStakeholders": {
+        "policy-nigerian-minerals-an-002": [
+            {
+                "id": "feder-mines-insp-003",
+                "name": "Mines Inspectorate",
+                "category": "Federal Government",
+                "slug": "mines-inspectorate"
+            },
+            {
+                "id": "civil-nta-056",
+                "name": "NTA",
+                "category": "Civil Society",
+                "slug": "nta"
+            }
+        ],
+        "policy-nigerian-minerals-an-003": [
+            {
+                "id": "feder-mining-cad-002",
+                "name": "Mining Cadastre Office (MCO)",
+                "category": "Federal Government",
+                "slug": "mining-cadastre-office-mco"
+            },
+            {
+                "id": "feder-mines-insp-003",
+                "name": "Mines Inspectorate",
+                "category": "Federal Government",
+                "slug": "mines-inspectorate"
+            },
+            {
+                "id": "feder-nigerian-g-004",
+                "name": "Nigerian Geological Survey Agency (NGSA)",
+                "category": "Federal Government",
+                "slug": "nigerian-geological-survey-agency-ngsa"
+            },
+            {
+                "id": "civil-nta-056",
+                "name": "NTA",
+                "category": "Civil Society",
+                "slug": "nta"
+            }
+        ],
+        "policy-national-minerals-me-004": [],
+        "policy-roadmap-for-the-grow-005": [],
+        "policy-national-integrated--006": [],
+        "policy-national-environment-007": [],
+        "policy-artisanal-and-small--008": [],
+        "policy-ngsa-act-009": [],
+        "policy-neiti-implementation-010": [],
+        "policy-state-mining-policie-011": [],
+        "policy-community-developmen-012": []
+    }
+}
