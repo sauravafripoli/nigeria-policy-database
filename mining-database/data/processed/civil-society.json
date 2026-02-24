@@ -178,12 +178,12 @@
       },
       "location": {
         "city": "",
-        "state": "Kano",
+        "state": "Kaduna",
         "lga": "",
         "zone": "North West",
         "coordinates": [
-          8.512,
-          12.0822
+          7.5188,
+          10.4464
         ],
         "coordinateType": "centroid"
       },
@@ -498,12 +498,12 @@
       },
       "location": {
         "city": "",
-        "state": "Kano",
+        "state": "Sokoto",
         "lga": "",
         "zone": "North West",
         "coordinates": [
-          8.612,
-          11.9822
+          5.2739,
+          13.022200000000002
         ],
         "coordinateType": "centroid"
       },

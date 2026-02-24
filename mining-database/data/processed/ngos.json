@@ -459,13 +459,13 @@
         "address": ""
       },
       "location": {
-        "city": "Nigeria (Niger Delta focus",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          6.9115,
+          4.8396
         ],
         "coordinateType": "centroid"
       },
@@ -562,9 +562,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6878,
           9.8408
@@ -596,9 +596,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -630,9 +630,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.627800000000001,
           9.9008
@@ -698,9 +698,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5678,
           9.960799999999999
@@ -732,9 +732,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6378,
           9.8908
@@ -800,12 +800,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.577800000000001,
-          9.9508
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -834,9 +834,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6478,
           9.880799999999999

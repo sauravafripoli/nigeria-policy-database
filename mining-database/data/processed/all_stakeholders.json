@@ -79,7 +79,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -111,13 +111,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -143,13 +143,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -175,13 +175,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -207,13 +207,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -239,7 +239,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -271,7 +271,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -303,13 +303,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -335,13 +335,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -367,7 +367,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -399,13 +399,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3040,13 +3040,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3148,13 +3148,13 @@
         "address": ""
       },
       "location": {
-        "city": "Gujeni",
-        "state": "Unknown",
+        "city": "Kagarko",
+        "state": "Kaduna",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          7.4388,
+          10.5264
         ],
         "coordinateType": "centroid"
       },
@@ -3436,13 +3436,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -3508,13 +3508,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3486,
-          9.1265
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3616,13 +3616,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3586,
-          9.116499999999998
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3724,13 +3724,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3686,
-          9.106499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3796,13 +3796,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3086,
-          9.1665
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3832,13 +3832,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3786000000000005,
-          9.096499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -3976,13 +3976,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4586,
-          9.016499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -4120,13 +4120,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3386000000000005,
-          9.1365
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -4507,12 +4507,12 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Kebbi",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          4.1989,
+          11.4965
         ],
         "coordinateType": "centroid"
       },
@@ -4541,13 +4541,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Bauchi",
+        "state": "Bauchi",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North East",
         "coordinates": [
-          7.5,
-          9.0
+          9.8442,
+          10.3158
         ],
         "coordinateType": "centroid"
       },
@@ -4576,13 +4576,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Ijero-Ekiti",
+        "state": "Ekiti",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          7.5,
-          9.0
+          5.311,
+          7.719
         ],
         "coordinateType": "centroid"
       },
@@ -4611,13 +4611,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Aramoko",
+        "state": "Ekiti",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          7.5,
-          9.0
+          5.311,
+          7.719
         ],
         "coordinateType": "centroid"
       },
@@ -4646,13 +4646,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Karu",
+        "state": "Nasarawa",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          8.1985,
+          8.4909
         ],
         "coordinateType": "centroid"
       },
@@ -4681,13 +4681,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Jos",
+        "state": "Plateau",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          9.5179,
+          9.2182
         ],
         "coordinateType": "centroid"
       },
@@ -4716,13 +4716,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Barkin Ladi",
+        "state": "Plateau",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          9.5179,
+          9.2182
         ],
         "coordinateType": "centroid"
       },
@@ -4751,13 +4751,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Bagega",
+        "state": "Zamfara",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          6.224,
+          12.1223
         ],
         "coordinateType": "centroid"
       },
@@ -4786,13 +4786,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Anka",
+        "state": "Zamfara",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          6.224,
+          12.1223
         ],
         "coordinateType": "centroid"
       },
@@ -4821,13 +4821,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Mambilla",
+        "state": "Taraba",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North East",
         "coordinates": [
-          7.5,
-          9.0
+          10.7738,
+          7.9999
         ],
         "coordinateType": "centroid"
       },
@@ -5285,13 +5285,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -5352,9 +5352,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6178,
           9.9108
@@ -5653,8 +5653,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5684,12 +5684,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Niger",
+        "state": "Lagos",
         "lga": "",
-        "zone": "North Central",
+        "zone": "South West",
         "coordinates": [
-          5.6378,
-          9.8908
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5718,13 +5718,13 @@
         "address": ""
       },
       "location": {
-        "city": "Henan",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5753,13 +5753,13 @@
         "address": ""
       },
       "location": {
-        "city": "Liaoning",
-        "state": "Unknown",
+        "city": "Lagos",
+        "state": "Lagos",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5789,12 +5789,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Niger",
+        "state": "Lagos",
         "lga": "",
-        "zone": "North Central",
+        "zone": "South West",
         "coordinates": [
-          5.6478,
-          9.880799999999999
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5823,13 +5823,13 @@
         "address": ""
       },
       "location": {
-        "city": "Tamil Nadu",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5858,13 +5858,13 @@
         "address": ""
       },
       "location": {
-        "city": "Hebei",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -5894,12 +5894,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.6578,
-          9.8708
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -5964,12 +5964,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.5978,
-          9.9308
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -6034,9 +6034,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.537800000000001,
           9.9908
@@ -6069,9 +6069,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6078,
           9.9208
@@ -6545,13 +6545,13 @@
         "address": ""
       },
       "location": {
-        "city": "Nigeria (Niger Delta focus",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          6.9115,
+          4.8396
         ],
         "coordinateType": "centroid"
       },
@@ -6648,9 +6648,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6878,
           9.8408
@@ -6682,9 +6682,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -6716,9 +6716,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.627800000000001,
           9.9008
@@ -6784,9 +6784,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5678,
           9.960799999999999
@@ -6818,9 +6818,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6378,
           9.8908
@@ -6886,12 +6886,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.577800000000001,
-          9.9508
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -6920,9 +6920,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6478,
           9.880799999999999
@@ -9162,13 +9162,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3686,
-          9.106499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9197,12 +9197,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.6378,
-          9.8908
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -9230,13 +9230,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3086,
-          9.1665
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9265,9 +9265,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.577800000000001,
           9.9508
@@ -9298,13 +9298,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4486,
-          9.026499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9333,9 +9333,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5178,
           10.0108
@@ -9400,13 +9400,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4586,
-          9.016499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9434,13 +9434,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3286,
-          9.1465
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9502,13 +9502,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4686,
-          9.006499999999999
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9536,13 +9536,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3386000000000005,
-          9.1365
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9570,13 +9570,13 @@
         "address": ""
       },
       "location": {
-        "city": "High Commission of Canada",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4086,
-          9.0665
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9604,13 +9604,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4786,
-          8.9965
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9638,13 +9638,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3486,
-          9.1265
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9672,13 +9672,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4186,
-          9.0565
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9707,12 +9707,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Niger",
+        "state": "Lagos",
         "lga": "",
-        "zone": "North Central",
+        "zone": "South West",
         "coordinates": [
-          5.6878,
-          9.8408
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -9741,9 +9741,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -9774,13 +9774,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.4286,
-          9.0465
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9809,9 +9809,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.497800000000001,
           9.8308
@@ -9843,9 +9843,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.5678,
           9.960799999999999

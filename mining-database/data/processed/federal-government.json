@@ -17,7 +17,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -49,13 +49,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -81,13 +81,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -113,13 +113,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -145,13 +145,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -177,7 +177,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -209,7 +209,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -241,13 +241,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -273,13 +273,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -305,7 +305,7 @@
         "address": ""
       },
       "location": {
-        "city": "",
+        "city": "Abuja",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -337,13 +337,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },

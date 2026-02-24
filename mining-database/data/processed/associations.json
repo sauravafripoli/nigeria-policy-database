@@ -187,8 +187,8 @@
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3186,
-          9.1565
+          7.3686,
+          9.106499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -220,8 +220,8 @@
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3886,
-          9.0865
+          7.3186,
+          9.1565
         ],
         "coordinateType": "centroid"
       },
@@ -446,13 +446,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -513,9 +513,9 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
           5.6178,
           9.9108
