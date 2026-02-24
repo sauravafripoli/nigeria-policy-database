@@ -426,12 +426,12 @@
       },
       "location": {
         "city": "",
-        "state": "FCT",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.4086,
-          9.0665
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -459,13 +459,13 @@
         "address": ""
       },
       "location": {
-        "city": "Nigeria (Niger Delta focus",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -562,12 +562,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.6878,
-          9.8408
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -596,12 +596,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.5578,
-          9.970799999999999
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -630,12 +630,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.627800000000001,
-          9.9008
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -698,12 +698,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.5678,
-          9.960799999999999
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -732,12 +732,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.6378,
-          9.8908
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -800,12 +800,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.577800000000001,
-          9.9508
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -834,12 +834,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.6478,
-          9.880799999999999
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -867,13 +867,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },

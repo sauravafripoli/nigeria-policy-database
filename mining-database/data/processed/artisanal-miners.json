@@ -22,8 +22,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -59,8 +59,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -96,8 +96,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -133,8 +133,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -170,8 +170,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -207,8 +207,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -239,13 +239,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "FCT",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -276,13 +276,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Bauchi",
+        "state": "Bauchi",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North East",
         "coordinates": [
-          7.5,
-          9.0
+          9.8442,
+          10.3158
         ],
         "coordinateType": "centroid"
       },
@@ -313,13 +313,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Ijero-Ekiti",
+        "state": "Ekiti",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          7.5,
-          9.0
+          5.311,
+          7.719
         ],
         "coordinateType": "centroid"
       },
@@ -350,13 +350,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Aramoko-Ekiti",
+        "state": "Ekiti",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          7.5,
-          9.0
+          5.311,
+          7.719
         ],
         "coordinateType": "centroid"
       },
@@ -387,13 +387,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Karu",
+        "state": "Nasarawa",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          8.1985,
+          8.4909
         ],
         "coordinateType": "centroid"
       },
@@ -424,13 +424,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Jos",
+        "state": "Plateau",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          9.5179,
+          9.2182
         ],
         "coordinateType": "centroid"
       },
@@ -461,13 +461,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Barkin Ladi",
+        "state": "Plateau",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          7.5,
-          9.0
+          9.5179,
+          9.2182
         ],
         "coordinateType": "centroid"
       },
@@ -498,13 +498,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Anka",
+        "state": "Zamfara",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          6.224,
+          12.1223
         ],
         "coordinateType": "centroid"
       },
@@ -535,13 +535,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Anka",
+        "state": "Zamfara",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North West",
         "coordinates": [
-          7.5,
-          9.0
+          6.224,
+          12.1223
         ],
         "coordinateType": "centroid"
       },
@@ -572,13 +572,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Gembu",
+        "state": "Taraba",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North East",
         "coordinates": [
-          7.5,
-          9.0
+          10.7738,
+          7.9999
         ],
         "coordinateType": "centroid"
       },

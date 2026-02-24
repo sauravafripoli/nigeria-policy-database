@@ -22,8 +22,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -54,12 +54,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Niger",
+        "state": "Lagos",
         "lga": "",
-        "zone": "North Central",
+        "zone": "South West",
         "coordinates": [
-          5.6378,
-          9.8908
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -89,13 +89,13 @@
         "address": ""
       },
       "location": {
-        "city": "Henan",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -125,13 +125,13 @@
         "address": ""
       },
       "location": {
-        "city": "Liaoning",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -162,12 +162,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Niger",
+        "state": "Lagos",
         "lga": "",
-        "zone": "North Central",
+        "zone": "South West",
         "coordinates": [
-          5.6478,
-          9.880799999999999
+          3.3792,
+          6.5244
         ],
         "coordinateType": "centroid"
       },
@@ -197,13 +197,13 @@
         "address": ""
       },
       "location": {
-        "city": "Tamil Nadu",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -233,13 +233,13 @@
         "address": ""
       },
       "location": {
-        "city": "Hebei",
+        "city": "Unknown",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -270,12 +270,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.6578,
-          9.8708
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -342,12 +342,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "Niger",
+        "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          5.5978,
-          9.9308
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -414,12 +414,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.537800000000001,
-          9.9908
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
@@ -450,12 +450,12 @@
       },
       "location": {
         "city": "",
-        "state": "Niger",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          5.6078,
-          9.9208
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },

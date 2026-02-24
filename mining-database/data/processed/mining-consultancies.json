@@ -22,8 +22,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          7.5,
-          9.0
+          0,
+          0
         ],
         "coordinateType": "centroid"
       },
