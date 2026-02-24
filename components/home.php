@@ -10,7 +10,7 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
 <style>
 .home-hero {
     background: linear-gradient(135deg, #ffc03c 0%, #d97706 100%);
-    color: white;
+    color: #1f2937;
     padding: 100px 20px;
     text-align: center;
 }
@@ -19,12 +19,13 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 20px;
+    color: #111827;
 }
 
 .home-hero p {
     font-size: 1.5rem;
     margin-bottom: 40px;
-    opacity: 0.9;
+    color: #374151;
 }
 
 .feature-cards {
@@ -50,19 +51,24 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
 }
 
 .feature-card h3 {
-    color: #ffc03c;
+    color: #d97706;
     font-size: 1.5rem;
     margin-bottom: 15px;
 }
 
 .feature-card p {
-    color: #6b7280;
+    color: #374151;
     line-height: 1.6;
+}
+
+.feature-card .status {
+    color: #9ca3af;
+    font-style: italic;
 }
 
 .btn-primary {
     background: #ffc03c;
-    color: white;
+    color: #111827;
     padding: 15px 40px;
     border-radius: 8px;
     text-decoration: none;
@@ -73,7 +79,7 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
 
 .btn-primary:hover {
     background: #d97706;
-    color: white;
+    color: #111827;
 }
 </style>
 
