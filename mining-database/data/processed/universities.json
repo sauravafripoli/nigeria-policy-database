@@ -34,8 +34,8 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Applied Geology (Undergraduate & Postgraduate)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Applied Geology (Undergraduate & Postgraduate)"
     },
     {
       "id": "unive-federal-un-002",
@@ -64,12 +64,12 @@
       "description": "",
       "website": "https://www.futminna.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Geology (UG/PG)"
     },
     {
       "id": "unive-university-003",
@@ -98,12 +98,12 @@
       "description": "",
       "website": "https://www.unijos.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Geology & Mining (UG/PG); Mineral Exploration (PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Geology & Mining (UG/PG); Mineral Exploration (PG)"
     },
     {
       "id": "unive-ahmadu-bel-004",
@@ -132,12 +132,12 @@
       "description": "",
       "website": "https://www.abu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-university-005",
@@ -166,12 +166,12 @@
       "description": "",
       "website": "https://www.uniben.edu",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering; Metallurgical Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering; Metallurgical Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-university-006",
@@ -200,12 +200,12 @@
       "description": "",
       "website": "https://www.unilorin.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Materials & Metallurgical Engineering; Geology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Materials & Metallurgical Engineering; Geology"
     },
     {
       "id": "unive-university-007",
@@ -234,12 +234,12 @@
       "description": "",
       "website": "https://www.unn.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Metallurgical & Materials Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Metallurgical & Materials Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-abubakar-t-008",
@@ -268,12 +268,12 @@
       "description": "",
       "website": "https://www.atbu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering; Metallurgical & Materials Engineering; Geology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering; Metallurgical & Materials Engineering; Geology"
     },
     {
       "id": "unive-nasarawa-s-009",
@@ -302,12 +302,12 @@
       "description": "",
       "website": "https://www.nsuk.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology & Mining (UG/PG)",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology & Mining (UG/PG)"
     },
     {
       "id": "unive-modibbo-ad-010",
@@ -336,12 +336,12 @@
       "description": "",
       "website": "https://www.mautech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology; Mineral Resources Engineering (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Geology; Mineral Resources Engineering (UG/PG)"
     },
     {
       "id": "unive-akwa-ibom--011",
@@ -370,12 +370,12 @@
       "description": "",
       "website": "https://www.aksu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology; Applied Geophysics",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology; Applied Geophysics"
     },
     {
       "id": "unive-delta-stat-012",
@@ -404,12 +404,12 @@
       "description": "",
       "website": "https://www.delsu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology (UG/PG)",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology (UG/PG)"
     },
     {
       "id": "unive-kaduna-sta-013",
@@ -438,12 +438,12 @@
       "description": "",
       "website": "https://www.kasu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology & Mineral Resources",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology & Mineral Resources"
     },
     {
       "id": "unive-ekiti-stat-014",
@@ -472,12 +472,12 @@
       "description": "",
       "website": "https://eksu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology"
     },
     {
       "id": "unive-nigerian-i-015",
@@ -506,12 +506,12 @@
       "description": "",
       "website": "https://www.nimg.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "PGD Mining Engineering; PGD Mineral Exploration; Short Courses",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "PGD Mining Engineering; PGD Mineral Exploration; Short Courses"
     },
     {
       "id": "unive-federal-po-016",
@@ -540,12 +540,12 @@
       "description": "",
       "website": "https://www.fedpolybida.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Resources Engineering; Minerals Exploration ND/HND",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral & Petroleum Resources Engineering; Minerals Exploration ND/HND"
     },
     {
       "id": "unive-federal-po-017",
@@ -574,12 +574,12 @@
       "description": "",
       "website": "https://fedpolynas.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-kaduna-pol-018",
@@ -608,12 +608,12 @@
       "description": "",
       "website": "https://kadunapoly.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-federal-po-019",
@@ -642,12 +642,12 @@
       "description": "",
       "website": "https://www.fedpolyado.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-plateau-st-020",
@@ -676,12 +676,12 @@
       "description": "",
       "website": "https://plapoly.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Engineering Technology; Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Mineral & Petroleum Engineering Technology; Geological Technology"
     },
     {
       "id": "unive-yaba-colle-021",
@@ -710,12 +710,12 @@
       "description": "",
       "website": "https://www.yabatech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Resources Engineering; Geological Engineering Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral & Petroleum Resources Engineering; Geological Engineering Technology"
     },
     {
       "id": "unive-imt-enugu-022",
@@ -744,12 +744,12 @@
       "description": "",
       "website": "https://imt.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geological Technology"
     },
     {
       "id": "unive-federal-po-023",
@@ -778,12 +778,12 @@
       "description": "",
       "website": "https://fptb.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-kwara-stat-024",
@@ -812,12 +812,12 @@
       "description": "",
       "website": "https://kwarastatepolytechnic.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Mineral Resources Engineering"
     },
     {
       "id": "unive-ogun-state-025",
@@ -846,12 +846,12 @@
       "description": "",
       "website": "https://ogitech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geological Technology"
     },
     {
       "id": "unive-university-026",
@@ -880,12 +880,12 @@
       "description": "",
       "website": "https://uniabuja.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology and Mining (Undergraduate)\n\nB.Sc. Geology (Undergraduate)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Geology and Mining (Undergraduate)\n\nB.Sc. Geology (Undergraduate)"
     }
   ]
 }

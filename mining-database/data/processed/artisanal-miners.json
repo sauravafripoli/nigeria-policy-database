@@ -8,7 +8,7 @@
       "name": "Miners Association of Nigeria (MAN)",
       "slug": "miners-association-of-nigeria-man",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "National ASM / industry association",
       "contact": {
         "person": "",
         "position": "",
@@ -17,13 +17,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3686,
-          9.106499999999999
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -36,14 +36,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Acts as an umbrella body for miner cooperatives; engages government on policies, taxation and access to finance; provides a platform for dialogue between miners, government and communities.",
       "mineralFocus": "All minerals (ASM, small & medium-scale)",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Represent miners across Nigeria and advocate for enabling policies, better operating conditions and sector development."
     },
     {
       "id": "artis-nigeria-ar-002",
       "name": "Nigeria Artisanal and Small-Scale Miners Association (NASSMA)",
       "slug": "nigeria-artisanal-and-small-scale-miners-association-nassma",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "National ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -71,14 +73,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Supports the formalisation of ASM; represents ASM interests before government; promotes safer, more productive mining practices and improved market access for small-scale miners.",
       "mineralFocus": "Artisanal and small-scale mining (all minerals)",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Organise and represent artisanal and small-scale miners across key mining states in Nigeria."
     },
     {
       "id": "artis-women-in-m-003",
       "name": "Women in Mining in Nigeria (WIMIN)",
       "slug": "women-in-mining-in-nigeria-wimin",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Gender-focused ASM and mining network",
       "contact": {
         "person": "",
         "position": "",
@@ -88,12 +92,12 @@
       },
       "location": {
         "city": "",
-        "state": "FCT",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.4086,
-          9.0665
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -106,14 +110,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Organises women miners and traders into networks and cooperatives; delivers training on safety, business skills and rights; advocates for gender-responsive mining governance and community benefits.",
       "mineralFocus": "All minerals with strong ASM focus",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Promote womenâ€™s participation, rights and leadership in Nigeriaâ€™s mining and minerals sector, especially in ASM communities."
     },
     {
       "id": "artis-associatio-004",
       "name": "Association of Women Miners in Nigeria (AWMN)",
       "slug": "association-of-women-miners-in-nigeria-awmn",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Women miners association",
       "contact": {
         "person": "",
         "position": "",
@@ -141,14 +147,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Provides a platform for women miners to access training, finance and markets; works with government and partners to improve safety, income and recognition of women in ASM.",
       "mineralFocus": "Gold and gemstones, plus other ASM minerals",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Support women directly involved in artisanal and small-scale mining and mineral trading."
     },
     {
       "id": "artis-nigeria-ge-005",
       "name": "Nigeria Gemstone Miners Cooperative Union",
       "slug": "nigeria-gemstone-miners-cooperative-union",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Commodity-specific ASM cooperative union",
       "contact": {
         "person": "",
         "position": "",
@@ -176,14 +184,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Supports registration of gemstone cooperatives; negotiates better prices; promotes safer mining and basic processing; links miners to buyers in local and export markets.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Organise gemstone miners into cooperatives and facilitate market access and improved practices."
     },
     {
       "id": "artis-associatio-006",
       "name": "Association of Small-Scale Quarry Operators of Nigeria",
       "slug": "association-of-small-scale-quarry-operators-of-nigeria",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Quarry operators association",
       "contact": {
         "person": "",
         "position": "",
@@ -211,14 +221,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Engages with regulators on licensing and compliance; supports members on environmental and safety issues; advocates for infrastructure and fair levies for small quarries.",
       "mineralFocus": "Quarry products â€“ granite, laterite, sand etc.",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Represent small-scale quarry operators and ensure fair regulation and sustainable operations."
     },
     {
       "id": "artis-pagmi-gold-007",
       "name": "PAGMI Gold Cooperatives Network",
       "slug": "pagmi-gold-cooperatives-network",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Gold ASM cooperatives under PAGMI",
       "contact": {
         "person": "",
         "position": "",
@@ -228,12 +240,12 @@
       },
       "location": {
         "city": "",
-        "state": "Kebbi",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          4.1989,
-          11.4965
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -246,14 +258,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Organises gold miners into registered cooperatives; provides access to legal markets and official offtakers; promotes safer practices and better community and environmental outcomes.",
       "mineralFocus": "Gold",
-      "formalInformal": "Formal"
+      "levelScope": "Multi-state",
+      "formalInformal": "Formal",
+      "mandate": "Formalise artisanal gold miners into cooperatives under the Presidential Artisanal Gold Mining Development Initiative (PAGMI)."
     },
     {
       "id": "artis-bauchi-min-008",
       "name": "Bauchi Mining Synergy and Exploration Limited (BAMSEL)",
       "slug": "bauchi-mining-synergy-and-exploration-limited-bamsel",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "State-owned mining company working with ASM",
       "contact": {
         "person": "",
         "position": "",
@@ -262,13 +276,13 @@
         "address": ""
       },
       "location": {
-        "city": "Bauchi",
-        "state": "Bauchi",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North East",
+        "zone": "Unknown",
         "coordinates": [
-          9.814200000000001,
-          10.345799999999999
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -281,14 +295,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Carries out exploration and early-stage development; partners with cooperatives and private investors; helps integrate ASM areas into more structured projects.",
       "mineralFocus": "Mixed minerals (state portfolio)",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Develop mineral resources on behalf of Bauchi State, including through partnerships with ASM cooperatives."
     },
     {
       "id": "artis-ijero-ekit-009",
       "name": "Ijero-Ekiti Gemstone Miners Cooperative",
       "slug": "ijero-ekiti-gemstone-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -297,13 +313,13 @@
         "address": ""
       },
       "location": {
-        "city": "Ijero-Ekiti",
-        "state": "Ekiti",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          5.311,
-          7.719
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -316,14 +332,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Helps members obtain formal titles and permits; negotiates prices; supports safer and more coordinated mining and community relations.",
       "mineralFocus": "Gemstones (tourmaline and others)",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise gemstone miners in the Ijero-Ekiti area into a cooperative for better regulation and market access."
     },
     {
       "id": "artis-aramoko-sm-010",
       "name": "Aramoko Small-Scale Miners Group",
       "slug": "aramoko-small-scale-miners-group",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM group",
       "contact": {
         "person": "",
         "position": "",
@@ -332,13 +350,13 @@
         "address": ""
       },
       "location": {
-        "city": "Aramoko",
-        "state": "Ekiti",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          5.311,
-          7.719
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -351,14 +369,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Shares information on buyers and prices; organises informal rules for pit access and dispute resolution; serves as a contact point for government outreach.",
       "mineralFocus": "Gemstones and other small-scale minerals",
-      "formalInformal": "Informal"
+      "levelScope": "State",
+      "formalInformal": "Informal",
+      "mandate": "Provide a basic platform for small-scale miners around Aramoko to coordinate operations and negotiate with buyers."
     },
     {
       "id": "artis-karu-gemst-011",
       "name": "Karu Gemstone ASM Association",
       "slug": "karu-gemstone-asm-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "State-level ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -367,13 +387,13 @@
         "address": ""
       },
       "location": {
-        "city": "Karu",
-        "state": "Nasarawa",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          8.1985,
-          8.4909
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -386,14 +406,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Engages with state and federal regulators; supports cooperative registration; promotes better environmental and safety practices among members.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Represent artisanal gemstone miners operating around Karu and neighbouring areas of Nasarawa State."
     },
     {
       "id": "artis-jos-tin-co-012",
       "name": "Jos Tin & Columbite Small-Scale Miners Cooperative",
       "slug": "jos-tin-columbite-small-scale-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Cooperative of tin & columbite miners",
       "contact": {
         "person": "",
         "position": "",
@@ -402,13 +424,13 @@
         "address": ""
       },
       "location": {
-        "city": "Jos",
-        "state": "Plateau",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          9.5179,
-          9.2182
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -421,14 +443,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Registers members; coordinates sales and pricing; engages on tailings management and safety; provides a collective voice in policy dialogues.",
       "mineralFocus": "Tin, columbite and related minerals",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise small-scale tin and columbite miners around Jos into a cooperative framework."
     },
     {
       "id": "artis-barkin-lad-013",
       "name": "Barkin Ladi Gemstone Miners Association",
       "slug": "barkin-ladi-gemstone-miners-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -437,13 +461,13 @@
         "address": ""
       },
       "location": {
-        "city": "Barkin Ladi",
-        "state": "Plateau",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          9.5179,
-          9.2182
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -456,14 +480,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Links miners with buyers; supports conflict resolution; engages with local authorities on environmental and security issues.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Represent artisanal gemstone miners in Barkin Ladi LGA of Plateau State."
     },
     {
       "id": "artis-bagega-gol-014",
       "name": "Bagega Gold Miners Association",
       "slug": "bagega-gold-miners-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM miners association",
       "contact": {
         "person": "",
         "position": "",
@@ -472,13 +498,13 @@
         "address": ""
       },
       "location": {
-        "city": "Bagega",
-        "state": "Zamfara",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          6.224,
-          12.1223
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -491,14 +517,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Acts as a focal point for health interventions and safer mining campaigns; helps move miners into cooperatives under government programmes.",
       "mineralFocus": "Gold",
-      "formalInformal": "Informal transitioning to formal"
+      "levelScope": "State",
+      "formalInformal": "Informal transitioning to formal",
+      "mandate": "Organise gold miners in Bagega area for improved safety, health and formalisation."
     },
     {
       "id": "artis-anka-small-015",
       "name": "Anka Small-Scale Miners Cooperative",
       "slug": "anka-small-scale-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local miners cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -507,13 +535,13 @@
         "address": ""
       },
       "location": {
-        "city": "Anka",
-        "state": "Zamfara",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          6.224,
-          12.1223
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -526,14 +554,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Helps members obtain licences; coordinates sales to formal buyers; participates in government-supported programmes on safer mining and mercury reduction.",
       "mineralFocus": "Gold",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Provide a formal structure for small-scale gold miners in and around Anka, Zamfara State."
     },
     {
       "id": "artis-mambilla-p-016",
       "name": "Mambilla Plateau Gemstone Miners Cooperative",
       "slug": "mambilla-plateau-gemstone-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -542,13 +572,13 @@
         "address": ""
       },
       "location": {
-        "city": "Mambilla",
-        "state": "Taraba",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North East",
+        "zone": "Unknown",
         "coordinates": [
-          10.7738,
-          7.9999
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -561,7 +591,9 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Coordinates mining activities; organises collective selling; supports community negotiations and basic environmental stewardship.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise artisanal gemstone miners on the Mambilla Plateau."
     }
   ]
 }

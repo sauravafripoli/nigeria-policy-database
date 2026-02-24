@@ -34,7 +34,8 @@
       "jurisdiction": "Nationwide (all mining operators).",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Represents mining companies; engages government on policy reforms; supports mining business environment; provides platforms for dialogue between industry, government and communities."
+      "summaryFunctions": "Represents mining companies; engages government on policy reforms; supports mining business environment; provides platforms for dialogue between industry, government and communities.",
+      "mandate": "National industry association representing miners across Nigeria; advocates for enabling policies, sector development and improved operating environment."
     },
     {
       "id": "assoc-women-in-m-002",
@@ -67,7 +68,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supports women miners; conducts training and advocacy; engages policymakers on gender-responsive mining governance; leads national campaigns for women’s representation."
+      "summaryFunctions": "Supports women miners; conducts training and advocacy; engages policymakers on gender-responsive mining governance; leads national campaigns for women’s representation.",
+      "mandate": "Promote gender inclusion, women’s participation and leadership in Nigeria’s mining sector; provide advocacy, training and empowerment for women in mining."
     },
     {
       "id": "assoc-nigeria-in-003",
@@ -100,7 +102,8 @@
       "jurisdiction": "Nationwide indigenous communities.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supports indigenous women in mining; drives advocacy on rights and inclusion; promotes safe and fair resource practices."
+      "summaryFunctions": "Supports indigenous women in mining; drives advocacy on rights and inclusion; promotes safe and fair resource practices.",
+      "mandate": "Advance participation and rights of indigenous women involved in mining and natural resource activities."
     },
     {
       "id": "assoc-nigerian-m-004",
@@ -133,7 +136,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes geoscience research; publishes journals; organises scientific conferences and training."
+      "summaryFunctions": "Promotes geoscience research; publishes journals; organises scientific conferences and training.",
+      "mandate": "Professional body for geoscientists, mining engineers and earth science professionals."
     },
     {
       "id": "assoc-nigerian-s-005",
@@ -166,7 +170,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training, technical guidance and certification; supports engineering best practices; advises government."
+      "summaryFunctions": "Provides training, technical guidance and certification; supports engineering best practices; advises government.",
+      "mandate": "Professional body promoting technical excellence, safety and industry development."
     },
     {
       "id": "assoc-council-of-006",
@@ -187,8 +192,8 @@
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3686,
-          9.106499999999999
+          7.3186,
+          9.1565
         ],
         "coordinateType": "centroid"
       },
@@ -199,7 +204,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Certifies and licenses professionals; enforces ethical and technical standards; accredits academic programmes."
+      "summaryFunctions": "Certifies and licenses professionals; enforces ethical and technical standards; accredits academic programmes.",
+      "mandate": "Regulate and accredit mining and geoscience professionals in Nigeria."
     },
     {
       "id": "assoc-geological-007",
@@ -220,8 +226,8 @@
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3186,
-          9.1565
+          7.3886,
+          9.0865
         ],
         "coordinateType": "centroid"
       },
@@ -232,7 +238,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports geological fieldwork; publishes research."
+      "summaryFunctions": "Organises conferences; supports geological fieldwork; publishes research.",
+      "mandate": "Professional society for geologists promoting earth science and resource development."
     },
     {
       "id": "assoc-nigerian-a-008",
@@ -265,7 +272,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training; conducts groundwater studies; advises government on water resource management."
+      "summaryFunctions": "Provides training; conducts groundwater studies; advises government on water resource management.",
+      "mandate": "Professional body dedicated to hydrogeology and groundwater management."
     },
     {
       "id": "assoc-nigerian-a-009",
@@ -298,7 +306,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training and field workshops; advances engineering geology practice; supports infrastructure and mining projects."
+      "summaryFunctions": "Provides training and field workshops; advances engineering geology practice; supports infrastructure and mining projects.",
+      "mandate": "Professional society for engineering geology and geotechnics."
     },
     {
       "id": "assoc-miners-ass-010",
@@ -331,7 +340,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Mobilises youth; offers training; supports entrepreneurship and sector engagement."
+      "summaryFunctions": "Mobilises youth; offers training; supports entrepreneurship and sector engagement.",
+      "mandate": "Youth-focused wing promoting youth participation and innovation in mining."
     },
     {
       "id": "assoc-the-nigeri-011",
@@ -364,7 +374,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Engages government on economic policies; connects investors; promotes trade and mineral sector opportunities."
+      "summaryFunctions": "Engages government on economic policies; connects investors; promotes trade and mineral sector opportunities.",
+      "mandate": "Umbrella organisation representing business interests including mining."
     },
     {
       "id": "assoc-nigerian-m-012",
@@ -397,7 +408,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes metallurgical research; supports steel and metals development; organises capacity-building programmes."
+      "summaryFunctions": "Promotes metallurgical research; supports steel and metals development; organises capacity-building programmes.",
+      "mandate": "Professional body for metallurgists promoting materials science and metallurgy research."
     },
     {
       "id": "assoc-society-of-013",
@@ -430,7 +442,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training; promotes innovation in exploration geoscience; connects academia and industry."
+      "summaryFunctions": "Provides training; promotes innovation in exploration geoscience; connects academia and industry.",
+      "mandate": "Supports geophysics education, research and exploration applications."
     },
     {
       "id": "assoc-society-fo-014",
@@ -446,13 +459,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -463,7 +476,8 @@
       "jurisdiction": "Regional/National",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Delivers global-standard training; promotes best practices; links Nigerian professionals to global networks."
+      "summaryFunctions": "Delivers global-standard training; promotes best practices; links Nigerian professionals to global networks.",
+      "mandate": "Supports mining engineering, metallurgy and global mining standards."
     },
     {
       "id": "assoc-nigerian-a-015",
@@ -496,7 +510,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports research; participates in global engineering geology initiatives."
+      "summaryFunctions": "Organises conferences; supports research; participates in global engineering geology initiatives.",
+      "mandate": "Promotes engineering geology and environmental geoscience."
     },
     {
       "id": "assoc-geological-016",
@@ -513,9 +528,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6178,
           9.9108
@@ -529,7 +544,8 @@
       "jurisdiction": "Africa-wide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes African geoscience research; organises continental conferences; supports collaboration on minerals and geoscience."
+      "summaryFunctions": "Promotes African geoscience research; organises continental conferences; supports collaboration on minerals and geoscience.",
+      "mandate": "Pan-African society promoting Earth science across Africa."
     },
     {
       "id": "assoc-african-un-017",
@@ -562,7 +578,8 @@
       "jurisdiction": "Africa-wide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides technical assistance; supports reforms; promotes Africa’s mineral beneficiation agenda."
+      "summaryFunctions": "Provides technical assistance; supports reforms; promotes Africa’s mineral beneficiation agenda.",
+      "mandate": "Supports AU states with policies on minerals governance, beneficiation and capacity building."
     },
     {
       "id": "assoc-lagos-stat-018",
@@ -595,7 +612,8 @@
       "jurisdiction": "Lagos",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promoting safe and sustainable mineral resource management practices, ensuring that haulage operations i"
+      "summaryFunctions": "Promoting safe and sustainable mineral resource management practices, ensuring that haulage operations i",
+      "mandate": "Collection of legal  dredging and mining operators in Lagos"
     }
   ]
 }

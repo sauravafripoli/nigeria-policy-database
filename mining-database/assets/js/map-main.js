@@ -407,18 +407,18 @@ class MiningMap {
                 ` : ''}
                 
                 <!-- Description / Mandate -->
-                ${stakeholder.description ? `
+                ${stakeholder.description || stakeholder.mandate ? `
                 <div class="detail-section">
                     <h3>📝 Mandate / Description</h3>
-                    <p>${stakeholder.description}</p>
+                    <p>${stakeholder.description || stakeholder.mandate}</p>
                 </div>
                 ` : ''}
                 
-                <!-- Summary Functions -->
-                ${stakeholder.summaryFunctions ? `
+                <!-- Functions -->
+                ${stakeholder.summaryFunctions || stakeholder.functions ? `
                 <div class="detail-section">
                     <h3>⚙️ Functions</h3>
-                    <p>${stakeholder.summaryFunctions}</p>
+                    <p>${stakeholder.summaryFunctions || stakeholder.functions}</p>
                 </div>
                 ` : ''}
                 
@@ -439,7 +439,7 @@ class MiningMap {
                 ` : ''}
                 
                 <!-- Operational Details -->
-                ${stakeholder.thematicFocus || stakeholder.mineralFocus || stakeholder.mineralCommodities || stakeholder.equipment || stakeholder.scale || stakeholder.companySize || stakeholder.level || stakeholder.formalInformal ? `
+                ${stakeholder.thematicFocus || stakeholder.mineralFocus || stakeholder.mineralCommodities || stakeholder.equipment || stakeholder.scale || stakeholder.companySize || stakeholder.levelScope || stakeholder.formalInformal ? `
                 <div class="detail-section">
                     <h3>🏢 Operational Details</h3>
                     ${stakeholder.thematicFocus ? `
@@ -472,16 +472,16 @@ class MiningMap {
                         <span class="detail-value">${stakeholder.scale}</span>
                     </div>
                     ` : ''}
+                    ${stakeholder.levelScope ? `
+                    <div class="detail-row">
+                        <span class="detail-label">Level/Scope:</span>
+                        <span class="detail-value">${stakeholder.levelScope}</span>
+                    </div>
+                    ` : ''}
                     ${stakeholder.companySize ? `
                     <div class="detail-row">
                         <span class="detail-label">Company Size:</span>
                         <span class="detail-value">${stakeholder.companySize}</span>
-                    </div>
-                    ` : ''}
-                    ${stakeholder.level ? `
-                    <div class="detail-row">
-                        <span class="detail-label">Level:</span>
-                        <span class="detail-value">${stakeholder.level}</span>
                     </div>
                     ` : ''}
                     ${stakeholder.formalInformal ? `

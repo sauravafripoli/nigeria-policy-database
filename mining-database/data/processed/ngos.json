@@ -8,7 +8,7 @@
       "name": "CSR-in-Action",
       "slug": "csr-in-action",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO/CSO",
       "contact": {
         "person": "",
         "position": "",
@@ -42,7 +42,7 @@
       "name": "BudgIT",
       "slug": "budgit",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -76,7 +76,7 @@
       "name": "NEITI-CSO Working Group",
       "slug": "neiti-cso-working-group",
       "category": "NGOs",
-      "type": "Other",
+      "type": "CSO Coalition",
       "contact": {
         "person": "",
         "position": "",
@@ -110,7 +110,7 @@
       "name": "Centre for Transparency Advocacy (CTA)",
       "slug": "centre-for-transparency-advocacy-cta",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -144,7 +144,7 @@
       "name": "Spaces for Change",
       "slug": "spaces-for-change",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -178,7 +178,7 @@
       "name": "Environmental Rights Action (ERA/FoEN)",
       "slug": "environmental-rights-action-era-foen",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -212,7 +212,7 @@
       "name": "Global Rights Nigeria",
       "slug": "global-rights-nigeria",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -246,7 +246,7 @@
       "name": "Civil Society Legislative Advocacy Centre (CISLAC)",
       "slug": "civil-society-legislative-advocacy-centre-cislac",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -280,7 +280,7 @@
       "name": "Connected Development (CODE)",
       "slug": "connected-development-code",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -314,7 +314,7 @@
       "name": "Africa Centre for Leadership, Strategy & Development (Centre LSD)",
       "slug": "africa-centre-for-leadership-strategy-development-centre-lsd",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -348,7 +348,7 @@
       "name": "Extractive360",
       "slug": "extractive360",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Media/CSO",
       "contact": {
         "person": "",
         "position": "",
@@ -382,7 +382,7 @@
       "name": "Human & Environmental Development Agenda (HEDA)",
       "slug": "human-environmental-development-agenda-heda",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -416,7 +416,7 @@
       "name": "Women in Mining in Nigeria (WIMIN)",
       "slug": "women-in-mining-in-nigeria-wimin",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -450,7 +450,7 @@
       "name": "Host Communities Network of Nigeria (HoCoN)",
       "slug": "host-communities-network-of-nigeria-hocon",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO/Network",
       "contact": {
         "person": "",
         "position": "",
@@ -459,13 +459,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Nigeria (Niger Delta focus",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          6.9115,
-          4.8396
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -484,7 +484,7 @@
       "name": "AFRI-CIRD (African Centre for Innovative Research & Development)",
       "slug": "afri-cird-african-centre-for-innovative-research-development",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -518,7 +518,7 @@
       "name": "CEFSAN (Centre for Social Advancement & Development)",
       "slug": "cefsan-centre-for-social-advancement-development",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -552,7 +552,7 @@
       "name": "Environmental Rights Initiative of Nigeria (ERIN)",
       "slug": "environmental-rights-initiative-of-nigeria-erin",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -562,9 +562,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6878,
           9.8408
@@ -586,7 +586,7 @@
       "name": "PACT",
       "slug": "pact",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -596,9 +596,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -620,7 +620,7 @@
       "name": "Solidaridad West Africa",
       "slug": "solidaridad-west-africa",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -630,9 +630,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.627800000000001,
           9.9008
@@ -654,7 +654,7 @@
       "name": "Oxfam in Nigeria",
       "slug": "oxfam-in-nigeria",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -688,7 +688,7 @@
       "name": "Natural Resource Governance Institute (NRGI)",
       "slug": "natural-resource-governance-institute-nrgi",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Think Tank/NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -698,9 +698,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5678,
           9.960799999999999
@@ -722,7 +722,7 @@
       "name": "Global Witness",
       "slug": "global-witness",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -732,9 +732,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6378,
           9.8908
@@ -756,7 +756,7 @@
       "name": "Heinrich Böll Foundation (HBF) – Abuja Office",
       "slug": "heinrich-b-ll-foundation-hbf-abuja-office",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Political Foundation/NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -790,7 +790,7 @@
       "name": "Search for Common Ground (SFCG)",
       "slug": "search-for-common-ground-sfcg",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -800,12 +800,12 @@
       },
       "location": {
         "city": "",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.577800000000001,
+          9.9508
         ],
         "coordinateType": "centroid"
       },
@@ -824,7 +824,7 @@
       "name": "International Alert",
       "slug": "international-alert",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -834,9 +834,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6478,
           9.880799999999999
@@ -858,7 +858,7 @@
       "name": "Ziva Communities Initiative",
       "slug": "ziva-communities-initiative",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",

@@ -30,12 +30,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "Regulation & Compliance Enforcement\n\nMine Health & Safety Oversight\n\nEnvironmental Monitoring\n\nProduction Verification & Data Collection\n\nField Operations / Day-to-Day Supervision\n\nThese offices implement federal mining regulations directly at state level.",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-Central oversight",
-      "officeAddress": "No. 2, Club Road. Jos, Plateau State"
+      "officeAddress": "No. 2, Club Road. Jos, Plateau State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--north-east-002",
@@ -64,12 +65,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-East oversight",
-      "officeAddress": "No. 2, Nursery Rd. Beside Lake Chad Hotel, Maiduguri. Borno State"
+      "officeAddress": "No. 2, Nursery Rd. Beside Lake Chad Hotel, Maiduguri. Borno State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--north-west-003",
@@ -98,12 +100,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-West oversight",
-      "officeAddress": "No. 1 & 2, Aliu Makama Road. Barnawa, Kaduna State"
+      "officeAddress": "No. 1 & 2, Aliu Makama Road. Barnawa, Kaduna State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-west-004",
@@ -132,12 +135,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-West oversight",
-      "officeAddress": "Federal Sec. Complex, Ikolaba P.M.B 5028, Ibadan. Oyo State."
+      "officeAddress": "Federal Sec. Complex, Ikolaba P.M.B 5028, Ibadan. Oyo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-sout-005",
@@ -166,12 +170,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-South oversight",
-      "officeAddress": "Federal Sec. Complex, Auchi-Benin Road, Aduwawa, Benin city, Edo State."
+      "officeAddress": "Federal Sec. Complex, Auchi-Benin Road, Aduwawa, Benin city, Edo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-east-006",
@@ -200,12 +205,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-East oversight",
-      "officeAddress": "No. 11, Leck Avenue, State Sec. Enugu, Enugu State."
+      "officeAddress": "No. 11, Leck Avenue, State Sec. Enugu, Enugu State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--adamawa-mi-007",
@@ -234,11 +240,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Yola road, Yola, Adamawa State."
+      "officeAddress": "Federal Sec. Complex, Yola road, Yola, Adamawa State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--akwa-ibom--008",
@@ -267,11 +274,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Abak Road, Uyo, Akwa Ibom State."
+      "officeAddress": "Federal Sec. Complex, Abak Road, Uyo, Akwa Ibom State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--abia-mines-009",
@@ -300,11 +308,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Plot 55 Government Station Layout, Ehimiri, Umuahia, Abia State"
+      "officeAddress": "Plot 55 Government Station Layout, Ehimiri, Umuahia, Abia State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--anambra-mi-010",
@@ -333,11 +342,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 203, Zip Avenue, Amawbia Awka South, Opposite St. Augustine Anglican Church Umuokpu, Awka, Anambra State"
+      "officeAddress": "No. 203, Zip Avenue, Amawbia Awka South, Opposite St. Augustine Anglican Church Umuokpu, Awka, Anambra State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--bauchi-min-011",
@@ -366,11 +376,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "3rd floor, Federal Sec. Complex, P.M.B 0173, Bauchi, Bauchi State"
+      "officeAddress": "3rd floor, Federal Sec. Complex, P.M.B 0173, Bauchi, Bauchi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--bayelsa-mi-012",
@@ -399,11 +410,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Otiotio Road, Yenezuegene No. BGIS 692 Yanagoa, Bayelsa State"
+      "officeAddress": "Otiotio Road, Yenezuegene No. BGIS 692 Yanagoa, Bayelsa State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--benue-mine-013",
@@ -432,11 +444,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Makurdi. Benue State."
+      "officeAddress": "Federal Sec. Complex, Makurdi. Benue State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--cross-rive-014",
@@ -465,11 +478,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, P.M.B 1060, Calabar. Cross River State."
+      "officeAddress": "Federal Sec. Complex, P.M.B 1060, Calabar. Cross River State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--delta-mine-015",
@@ -498,11 +512,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Fed. Sec Complex, Okpnama Road, Asaba, Delta State"
+      "officeAddress": "Fed. Sec Complex, Okpnama Road, Asaba, Delta State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ebonyi-min-016",
@@ -531,11 +546,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 3, Nwaele Street, GRA By CBN Office, Abakaliki, Ebonyi State."
+      "officeAddress": "No. 3, Nwaele Street, GRA By CBN Office, Abakaliki, Ebonyi State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ekiti-mine-017",
@@ -564,11 +580,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Block 11/12, Ayo Fayose Housing Estate, Afao Rd. Ado Ekiti, Ekiti State."
+      "officeAddress": "Block 11/12, Ayo Fayose Housing Estate, Afao Rd. Ado Ekiti, Ekiti State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--fct-mines--018",
@@ -597,11 +614,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 10 Lola Close, Off Luanda Crescent, Behind Ministry of Mines and Steel Dev. Complex, FCT, Abuja"
+      "officeAddress": "No. 10 Lola Close, Off Luanda Crescent, Behind Ministry of Mines and Steel Dev. Complex, FCT, Abuja",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--gombe-mine-019",
@@ -630,11 +648,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Secretariat Biu Rd. (Beside PHCN Pantami undertaking Office) Gombe. Gombe State."
+      "officeAddress": "Federal Secretariat Biu Rd. (Beside PHCN Pantami undertaking Office) Gombe. Gombe State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--imo-mines--020",
@@ -663,11 +682,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, PortHarcourt Express way, Owerri, Imo State."
+      "officeAddress": "Federal Sec. Complex, PortHarcourt Express way, Owerri, Imo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--jigawa-min-021",
@@ -696,11 +716,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Dutse. Jigawa State."
+      "officeAddress": "Federal Sec. Complex, Dutse. Jigawa State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kano-mines-022",
@@ -729,11 +750,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 2 Zaria Rd. Beside Unity Bank H/Qtrs. Kano. Kano State."
+      "officeAddress": "No. 2 Zaria Rd. Beside Unity Bank H/Qtrs. Kano. Kano State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--katsina-mi-023",
@@ -762,11 +784,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex. Katsina. Katsina State."
+      "officeAddress": "Federal Sec. Complex. Katsina. Katsina State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kebbi-mine-024",
@@ -795,11 +818,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "C/o Kebbi State Ministry of Environment Haliru Audu Secretariat Brinin Kebbi. Kebbi State"
+      "officeAddress": "C/o Kebbi State Ministry of Environment Haliru Audu Secretariat Brinin Kebbi. Kebbi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kogi-mines-025",
@@ -828,11 +852,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 9 Sam Akoji Avenue, Lokongoma, Phase 2 Lokoja, Kogi State"
+      "officeAddress": "No. 9 Sam Akoji Avenue, Lokongoma, Phase 2 Lokoja, Kogi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kwara-mine-026",
@@ -861,11 +886,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Secretariat Complex, Fate Rd., Ilorin. Kwara State."
+      "officeAddress": "Federal Secretariat Complex, Fate Rd., Ilorin. Kwara State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--lagos-mine-027",
@@ -894,11 +920,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "6th Floor, Glass house, Fed. Min. of Works complex, Moloney Street, Lagos State."
+      "officeAddress": "6th Floor, Glass house, Fed. Min. of Works complex, Moloney Street, Lagos State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--nasarawa-m-028",
@@ -927,11 +954,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "54, Jos Road, P.M.B .99, Lafia. Nasarawa State"
+      "officeAddress": "54, Jos Road, P.M.B .99, Lafia. Nasarawa State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--niger-mine-029",
@@ -960,11 +988,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, P.M.B. 172 Minna. Niger State."
+      "officeAddress": "Federal Sec. Complex, P.M.B. 172 Minna. Niger State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ogun-mines-030",
@@ -993,11 +1022,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "4th Floor Room 4.16, Federal Secretariat Complex, Oke-Mosan, Abeokuta, Ogun State"
+      "officeAddress": "4th Floor Room 4.16, Federal Secretariat Complex, Oke-Mosan, Abeokuta, Ogun State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ondo-mines-031",
@@ -1026,11 +1056,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Igbatoro Rd. Akure, Ondo State."
+      "officeAddress": "Federal Sec. Complex, Igbatoro Rd. Akure, Ondo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--osun-mines-032",
@@ -1059,11 +1090,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Km 7, New Ikirun Rd., Ota-Efun, Oshogbo. Osun State."
+      "officeAddress": "Km 7, New Ikirun Rd., Ota-Efun, Oshogbo. Osun State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--rivers-min-033",
@@ -1092,11 +1124,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Aba Road. Port Harcourt, Rivers State"
+      "officeAddress": "Federal Sec. Complex, Aba Road. Port Harcourt, Rivers State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--sokoto-min-034",
@@ -1125,11 +1158,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 4 Abdulrahman Alzaid Road, Sokoto, Sokoto State."
+      "officeAddress": "No. 4 Abdulrahman Alzaid Road, Sokoto, Sokoto State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--taraba-min-035",
@@ -1158,11 +1192,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 54 Donga Road, Jalingo, Taraba State."
+      "officeAddress": "No. 54 Donga Road, Jalingo, Taraba State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--yobe-mines-036",
@@ -1191,11 +1226,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Damaturu. Yobe State"
+      "officeAddress": "Federal Sec. Complex, Damaturu. Yobe State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--zamfara-mi-037",
@@ -1224,11 +1260,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Block G2, Commissioner Quarters, Gusau-Sokoto Bypass, Gusau, Zamfara State."
+      "officeAddress": "Block G2, Commissioner Quarters, Gusau-Sokoto Bypass, Gusau, Zamfara State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     }
   ]
 }

@@ -34,7 +34,8 @@
       "jurisdiction": "Mineral exploration and mining projects within Bauchi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts mineral prospecting and exploration; manages state equity in mining ventures; partners with private companies; supports job creation and state revenue generation."
+      "summaryFunctions": "Conducts mineral prospecting and exploration; manages state equity in mining ventures; partners with private companies; supports job creation and state revenue generation.",
+      "mandate": "Responsible for commercial mineral exploration, development and investment partnerships on behalf of Bauchi State."
     },
     {
       "id": "state-benue-stat-002",
@@ -67,7 +68,8 @@
       "jurisdiction": "Solid mineral activities within Benue State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Coordinates state-owned mining initiatives; provides governance and oversight; supports licensing, monitoring and mineral resource management."
+      "summaryFunctions": "Coordinates state-owned mining initiatives; provides governance and oversight; supports licensing, monitoring and mineral resource management.",
+      "mandate": "Responsible for overseeing state mineral assets, regulating state-level mining activities and supporting state-owned mineral projects."
     },
     {
       "id": "state-benue-stat-003",
@@ -100,7 +102,8 @@
       "jurisdiction": "Mineral exploration and project development across Benue State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts geological studies, sampling and resource estimation; initiates mining projects; partners with investors; promotes commercial development of priority minerals."
+      "summaryFunctions": "Conducts geological studies, sampling and resource estimation; initiates mining projects; partners with investors; promotes commercial development of priority minerals.",
+      "mandate": "State-owned company responsible for mineral exploration, geological mapping and development of state mineral resources."
     },
     {
       "id": "state-fountain-s-004",
@@ -133,7 +136,8 @@
       "jurisdiction": "Mineral projects within Ekiti State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Leads state-backed mineral initiatives; undertakes exploration; partners with private miners; facilitates downstream processing and value addition projects."
+      "summaryFunctions": "Leads state-backed mineral initiatives; undertakes exploration; partners with private miners; facilitates downstream processing and value addition projects.",
+      "mandate": "Responsible for commercial mineral development for Ekiti State, including exploration, project participation and value-chain development."
     },
     {
       "id": "state-plateau-mi-005",
@@ -166,7 +170,8 @@
       "jurisdiction": "Mining and exploration activities within Plateau State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts exploration; manages state mineral assets; participates in joint ventures; oversees mineral-based projects including tin, columbite and granite."
+      "summaryFunctions": "Conducts exploration; manages state mineral assets; participates in joint ventures; oversees mineral-based projects including tin, columbite and granite.",
+      "mandate": "State-owned corporation managing Plateau Stateâ€™s mineral exploration and development portfolio."
     },
     {
       "id": "state-kaduna-min-006",
@@ -199,7 +204,8 @@
       "jurisdiction": "Solid mineral projects within Kaduna State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Identifies mineral opportunities; engages in exploration; secures partnerships; supports state industrialisation through mineral development."
+      "summaryFunctions": "Identifies mineral opportunities; engages in exploration; secures partnerships; supports state industrialisation through mineral development.",
+      "mandate": "Responsible for exploring, developing and commercialising mineral resources owned by Kaduna State."
     }
   ]
 }

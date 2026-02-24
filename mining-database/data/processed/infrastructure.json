@@ -22,8 +22,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -34,6 +34,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Turnkey mineral processing plant supplier active in Africa",
       "companySize": "Large",
       "equipment": "Processing plants, flotation systems, crushing/milling machinery",
       "currentProjects": "Expanding EPC presence in Nigeria's lithium & gold sector"
@@ -53,12 +54,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Lagos",
+        "state": "Niger",
         "lga": "",
-        "zone": "South West",
+        "zone": "North Central",
         "coordinates": [
-          3.3792,
-          6.5244
+          5.6378,
+          9.8908
         ],
         "coordinateType": "centroid"
       },
@@ -69,6 +70,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies lab equipment to miners, universities, and geoscience labs",
       "companySize": "Medium",
       "equipment": "Assay instruments, geochemistry tools, scientific equipment",
       "currentProjects": "Supporting various exploration campaigns in Nigeria"
@@ -87,13 +89,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Henan",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -104,6 +106,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Major supplier of processing machinery to African miners",
       "companySize": "Large",
       "equipment": "Crushers, ball mills, rotary kilns, beneficiation lines",
       "currentProjects": "Equipment used in tin, gold, quarrying & lithium operations in Nigeria"
@@ -122,13 +125,13 @@
         "address": ""
       },
       "location": {
-        "city": "Lagos",
-        "state": "Lagos",
+        "city": "Liaoning",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -139,6 +142,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies flotation chemicals to mineral processors",
       "companySize": "Medium",
       "equipment": "Flotation chemicals & reagents",
       "currentProjects": "Active in REE, lithium & columbite beneficiation"
@@ -158,12 +162,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Lagos",
+        "state": "Niger",
         "lga": "",
-        "zone": "South West",
+        "zone": "North Central",
         "coordinates": [
-          3.3792,
-          6.5244
+          5.6478,
+          9.880799999999999
         ],
         "coordinateType": "centroid"
       },
@@ -174,6 +178,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Nigerian branch of XCMG machinery",
       "companySize": "Large",
       "equipment": "Excavators, bulldozers, haulage trucks",
       "currentProjects": "Supplies machinery to lithium, quarry & coal miners in Nigeria"
@@ -192,13 +197,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Tamil Nadu",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -209,6 +214,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Popular among ASM operators for small-scale processing plants",
       "companySize": "Medium",
       "equipment": "Grinding mills, washing plants, gem processing machinery",
       "currentProjects": "Supports gold, precious stones & pegmatite processing"
@@ -227,13 +233,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Hebei",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -244,6 +250,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Chemical supplier for concentrators",
       "companySize": "Medium",
       "equipment": "Flotation chemicals & mineral reagents",
       "currentProjects": "Active in Nigeria via Lagos import channels"
@@ -263,12 +270,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.6578,
+          9.8708
         ],
         "coordinateType": "centroid"
       },
@@ -279,6 +286,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies mining tools and equipment to public and private operators",
       "companySize": "Medium",
       "equipment": "Processing machinery, testing equipment, logistics",
       "currentProjects": "Supports lithium, gold & REE exploration companies"
@@ -314,6 +322,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Nigeria's largest CAT distributor",
       "companySize": "Large",
       "equipment": "Caterpillar mining trucks, bulldozers, loaders",
       "currentProjects": "Widely used in quarrying, limestone & coal mining"
@@ -333,12 +342,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.5978,
+          9.9308
         ],
         "coordinateType": "centroid"
       },
@@ -349,6 +358,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Provides heavy civil engineering & quarry services",
       "companySize": "Large",
       "equipment": "Quarry equipment, mine development, civil works",
       "currentProjects": "Active in aggregates & mine access roads"
@@ -384,6 +394,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Key supplier of drilling equipment",
       "companySize": "Large",
       "equipment": "Exploration rigs, compressors, drilling consumables",
       "currentProjects": "Used across gold, lithium & tin exploration"
@@ -403,9 +414,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.537800000000001,
           9.9908
@@ -419,6 +430,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Global mining OEM active through local partners",
       "companySize": "Large",
       "equipment": "Crushers, drill rigs, liners",
       "currentProjects": "Used in tin, columbite & quarry operations"
@@ -438,9 +450,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6078,
           9.9208
@@ -454,6 +466,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Major provider for exploration drilling firms",
       "companySize": "Large",
       "equipment": "Core drilling rigs, diamond bits",
       "currentProjects": "Used in advanced lithium, gold & REE drilling"

@@ -79,7 +79,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -95,7 +95,9 @@
       "valueChainRole": "Policy leadership, regulation and strategic coordination across the mineral value chain.",
       "jurisdiction": "Federal Republic of Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Sets policy and legal framework for mining; oversees regulatory agencies; coordinates reforms, federal–state relations and international cooperation in the minerals sector.",
+      "mandate": "Formulate and implement national policies for solid minerals development, regulate and supervise the mining sector,\n and drive investment and value addition."
     },
     {
       "id": "feder-mining-cad-002",
@@ -111,13 +113,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -127,7 +129,9 @@
       "valueChainRole": "Administration of mineral rights, licensing and tenure management.",
       "jurisdiction": "Nationwide mineral title coverage",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Processes applications for exploration and mining licences; maintains the digital cadastre; grants, renews and revokes titles; and provides tenure information to government and investors.",
+      "mandate": "Administer and manage mineral titles in Nigeria through a transparent mining cadastre system."
     },
     {
       "id": "feder-mines-insp-003",
@@ -143,13 +147,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -159,7 +163,9 @@
       "valueChainRole": "Operational oversight, safety enforcement and production monitoring.",
       "jurisdiction": "All licensed mine sites in Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Inspects mine sites; investigates accidents and unsafe practices; verifies production data; and issues compliance directives and sanctions where necessary.",
+      "mandate": "Enforce mine health, safety and technical standards and monitor compliance with mining regulations."
     },
     {
       "id": "feder-nigerian-g-004",
@@ -175,13 +181,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -191,7 +197,9 @@
       "valueChainRole": "Upstream geological mapping, resource identification and exploration support.",
       "jurisdiction": "Entire national territory and offshore areas under Nigerian control",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Carries out geological, geochemical and geophysical surveys; produces maps and reports; identifies mineral targets; and provides geodata to government, investors and researchers.",
+      "mandate": "Generate, store and disseminate geoscientific and mineral resource data for Nigeria."
     },
     {
       "id": "feder-national-e-005",
@@ -207,13 +215,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -223,7 +231,9 @@
       "valueChainRole": "Environmental compliance, pollution control and enforcement in mining and processing.",
       "jurisdiction": "Federal Republic of Nigeria (excluding upstream petroleum operations)",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Monitors environmental performance of facilities; enforces EIAs and sector regulations; investigates complaints and imposes sanctions for non‑compliance in mining and related activities.",
+      "mandate": "Enforce environmental laws, regulations and standards (excluding upstream oil and gas) across Nigeria."
     },
     {
       "id": "feder-raw-materi-006",
@@ -239,7 +249,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -255,7 +265,9 @@
       "valueChainRole": "Linking minerals to industry, processing and manufacturing value chains.",
       "jurisdiction": "Nationwide raw materials and industrial sectors",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Conducts studies on industrial raw materials; advises government and industry on local sourcing; supports projects that upgrade and substitute imported raw materials using Nigerian minerals.",
+      "mandate": "Promote research, development and utilisation of Nigeria’s raw materials for industrialisation."
     },
     {
       "id": "feder-nigeria-ex-008",
@@ -271,7 +283,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -287,7 +299,9 @@
       "valueChainRole": "Revenue transparency, governance and accountability across the value chain.",
       "jurisdiction": "All extractive sectors and government entities handling extractive revenues in Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Produces independent reconciliation reports; discloses payments and revenues; engages government, companies and civil society to strengthen governance of the minerals sector.",
+      "mandate": "Promote transparency and accountability in the management of revenues from Nigeria’s extractive industries."
     },
     {
       "id": "feder-the-depart-009",
@@ -303,13 +317,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -319,7 +333,9 @@
       "valueChainRole": "Sector‑specific environmental oversight within the mining value chain.",
       "jurisdiction": "Mining and quarrying operations across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Reviews and monitors mine environmental management plans; works with NESREA and state authorities on remediation, closure and reclamation issues.",
+      "mandate": "Oversee and coordinate environmental compliance obligations specific to mining operations under MMSD."
     },
     {
       "id": "feder-artisanal--010",
@@ -335,13 +351,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -351,7 +367,9 @@
       "valueChainRole": "ASM formalisation, support services and integration into the formal minerals economy.",
       "jurisdiction": "Artisanal and small‑scale mining operators nationwide",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Supports cooperatives and licensing of ASM; provides extension and technical assistance; and promotes safer, more environmentally responsible practices among small‑scale miners.",
+      "mandate": "Formalise, support and regulate artisanal and small‑scale mining activities in Nigeria."
     },
     {
       "id": "feder-solid-mine-011",
@@ -367,7 +385,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -383,7 +401,9 @@
       "valueChainRole": "Project finance, de‑risking exploration and supporting early‑stage development.",
       "jurisdiction": "Eligible solid minerals projects across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Invests in geoscience data, exploration and strategic projects; partners with private investors; and supports projects that enhance Nigeria’s mineral value addition.",
+      "mandate": "Provide financing and catalytic investments to stimulate exploration and development of Nigeria’s solid minerals."
     },
     {
       "id": "feder-national-a-012",
@@ -399,13 +419,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -415,7 +435,9 @@
       "valueChainRole": "Legislative oversight, law‑making and budget scrutiny for the minerals sector.",
       "jurisdiction": "Federal legislative oversight across all mining institutions and programmes",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Reviews and amends mining and minerals laws; oversees MMSD and its agencies; and approves sectoral budgets and key policy instruments.",
+      "mandate": "Exercise legislative oversight over the mines and steel sector and review relevant laws and budgets."
     },
     {
       "id": "feder-national-s-013",
@@ -447,7 +469,9 @@
       "valueChainRole": "Upstream exploration for steel‑related minerals (iron ore, coal, limestone, etc.).",
       "jurisdiction": "Prospective iron and steel raw material provinces across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Carries out geological exploration and evaluation of iron ore, coal and other inputs; supports planning and development of the domestic steel industry.",
+      "mandate": "Explore and evaluate raw materials required for the iron and steel industry in Nigeria."
     },
     {
       "id": "state-bauchi-sta-001",
@@ -474,13 +498,14 @@
         "coordinateType": "centroid"
       },
       "description": "Develop, regulate and manage Bauchi State’s solid mineral resources, including policy, investment promotion and sector governance.",
-      "website": "",
+      "website": "https://monar.bauchistate.gov.ng/",
       "acronym": "",
       "valueChainRole": "State-level policy, regulation and investment coordination for minerals.",
       "jurisdiction": "All solid mineral activities within Bauchi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Designs and implements solid minerals policy; supervises mining and quarrying; promotes investment and reforms; coordinates with federal agencies and communities."
+      "summaryFunctions": "Designs and implements solid minerals policy; supervises mining and quarrying; promotes investment and reforms; coordinates with federal agencies and communities.",
+      "mandate": "Develop, regulate and manage Bauchi State’s solid mineral resources, including policy, investment promotion and sector governance."
     },
     {
       "id": "state-ministry-o-002",
@@ -507,13 +532,14 @@
         "coordinateType": "centroid"
       },
       "description": "Oversee land administration, surveying and regulation of the solid minerals sector in Benue State.",
-      "website": "",
+      "website": "https://www.iambenue.com/benue-state/benue-state-ministries/lands-and-survey/",
       "acronym": "",
       "valueChainRole": "Sector coordination, regulation and land/tenure support for mining.",
       "jurisdiction": "Land and mineral activities in Benue State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Allocates land for mining; regulates operations; supports sector planning and coordination; liaises with federal regulators and investors."
+      "summaryFunctions": "Allocates land for mining; regulates operations; supports sector planning and coordination; liaises with federal regulators and investors.",
+      "mandate": "Oversee land administration, surveying and regulation of the solid minerals sector in Benue State."
     },
     {
       "id": "state-cross-rive-003",
@@ -540,13 +566,14 @@
         "coordinateType": "centroid"
       },
       "description": "Manage, regulate and promote sustainable development of Cross River State’s mineral resources.",
-      "website": "",
+      "website": "https://ipb.cr.gov.ng/solid-minerals-sector/",
       "acronym": "",
       "valueChainRole": "State-level policy, regulation and minerals sector governance.",
       "jurisdiction": "Solid mineral operations within Cross River State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Develops policies and regulations; supervises operators; supports investment promotion; coordinates environmental and regulatory compliance."
+      "summaryFunctions": "Develops policies and regulations; supervises operators; supports investment promotion; coordinates environmental and regulatory compliance.",
+      "mandate": "Manage, regulate and promote sustainable development of Cross River State’s mineral resources."
     },
     {
       "id": "state-ebonyi-sta-004",
@@ -573,13 +600,14 @@
         "coordinateType": "centroid"
       },
       "description": "Administer, regulate and develop Ebonyi State’s solid mineral resources.",
-      "website": "",
+      "website": "https://ebonyistate.gov.ng/ministry/solid-mineral-and-development",
       "acronym": "",
       "valueChainRole": "Regulation, sector planning and mineral development promotion.",
       "jurisdiction": "Solid mineral activities within Ebonyi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Oversees mining and quarrying; manages state mineral agreements; promotes responsible exploitation; engages communities and investors."
+      "summaryFunctions": "Oversees mining and quarrying; manages state mineral agreements; promotes responsible exploitation; engages communities and investors.",
+      "mandate": "Administer, regulate and develop Ebonyi State’s solid mineral resources."
     },
     {
       "id": "state-office-of--005",
@@ -612,7 +640,8 @@
       "jurisdiction": "Solid mineral activities within Ekiti State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Identifies mineral occurrences; supports investors; coordinates with federal agencies; advises government on mineral-led development."
+      "summaryFunctions": "Identifies mineral occurrences; supports investors; coordinates with federal agencies; advises government on mineral-led development.",
+      "mandate": "Coordinate the development and regulation of Ekiti State’s solid mineral resources."
     },
     {
       "id": "state-ministry-o-006",
@@ -639,13 +668,14 @@
         "coordinateType": "centroid"
       },
       "description": "Drive industrial development and regulate solid mineral activities in Jigawa State.",
-      "website": "",
+      "website": "https://www.investjigawa.gov.ng/sectors/solid-minerals/",
       "acronym": "",
       "valueChainRole": "Investment promotion and mineral value-chain development.",
       "jurisdiction": "Commerce, industry and solid mineral activities in Jigawa State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes mineral-linked industrial projects; supports investors; facilitates SME and value-chain development; coordinates compliance."
+      "summaryFunctions": "Promotes mineral-linked industrial projects; supports investors; facilitates SME and value-chain development; coordinates compliance.",
+      "mandate": "Drive industrial development and regulate solid mineral activities in Jigawa State."
     },
     {
       "id": "state-kano-state-007",
@@ -678,7 +708,8 @@
       "jurisdiction": "Solid mineral resources in Kano State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Maps opportunities; supervises operations; supports mineral-based SMEs; aligns mineral development with state economic goals."
+      "summaryFunctions": "Maps opportunities; supervises operations; supports mineral-based SMEs; aligns mineral development with state economic goals.",
+      "mandate": "Manage and promote sustainable development of Kano State’s mineral resources."
     },
     {
       "id": "state-kaduna-sta-008",
@@ -711,7 +742,8 @@
       "jurisdiction": "Solid mineral activities in Kaduna State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Coordinates licensing inputs; oversees mining activities; promotes value addition; engages communities and local government."
+      "summaryFunctions": "Coordinates licensing inputs; oversees mining activities; promotes value addition; engages communities and local government.",
+      "mandate": "Develop and implement mineral sector policy and support mineral-led economic activities in Kaduna State."
     },
     {
       "id": "state-ministry-o-009",
@@ -738,13 +770,14 @@
         "coordinateType": "centroid"
       },
       "description": "Oversee solid mineral development and mining activities in Kebbi State.",
-      "website": "",
+      "website": "https://www.kebbistate.gov.ng/agencies-category/ministries",
       "acronym": "",
       "valueChainRole": "Regulation and investment facilitation across exploration and mining.",
       "jurisdiction": "Mineral development and mining operations in Kebbi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supervises mines and quarries; supports investors; coordinates environmental and regulatory compliance; promotes responsible mineral exploitation."
+      "summaryFunctions": "Supervises mines and quarries; supports investors; coordinates environmental and regulatory compliance; promotes responsible mineral exploitation.",
+      "mandate": "Oversee solid mineral development and mining activities in Kebbi State."
     },
     {
       "id": "state-kogi-state-010",
@@ -771,13 +804,14 @@
         "coordinateType": "centroid"
       },
       "description": "Manage and develop Kogi State’s solid minerals and natural resources, including mapping and reserve estimation.",
-      "website": "",
+      "website": "https://kogistate.gov.ng/federal-government-grants-kogi-state-15-mining-licenses-to-harness-mineral-resources/",
       "acronym": "",
       "valueChainRole": "Resource assessment, sector planning and project facilitation.",
       "jurisdiction": "Solid mineral operations in Kogi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts mapping and studies; guides mineral project development; supports investors; works with communities and federal regulators."
+      "summaryFunctions": "Conducts mapping and studies; guides mineral project development; supports investors; works with communities and federal regulators.",
+      "mandate": "Manage and develop Kogi State’s solid minerals and natural resources, including mapping and reserve estimation."
     },
     {
       "id": "state-kwara-stat-011",
@@ -804,13 +838,14 @@
         "coordinateType": "centroid"
       },
       "description": "Promote, develop and manage the solid minerals sector in Kwara State.",
-      "website": "",
+      "website": "https://kwarastate.gov.ng/do-business/natural-resources/",
       "acronym": "",
       "valueChainRole": "Sector development, exploration support and investment promotion.",
       "jurisdiction": "Solid mineral development across Kwara State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Identifies mineral opportunities; promotes investment; coordinates PPPs; supports local communities and state-backed mineral projects."
+      "summaryFunctions": "Identifies mineral opportunities; promotes investment; coordinates PPPs; supports local communities and state-backed mineral projects.",
+      "mandate": "Promote, develop and manage the solid minerals sector in Kwara State."
     },
     {
       "id": "state-ogun-state-012",
@@ -837,13 +872,14 @@
         "coordinateType": "centroid"
       },
       "description": "Manage and develop Ogun State’s mineral resources and ensure responsible mining.",
-      "website": "",
+      "website": "https://www.vanguardngr.com/2024/06/creation-of-mineral-resources-agency-best-interest-of-ogun-state-abiodun/",
       "acronym": "",
       "valueChainRole": "Resource management, data generation and oversight.",
       "jurisdiction": "Mineral resources and operations in Ogun State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts geological surveys; maintains mineral data bank; supports responsible mining; coordinates with communities for inclusive development."
+      "summaryFunctions": "Conducts geological surveys; maintains mineral data bank; supports responsible mining; coordinates with communities for inclusive development.",
+      "mandate": "Manage and develop Ogun State’s mineral resources and ensure responsible mining."
     },
     {
       "id": "state-bureau-for-013",
@@ -870,13 +906,14 @@
         "coordinateType": "centroid"
       },
       "description": "Regulate, promote and support exploration and sustainable development of Taraba State’s solid minerals.",
-      "website": "",
+      "website": "https://bsm.tr.gov.ng/",
       "acronym": "",
       "valueChainRole": "Regulation, exploration oversight and sustainable development planning.",
       "jurisdiction": "Solid mineral activities in Taraba State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Issues permits; supports exploration programmes; coordinates safeguards; promotes investment aligned with state priorities."
+      "summaryFunctions": "Issues permits; supports exploration programmes; coordinates safeguards; promotes investment aligned with state priorities.",
+      "mandate": "Regulate, promote and support exploration and sustainable development of Taraba State’s solid minerals."
     },
     {
       "id": "state-niger-stat-014",
@@ -903,13 +940,14 @@
         "coordinateType": "centroid"
       },
       "description": "Manage the mineral sector in Niger State, tackle illegal mining and support investment attraction.",
-      "website": "",
+      "website": "https://nigerstate.gov.ng/",
       "acronym": "",
       "valueChainRole": "Regulation, governance and investment promotion.",
       "jurisdiction": "Mineral resources and mining activities in Niger State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Profiles miners; combats illegal mining; coordinates strategies to attract investors; collaborates with security agencies and federal regulators."
+      "summaryFunctions": "Profiles miners; combats illegal mining; coordinates strategies to attract investors; collaborates with security agencies and federal regulators.",
+      "mandate": "Manage the mineral sector in Niger State, tackle illegal mining and support investment attraction."
     },
     {
       "id": "state-nasarawa-i-015",
@@ -936,13 +974,14 @@
         "coordinateType": "centroid"
       },
       "description": "Facilitate and coordinate investments in Nasarawa State, including PPPs and commercialisation of mineral assets.",
-      "website": "",
+      "website": "https://nasida.na.gov.ng/",
       "acronym": "",
       "valueChainRole": "Investment promotion and transaction facilitation.",
       "jurisdiction": "Investment projects and PPPs in Nasarawa State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Structures PPPs; markets investment opportunities; coordinates approvals; supports investors; commercialises mineral-linked state assets."
+      "summaryFunctions": "Structures PPPs; markets investment opportunities; coordinates approvals; supports investors; commercialises mineral-linked state assets.",
+      "mandate": "Facilitate and coordinate investments in Nasarawa State, including PPPs and commercialisation of mineral assets."
     },
     {
       "id": "state-zamfara-st-016",
@@ -975,7 +1014,8 @@
       "jurisdiction": "Environment, mines and solid minerals in Zamfara State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supervises mining with focus on environment and public health; coordinates remediation; supports formalisation and safer mining practices."
+      "summaryFunctions": "Supervises mining with focus on environment and public health; coordinates remediation; supports formalisation and safer mining practices.",
+      "mandate": "Regulate environmental protection and solid mineral development in Zamfara State."
     },
     {
       "id": "state-office-of--017",
@@ -1008,7 +1048,8 @@
       "jurisdiction": "Energy and mineral activities in Lagos State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Plans and regulates energy and mineral resource use; enforces standards; coordinates with federal agencies; promotes sustainable mineral and energy projects."
+      "summaryFunctions": "Plans and regulates energy and mineral resource use; enforces standards; coordinates with federal agencies; promotes sustainable mineral and energy projects.",
+      "mandate": "Manage Lagos State’s energy and mineral resources and enforce environmental/resource standards."
     },
     {
       "id": "state-oyo-state--018",
@@ -1035,13 +1076,14 @@
         "coordinateType": "centroid"
       },
       "description": "Responsible for formulating, coordinating and implementing policies on energy and mineral resources in Oyo State, including the development, regulation and sustainable management of mineral assets and energy resources.",
-      "website": "",
+      "website": "https://energy.oyostate.gov.ng/",
       "acronym": "",
       "valueChainRole": "Energy and minerals sector policy, regulation, investment facilitation and environmental oversight.",
       "jurisdiction": "Energy and solid mineral activities within Oyo State",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Develops and enforces state policies on energy and mineral resource management; supervises mining and quarrying operations; coordinates with federal agencies on licensing and compliance; supports investment in mineral and energy projects; ensures environmental and community safeguards; promotes sustainable resource exploitation to enhance state economic development."
+      "summaryFunctions": "Develops and enforces state policies on energy and mineral resource management; supervises mining and quarrying operations; coordinates with federal agencies on licensing and compliance; supports investment in mineral and energy projects; ensures environmental and community safeguards; promotes sustainable resource exploitation to enhance state economic development.",
+      "mandate": "Responsible for formulating, coordinating and implementing policies on energy and mineral resources in Oyo State, including the development, regulation and sustainable management of mineral assets and energy resources."
     },
     {
       "id": "mmsd--north-cent-001",
@@ -1070,12 +1112,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "Regulation & Compliance Enforcement\n\nMine Health & Safety Oversight\n\nEnvironmental Monitoring\n\nProduction Verification & Data Collection\n\nField Operations / Day-to-Day Supervision\n\nThese offices implement federal mining regulations directly at state level.",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-Central oversight",
-      "officeAddress": "No. 2, Club Road. Jos, Plateau State"
+      "officeAddress": "No. 2, Club Road. Jos, Plateau State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--north-east-002",
@@ -1104,12 +1147,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-East oversight",
-      "officeAddress": "No. 2, Nursery Rd. Beside Lake Chad Hotel, Maiduguri. Borno State"
+      "officeAddress": "No. 2, Nursery Rd. Beside Lake Chad Hotel, Maiduguri. Borno State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--north-west-003",
@@ -1138,12 +1182,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for North-West oversight",
-      "officeAddress": "No. 1 & 2, Aliu Makama Road. Barnawa, Kaduna State"
+      "officeAddress": "No. 1 & 2, Aliu Makama Road. Barnawa, Kaduna State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-west-004",
@@ -1172,12 +1217,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-West oversight",
-      "officeAddress": "Federal Sec. Complex, Ikolaba P.M.B 5028, Ibadan. Oyo State."
+      "officeAddress": "Federal Sec. Complex, Ikolaba P.M.B 5028, Ibadan. Oyo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-sout-005",
@@ -1206,12 +1252,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-South oversight",
-      "officeAddress": "Federal Sec. Complex, Auchi-Benin Road, Aduwawa, Benin city, Edo State."
+      "officeAddress": "Federal Sec. Complex, Auchi-Benin Road, Aduwawa, Benin city, Edo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--south-east-006",
@@ -1240,12 +1287,13 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
       "notes": "HQ for South-East oversight",
-      "officeAddress": "No. 11, Leck Avenue, State Sec. Enugu, Enugu State."
+      "officeAddress": "No. 11, Leck Avenue, State Sec. Enugu, Enugu State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--adamawa-mi-007",
@@ -1274,11 +1322,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Yola road, Yola, Adamawa State."
+      "officeAddress": "Federal Sec. Complex, Yola road, Yola, Adamawa State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--akwa-ibom--008",
@@ -1307,11 +1356,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Abak Road, Uyo, Akwa Ibom State."
+      "officeAddress": "Federal Sec. Complex, Abak Road, Uyo, Akwa Ibom State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--abia-mines-009",
@@ -1340,11 +1390,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Plot 55 Government Station Layout, Ehimiri, Umuahia, Abia State"
+      "officeAddress": "Plot 55 Government Station Layout, Ehimiri, Umuahia, Abia State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--anambra-mi-010",
@@ -1373,11 +1424,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 203, Zip Avenue, Amawbia Awka South, Opposite St. Augustine Anglican Church Umuokpu, Awka, Anambra State"
+      "officeAddress": "No. 203, Zip Avenue, Amawbia Awka South, Opposite St. Augustine Anglican Church Umuokpu, Awka, Anambra State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--bauchi-min-011",
@@ -1406,11 +1458,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "3rd floor, Federal Sec. Complex, P.M.B 0173, Bauchi, Bauchi State"
+      "officeAddress": "3rd floor, Federal Sec. Complex, P.M.B 0173, Bauchi, Bauchi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--bayelsa-mi-012",
@@ -1439,11 +1492,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Otiotio Road, Yenezuegene No. BGIS 692 Yanagoa, Bayelsa State"
+      "officeAddress": "Otiotio Road, Yenezuegene No. BGIS 692 Yanagoa, Bayelsa State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--benue-mine-013",
@@ -1472,11 +1526,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Makurdi. Benue State."
+      "officeAddress": "Federal Sec. Complex, Makurdi. Benue State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--cross-rive-014",
@@ -1505,11 +1560,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, P.M.B 1060, Calabar. Cross River State."
+      "officeAddress": "Federal Sec. Complex, P.M.B 1060, Calabar. Cross River State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--delta-mine-015",
@@ -1538,11 +1594,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Fed. Sec Complex, Okpnama Road, Asaba, Delta State"
+      "officeAddress": "Fed. Sec Complex, Okpnama Road, Asaba, Delta State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ebonyi-min-016",
@@ -1571,11 +1628,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 3, Nwaele Street, GRA By CBN Office, Abakaliki, Ebonyi State."
+      "officeAddress": "No. 3, Nwaele Street, GRA By CBN Office, Abakaliki, Ebonyi State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ekiti-mine-017",
@@ -1604,11 +1662,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Block 11/12, Ayo Fayose Housing Estate, Afao Rd. Ado Ekiti, Ekiti State."
+      "officeAddress": "Block 11/12, Ayo Fayose Housing Estate, Afao Rd. Ado Ekiti, Ekiti State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--fct-mines--018",
@@ -1637,11 +1696,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 10 Lola Close, Off Luanda Crescent, Behind Ministry of Mines and Steel Dev. Complex, FCT, Abuja"
+      "officeAddress": "No. 10 Lola Close, Off Luanda Crescent, Behind Ministry of Mines and Steel Dev. Complex, FCT, Abuja",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--gombe-mine-019",
@@ -1670,11 +1730,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Secretariat Biu Rd. (Beside PHCN Pantami undertaking Office) Gombe. Gombe State."
+      "officeAddress": "Federal Secretariat Biu Rd. (Beside PHCN Pantami undertaking Office) Gombe. Gombe State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--imo-mines--020",
@@ -1703,11 +1764,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, PortHarcourt Express way, Owerri, Imo State."
+      "officeAddress": "Federal Sec. Complex, PortHarcourt Express way, Owerri, Imo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--jigawa-min-021",
@@ -1736,11 +1798,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Dutse. Jigawa State."
+      "officeAddress": "Federal Sec. Complex, Dutse. Jigawa State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kano-mines-022",
@@ -1769,11 +1832,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 2 Zaria Rd. Beside Unity Bank H/Qtrs. Kano. Kano State."
+      "officeAddress": "No. 2 Zaria Rd. Beside Unity Bank H/Qtrs. Kano. Kano State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--katsina-mi-023",
@@ -1802,11 +1866,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex. Katsina. Katsina State."
+      "officeAddress": "Federal Sec. Complex. Katsina. Katsina State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kebbi-mine-024",
@@ -1835,11 +1900,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "C/o Kebbi State Ministry of Environment Haliru Audu Secretariat Brinin Kebbi. Kebbi State"
+      "officeAddress": "C/o Kebbi State Ministry of Environment Haliru Audu Secretariat Brinin Kebbi. Kebbi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kogi-mines-025",
@@ -1868,11 +1934,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 9 Sam Akoji Avenue, Lokongoma, Phase 2 Lokoja, Kogi State"
+      "officeAddress": "No. 9 Sam Akoji Avenue, Lokongoma, Phase 2 Lokoja, Kogi State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--kwara-mine-026",
@@ -1901,11 +1968,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Secretariat Complex, Fate Rd., Ilorin. Kwara State."
+      "officeAddress": "Federal Secretariat Complex, Fate Rd., Ilorin. Kwara State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--lagos-mine-027",
@@ -1934,11 +2002,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "6th Floor, Glass house, Fed. Min. of Works complex, Moloney Street, Lagos State."
+      "officeAddress": "6th Floor, Glass house, Fed. Min. of Works complex, Moloney Street, Lagos State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--nasarawa-m-028",
@@ -1967,11 +2036,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "54, Jos Road, P.M.B .99, Lafia. Nasarawa State"
+      "officeAddress": "54, Jos Road, P.M.B .99, Lafia. Nasarawa State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--niger-mine-029",
@@ -2000,11 +2070,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, P.M.B. 172 Minna. Niger State."
+      "officeAddress": "Federal Sec. Complex, P.M.B. 172 Minna. Niger State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ogun-mines-030",
@@ -2033,11 +2104,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "4th Floor Room 4.16, Federal Secretariat Complex, Oke-Mosan, Abeokuta, Ogun State"
+      "officeAddress": "4th Floor Room 4.16, Federal Secretariat Complex, Oke-Mosan, Abeokuta, Ogun State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--ondo-mines-031",
@@ -2066,11 +2138,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Igbatoro Rd. Akure, Ondo State."
+      "officeAddress": "Federal Sec. Complex, Igbatoro Rd. Akure, Ondo State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--osun-mines-032",
@@ -2099,11 +2172,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Km 7, New Ikirun Rd., Ota-Efun, Oshogbo. Osun State."
+      "officeAddress": "Km 7, New Ikirun Rd., Ota-Efun, Oshogbo. Osun State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--rivers-min-033",
@@ -2132,11 +2206,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Aba Road. Port Harcourt, Rivers State"
+      "officeAddress": "Federal Sec. Complex, Aba Road. Port Harcourt, Rivers State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--sokoto-min-034",
@@ -2165,11 +2240,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 4 Abdulrahman Alzaid Road, Sokoto, Sokoto State."
+      "officeAddress": "No. 4 Abdulrahman Alzaid Road, Sokoto, Sokoto State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--taraba-min-035",
@@ -2198,11 +2274,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "No. 54 Donga Road, Jalingo, Taraba State."
+      "officeAddress": "No. 54 Donga Road, Jalingo, Taraba State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--yobe-mines-036",
@@ -2231,11 +2308,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Federal Sec. Complex, Damaturu. Yobe State"
+      "officeAddress": "Federal Sec. Complex, Damaturu. Yobe State",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "mmsd--zamfara-mi-037",
@@ -2264,11 +2342,12 @@
       "description": "",
       "website": "",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Regulation & Compliance Enforcement.\n\nMine Health & Safety Oversight.\n\nEnvironmental Monitoring.\n\nProduction Verification & Data Collection.\n\nField Operations / Day-to-Day Supervision.\n\nThese offices implement federal mining regulations directly at state level.",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "officeAddress": "Block G2, Commissioner Quarters, Gusau-Sokoto Bypass, Gusau, Zamfara State."
+      "officeAddress": "Block G2, Commissioner Quarters, Gusau-Sokoto Bypass, Gusau, Zamfara State.",
+      "mandate": "Enforce mining laws, operational standards, environmental obligations, and safety regulations under the Nigerian Minerals and Mining Act (2007).\n\nMonitor and document mineral production from mine sites.\n\nRegulate artisanal, small-scale and large-scale mining activities at state and zonal levels.\n\nConduct field inspections, audits, and compliance assessments across all mine/quarry operations."
     },
     {
       "id": "minin-jiuling-li-001",
@@ -3040,13 +3119,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -3148,13 +3227,13 @@
         "address": ""
       },
       "location": {
-        "city": "Kagarko",
-        "state": "Kaduna",
+        "city": "Gujeni",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          7.4388,
-          10.5264
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -3436,13 +3515,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -3508,13 +3587,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3486,
+          9.1265
         ],
         "coordinateType": "centroid"
       },
@@ -3616,13 +3695,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3586,
+          9.116499999999998
         ],
         "coordinateType": "centroid"
       },
@@ -3724,13 +3803,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3686,
+          9.106499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -3796,13 +3875,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3086,
+          9.1665
         ],
         "coordinateType": "centroid"
       },
@@ -3832,13 +3911,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3786000000000005,
+          9.096499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -3976,13 +4055,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4586,
+          9.016499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -4120,13 +4199,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3386000000000005,
+          9.1365
         ],
         "coordinateType": "centroid"
       },
@@ -4287,7 +4366,7 @@
       "name": "Miners Association of Nigeria (MAN)",
       "slug": "miners-association-of-nigeria-man",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "National ASM / industry association",
       "contact": {
         "person": "",
         "position": "",
@@ -4315,14 +4394,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Acts as an umbrella body for miner cooperatives; engages government on policies, taxation and access to finance; provides a platform for dialogue between miners, government and communities.",
       "mineralFocus": "All minerals (ASM, small & medium-scale)",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Represent miners across Nigeria and advocate for enabling policies, better operating conditions and sector development."
     },
     {
       "id": "artis-nigeria-ar-002",
       "name": "Nigeria Artisanal and Small-Scale Miners Association (NASSMA)",
       "slug": "nigeria-artisanal-and-small-scale-miners-association-nassma",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "National ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -4350,14 +4431,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Supports the formalisation of ASM; represents ASM interests before government; promotes safer, more productive mining practices and improved market access for small-scale miners.",
       "mineralFocus": "Artisanal and small-scale mining (all minerals)",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Organise and represent artisanal and small-scale miners across key mining states in Nigeria."
     },
     {
       "id": "artis-women-in-m-003",
       "name": "Women in Mining in Nigeria (WIMIN)",
       "slug": "women-in-mining-in-nigeria-wimin",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Gender-focused ASM and mining network",
       "contact": {
         "person": "",
         "position": "",
@@ -4385,14 +4468,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Organises women miners and traders into networks and cooperatives; delivers training on safety, business skills and rights; advocates for gender-responsive mining governance and community benefits.",
       "mineralFocus": "All minerals with strong ASM focus",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Promote womenâ€™s participation, rights and leadership in Nigeriaâ€™s mining and minerals sector, especially in ASM communities."
     },
     {
       "id": "artis-associatio-004",
       "name": "Association of Women Miners in Nigeria (AWMN)",
       "slug": "association-of-women-miners-in-nigeria-awmn",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Women miners association",
       "contact": {
         "person": "",
         "position": "",
@@ -4420,14 +4505,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Provides a platform for women miners to access training, finance and markets; works with government and partners to improve safety, income and recognition of women in ASM.",
       "mineralFocus": "Gold and gemstones, plus other ASM minerals",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Support women directly involved in artisanal and small-scale mining and mineral trading."
     },
     {
       "id": "artis-nigeria-ge-005",
       "name": "Nigeria Gemstone Miners Cooperative Union",
       "slug": "nigeria-gemstone-miners-cooperative-union",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Commodity-specific ASM cooperative union",
       "contact": {
         "person": "",
         "position": "",
@@ -4455,14 +4542,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Supports registration of gemstone cooperatives; negotiates better prices; promotes safer mining and basic processing; links miners to buyers in local and export markets.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Organise gemstone miners into cooperatives and facilitate market access and improved practices."
     },
     {
       "id": "artis-associatio-006",
       "name": "Association of Small-Scale Quarry Operators of Nigeria",
       "slug": "association-of-small-scale-quarry-operators-of-nigeria",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Quarry operators association",
       "contact": {
         "person": "",
         "position": "",
@@ -4490,14 +4579,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Engages with regulators on licensing and compliance; supports members on environmental and safety issues; advocates for infrastructure and fair levies for small quarries.",
       "mineralFocus": "Quarry products â€“ granite, laterite, sand etc.",
-      "formalInformal": "Formal"
+      "levelScope": "National",
+      "formalInformal": "Formal",
+      "mandate": "Represent small-scale quarry operators and ensure fair regulation and sustainable operations."
     },
     {
       "id": "artis-pagmi-gold-007",
       "name": "PAGMI Gold Cooperatives Network",
       "slug": "pagmi-gold-cooperatives-network",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Gold ASM cooperatives under PAGMI",
       "contact": {
         "person": "",
         "position": "",
@@ -4507,12 +4598,12 @@
       },
       "location": {
         "city": "",
-        "state": "Kebbi",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          4.1989,
-          11.4965
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4525,14 +4616,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Organises gold miners into registered cooperatives; provides access to legal markets and official offtakers; promotes safer practices and better community and environmental outcomes.",
       "mineralFocus": "Gold",
-      "formalInformal": "Formal"
+      "levelScope": "Multi-state",
+      "formalInformal": "Formal",
+      "mandate": "Formalise artisanal gold miners into cooperatives under the Presidential Artisanal Gold Mining Development Initiative (PAGMI)."
     },
     {
       "id": "artis-bauchi-min-008",
       "name": "Bauchi Mining Synergy and Exploration Limited (BAMSEL)",
       "slug": "bauchi-mining-synergy-and-exploration-limited-bamsel",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "State-owned mining company working with ASM",
       "contact": {
         "person": "",
         "position": "",
@@ -4541,13 +4634,13 @@
         "address": ""
       },
       "location": {
-        "city": "Bauchi",
-        "state": "Bauchi",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North East",
+        "zone": "Unknown",
         "coordinates": [
-          9.8442,
-          10.3158
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4560,14 +4653,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Carries out exploration and early-stage development; partners with cooperatives and private investors; helps integrate ASM areas into more structured projects.",
       "mineralFocus": "Mixed minerals (state portfolio)",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Develop mineral resources on behalf of Bauchi State, including through partnerships with ASM cooperatives."
     },
     {
       "id": "artis-ijero-ekit-009",
       "name": "Ijero-Ekiti Gemstone Miners Cooperative",
       "slug": "ijero-ekiti-gemstone-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -4576,13 +4671,13 @@
         "address": ""
       },
       "location": {
-        "city": "Ijero-Ekiti",
-        "state": "Ekiti",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          5.311,
-          7.719
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4595,14 +4690,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Helps members obtain formal titles and permits; negotiates prices; supports safer and more coordinated mining and community relations.",
       "mineralFocus": "Gemstones (tourmaline and others)",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise gemstone miners in the Ijero-Ekiti area into a cooperative for better regulation and market access."
     },
     {
       "id": "artis-aramoko-sm-010",
       "name": "Aramoko Small-Scale Miners Group",
       "slug": "aramoko-small-scale-miners-group",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM group",
       "contact": {
         "person": "",
         "position": "",
@@ -4611,13 +4708,13 @@
         "address": ""
       },
       "location": {
-        "city": "Aramoko",
-        "state": "Ekiti",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          5.311,
-          7.719
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4630,14 +4727,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Shares information on buyers and prices; organises informal rules for pit access and dispute resolution; serves as a contact point for government outreach.",
       "mineralFocus": "Gemstones and other small-scale minerals",
-      "formalInformal": "Informal"
+      "levelScope": "State",
+      "formalInformal": "Informal",
+      "mandate": "Provide a basic platform for small-scale miners around Aramoko to coordinate operations and negotiate with buyers."
     },
     {
       "id": "artis-karu-gemst-011",
       "name": "Karu Gemstone ASM Association",
       "slug": "karu-gemstone-asm-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "State-level ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -4646,13 +4745,13 @@
         "address": ""
       },
       "location": {
-        "city": "Karu",
-        "state": "Nasarawa",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          8.1985,
-          8.4909
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4665,14 +4764,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Engages with state and federal regulators; supports cooperative registration; promotes better environmental and safety practices among members.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Represent artisanal gemstone miners operating around Karu and neighbouring areas of Nasarawa State."
     },
     {
       "id": "artis-jos-tin-co-012",
       "name": "Jos Tin & Columbite Small-Scale Miners Cooperative",
       "slug": "jos-tin-columbite-small-scale-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Cooperative of tin & columbite miners",
       "contact": {
         "person": "",
         "position": "",
@@ -4681,13 +4782,13 @@
         "address": ""
       },
       "location": {
-        "city": "Jos",
-        "state": "Plateau",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          9.5179,
-          9.2182
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4700,14 +4801,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Registers members; coordinates sales and pricing; engages on tailings management and safety; provides a collective voice in policy dialogues.",
       "mineralFocus": "Tin, columbite and related minerals",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise small-scale tin and columbite miners around Jos into a cooperative framework."
     },
     {
       "id": "artis-barkin-lad-013",
       "name": "Barkin Ladi Gemstone Miners Association",
       "slug": "barkin-ladi-gemstone-miners-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM association",
       "contact": {
         "person": "",
         "position": "",
@@ -4716,13 +4819,13 @@
         "address": ""
       },
       "location": {
-        "city": "Barkin Ladi",
-        "state": "Plateau",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          9.5179,
-          9.2182
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4735,14 +4838,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Links miners with buyers; supports conflict resolution; engages with local authorities on environmental and security issues.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Represent artisanal gemstone miners in Barkin Ladi LGA of Plateau State."
     },
     {
       "id": "artis-bagega-gol-014",
       "name": "Bagega Gold Miners Association",
       "slug": "bagega-gold-miners-association",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM miners association",
       "contact": {
         "person": "",
         "position": "",
@@ -4751,13 +4856,13 @@
         "address": ""
       },
       "location": {
-        "city": "Bagega",
-        "state": "Zamfara",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          6.224,
-          12.1223
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4770,14 +4875,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Acts as a focal point for health interventions and safer mining campaigns; helps move miners into cooperatives under government programmes.",
       "mineralFocus": "Gold",
-      "formalInformal": "Informal transitioning to formal"
+      "levelScope": "State",
+      "formalInformal": "Informal transitioning to formal",
+      "mandate": "Organise gold miners in Bagega area for improved safety, health and formalisation."
     },
     {
       "id": "artis-anka-small-015",
       "name": "Anka Small-Scale Miners Cooperative",
       "slug": "anka-small-scale-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local miners cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -4786,13 +4893,13 @@
         "address": ""
       },
       "location": {
-        "city": "Anka",
-        "state": "Zamfara",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North West",
+        "zone": "Unknown",
         "coordinates": [
-          6.224,
-          12.1223
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4805,14 +4912,16 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Helps members obtain licences; coordinates sales to formal buyers; participates in government-supported programmes on safer mining and mercury reduction.",
       "mineralFocus": "Gold",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Provide a formal structure for small-scale gold miners in and around Anka, Zamfara State."
     },
     {
       "id": "artis-mambilla-p-016",
       "name": "Mambilla Plateau Gemstone Miners Cooperative",
       "slug": "mambilla-plateau-gemstone-miners-cooperative",
       "category": "Artisanal Miners",
-      "type": "Other",
+      "type": "Local ASM cooperative",
       "contact": {
         "person": "",
         "position": "",
@@ -4821,13 +4930,13 @@
         "address": ""
       },
       "location": {
-        "city": "Mambilla",
-        "state": "Taraba",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North East",
+        "zone": "Unknown",
         "coordinates": [
-          10.7738,
-          7.9999
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -4840,7 +4949,9 @@
       "dateAdded": "2026-01-29",
       "summaryFunctions": "Coordinates mining activities; organises collective selling; supports community negotiations and basic environmental stewardship.",
       "mineralFocus": "Gemstones",
-      "formalInformal": "Formal"
+      "levelScope": "State",
+      "formalInformal": "Formal",
+      "mandate": "Organise artisanal gemstone miners on the Mambilla Plateau."
     },
     {
       "id": "assoc-miners-ass-001",
@@ -4873,7 +4984,8 @@
       "jurisdiction": "Nationwide (all mining operators).",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Represents mining companies; engages government on policy reforms; supports mining business environment; provides platforms for dialogue between industry, government and communities."
+      "summaryFunctions": "Represents mining companies; engages government on policy reforms; supports mining business environment; provides platforms for dialogue between industry, government and communities.",
+      "mandate": "National industry association representing miners across Nigeria; advocates for enabling policies, sector development and improved operating environment."
     },
     {
       "id": "assoc-women-in-m-002",
@@ -4906,7 +5018,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supports women miners; conducts training and advocacy; engages policymakers on gender-responsive mining governance; leads national campaigns for women’s representation."
+      "summaryFunctions": "Supports women miners; conducts training and advocacy; engages policymakers on gender-responsive mining governance; leads national campaigns for women’s representation.",
+      "mandate": "Promote gender inclusion, women’s participation and leadership in Nigeria’s mining sector; provide advocacy, training and empowerment for women in mining."
     },
     {
       "id": "assoc-nigeria-in-003",
@@ -4939,7 +5052,8 @@
       "jurisdiction": "Nationwide indigenous communities.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Supports indigenous women in mining; drives advocacy on rights and inclusion; promotes safe and fair resource practices."
+      "summaryFunctions": "Supports indigenous women in mining; drives advocacy on rights and inclusion; promotes safe and fair resource practices.",
+      "mandate": "Advance participation and rights of indigenous women involved in mining and natural resource activities."
     },
     {
       "id": "assoc-nigerian-m-004",
@@ -4972,7 +5086,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes geoscience research; publishes journals; organises scientific conferences and training."
+      "summaryFunctions": "Promotes geoscience research; publishes journals; organises scientific conferences and training.",
+      "mandate": "Professional body for geoscientists, mining engineers and earth science professionals."
     },
     {
       "id": "assoc-nigerian-s-005",
@@ -5005,7 +5120,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training, technical guidance and certification; supports engineering best practices; advises government."
+      "summaryFunctions": "Provides training, technical guidance and certification; supports engineering best practices; advises government.",
+      "mandate": "Professional body promoting technical excellence, safety and industry development."
     },
     {
       "id": "assoc-council-of-006",
@@ -5038,7 +5154,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Certifies and licenses professionals; enforces ethical and technical standards; accredits academic programmes."
+      "summaryFunctions": "Certifies and licenses professionals; enforces ethical and technical standards; accredits academic programmes.",
+      "mandate": "Regulate and accredit mining and geoscience professionals in Nigeria."
     },
     {
       "id": "assoc-geological-007",
@@ -5071,7 +5188,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports geological fieldwork; publishes research."
+      "summaryFunctions": "Organises conferences; supports geological fieldwork; publishes research.",
+      "mandate": "Professional society for geologists promoting earth science and resource development."
     },
     {
       "id": "assoc-nigerian-a-008",
@@ -5104,7 +5222,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training; conducts groundwater studies; advises government on water resource management."
+      "summaryFunctions": "Provides training; conducts groundwater studies; advises government on water resource management.",
+      "mandate": "Professional body dedicated to hydrogeology and groundwater management."
     },
     {
       "id": "assoc-nigerian-a-009",
@@ -5137,7 +5256,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training and field workshops; advances engineering geology practice; supports infrastructure and mining projects."
+      "summaryFunctions": "Provides training and field workshops; advances engineering geology practice; supports infrastructure and mining projects.",
+      "mandate": "Professional society for engineering geology and geotechnics."
     },
     {
       "id": "assoc-miners-ass-010",
@@ -5170,7 +5290,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Mobilises youth; offers training; supports entrepreneurship and sector engagement."
+      "summaryFunctions": "Mobilises youth; offers training; supports entrepreneurship and sector engagement.",
+      "mandate": "Youth-focused wing promoting youth participation and innovation in mining."
     },
     {
       "id": "assoc-the-nigeri-011",
@@ -5203,7 +5324,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Engages government on economic policies; connects investors; promotes trade and mineral sector opportunities."
+      "summaryFunctions": "Engages government on economic policies; connects investors; promotes trade and mineral sector opportunities.",
+      "mandate": "Umbrella organisation representing business interests including mining."
     },
     {
       "id": "assoc-nigerian-m-012",
@@ -5236,7 +5358,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes metallurgical research; supports steel and metals development; organises capacity-building programmes."
+      "summaryFunctions": "Promotes metallurgical research; supports steel and metals development; organises capacity-building programmes.",
+      "mandate": "Professional body for metallurgists promoting materials science and metallurgy research."
     },
     {
       "id": "assoc-society-of-013",
@@ -5269,7 +5392,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides training; promotes innovation in exploration geoscience; connects academia and industry."
+      "summaryFunctions": "Provides training; promotes innovation in exploration geoscience; connects academia and industry.",
+      "mandate": "Supports geophysics education, research and exploration applications."
     },
     {
       "id": "assoc-society-fo-014",
@@ -5285,13 +5409,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5302,7 +5426,8 @@
       "jurisdiction": "Regional/National",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Delivers global-standard training; promotes best practices; links Nigerian professionals to global networks."
+      "summaryFunctions": "Delivers global-standard training; promotes best practices; links Nigerian professionals to global networks.",
+      "mandate": "Supports mining engineering, metallurgy and global mining standards."
     },
     {
       "id": "assoc-nigerian-a-015",
@@ -5335,7 +5460,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports research; participates in global engineering geology initiatives."
+      "summaryFunctions": "Organises conferences; supports research; participates in global engineering geology initiatives.",
+      "mandate": "Promotes engineering geology and environmental geoscience."
     },
     {
       "id": "assoc-geological-016",
@@ -5352,9 +5478,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6178,
           9.9108
@@ -5368,7 +5494,8 @@
       "jurisdiction": "Africa-wide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promotes African geoscience research; organises continental conferences; supports collaboration on minerals and geoscience."
+      "summaryFunctions": "Promotes African geoscience research; organises continental conferences; supports collaboration on minerals and geoscience.",
+      "mandate": "Pan-African society promoting Earth science across Africa."
     },
     {
       "id": "assoc-african-un-017",
@@ -5401,7 +5528,8 @@
       "jurisdiction": "Africa-wide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides technical assistance; supports reforms; promotes Africa’s mineral beneficiation agenda."
+      "summaryFunctions": "Provides technical assistance; supports reforms; promotes Africa’s mineral beneficiation agenda.",
+      "mandate": "Supports AU states with policies on minerals governance, beneficiation and capacity building."
     },
     {
       "id": "assoc-lagos-stat-018",
@@ -5434,7 +5562,8 @@
       "jurisdiction": "Lagos",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Promoting safe and sustainable mineral resource management practices, ensuring that haulage operations i"
+      "summaryFunctions": "Promoting safe and sustainable mineral resource management practices, ensuring that haulage operations i",
+      "mandate": "Collection of legal  dredging and mining operators in Lagos"
     },
     {
       "id": "state-bauchi-min-001",
@@ -5467,7 +5596,8 @@
       "jurisdiction": "Mineral exploration and mining projects within Bauchi State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts mineral prospecting and exploration; manages state equity in mining ventures; partners with private companies; supports job creation and state revenue generation."
+      "summaryFunctions": "Conducts mineral prospecting and exploration; manages state equity in mining ventures; partners with private companies; supports job creation and state revenue generation.",
+      "mandate": "Responsible for commercial mineral exploration, development and investment partnerships on behalf of Bauchi State."
     },
     {
       "id": "state-benue-stat-002",
@@ -5500,7 +5630,8 @@
       "jurisdiction": "Solid mineral activities within Benue State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Coordinates state-owned mining initiatives; provides governance and oversight; supports licensing, monitoring and mineral resource management."
+      "summaryFunctions": "Coordinates state-owned mining initiatives; provides governance and oversight; supports licensing, monitoring and mineral resource management.",
+      "mandate": "Responsible for overseeing state mineral assets, regulating state-level mining activities and supporting state-owned mineral projects."
     },
     {
       "id": "state-benue-stat-003",
@@ -5533,7 +5664,8 @@
       "jurisdiction": "Mineral exploration and project development across Benue State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts geological studies, sampling and resource estimation; initiates mining projects; partners with investors; promotes commercial development of priority minerals."
+      "summaryFunctions": "Conducts geological studies, sampling and resource estimation; initiates mining projects; partners with investors; promotes commercial development of priority minerals.",
+      "mandate": "State-owned company responsible for mineral exploration, geological mapping and development of state mineral resources."
     },
     {
       "id": "state-fountain-s-004",
@@ -5566,7 +5698,8 @@
       "jurisdiction": "Mineral projects within Ekiti State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Leads state-backed mineral initiatives; undertakes exploration; partners with private miners; facilitates downstream processing and value addition projects."
+      "summaryFunctions": "Leads state-backed mineral initiatives; undertakes exploration; partners with private miners; facilitates downstream processing and value addition projects.",
+      "mandate": "Responsible for commercial mineral development for Ekiti State, including exploration, project participation and value-chain development."
     },
     {
       "id": "state-plateau-mi-005",
@@ -5599,7 +5732,8 @@
       "jurisdiction": "Mining and exploration activities within Plateau State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts exploration; manages state mineral assets; participates in joint ventures; oversees mineral-based projects including tin, columbite and granite."
+      "summaryFunctions": "Conducts exploration; manages state mineral assets; participates in joint ventures; oversees mineral-based projects including tin, columbite and granite.",
+      "mandate": "State-owned corporation managing Plateau Stateâ€™s mineral exploration and development portfolio."
     },
     {
       "id": "state-kaduna-min-006",
@@ -5632,7 +5766,8 @@
       "jurisdiction": "Solid mineral projects within Kaduna State.",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Identifies mineral opportunities; engages in exploration; secures partnerships; supports state industrialisation through mineral development."
+      "summaryFunctions": "Identifies mineral opportunities; engages in exploration; secures partnerships; supports state industrialisation through mineral development.",
+      "mandate": "Responsible for exploring, developing and commercialising mineral resources owned by Kaduna State."
     },
     {
       "id": "infra-shandong-x-001",
@@ -5653,8 +5788,8 @@
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5665,6 +5800,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Turnkey mineral processing plant supplier active in Africa",
       "companySize": "Large",
       "equipment": "Processing plants, flotation systems, crushing/milling machinery",
       "currentProjects": "Expanding EPC presence in Nigeria's lithium & gold sector"
@@ -5684,12 +5820,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Lagos",
+        "state": "Niger",
         "lga": "",
-        "zone": "South West",
+        "zone": "North Central",
         "coordinates": [
-          3.3792,
-          6.5244
+          5.6378,
+          9.8908
         ],
         "coordinateType": "centroid"
       },
@@ -5700,6 +5836,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies lab equipment to miners, universities, and geoscience labs",
       "companySize": "Medium",
       "equipment": "Assay instruments, geochemistry tools, scientific equipment",
       "currentProjects": "Supporting various exploration campaigns in Nigeria"
@@ -5718,13 +5855,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Henan",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5735,6 +5872,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Major supplier of processing machinery to African miners",
       "companySize": "Large",
       "equipment": "Crushers, ball mills, rotary kilns, beneficiation lines",
       "currentProjects": "Equipment used in tin, gold, quarrying & lithium operations in Nigeria"
@@ -5753,13 +5891,13 @@
         "address": ""
       },
       "location": {
-        "city": "Lagos",
-        "state": "Lagos",
+        "city": "Liaoning",
+        "state": "Unknown",
         "lga": "",
-        "zone": "South West",
+        "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5770,6 +5908,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies flotation chemicals to mineral processors",
       "companySize": "Medium",
       "equipment": "Flotation chemicals & reagents",
       "currentProjects": "Active in REE, lithium & columbite beneficiation"
@@ -5789,12 +5928,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Lagos",
+        "state": "Niger",
         "lga": "",
-        "zone": "South West",
+        "zone": "North Central",
         "coordinates": [
-          3.3792,
-          6.5244
+          5.6478,
+          9.880799999999999
         ],
         "coordinateType": "centroid"
       },
@@ -5805,6 +5944,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Nigerian branch of XCMG machinery",
       "companySize": "Large",
       "equipment": "Excavators, bulldozers, haulage trucks",
       "currentProjects": "Supplies machinery to lithium, quarry & coal miners in Nigeria"
@@ -5823,13 +5963,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Tamil Nadu",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5840,6 +5980,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Popular among ASM operators for small-scale processing plants",
       "companySize": "Medium",
       "equipment": "Grinding mills, washing plants, gem processing machinery",
       "currentProjects": "Supports gold, precious stones & pegmatite processing"
@@ -5858,13 +5999,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Hebei",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          3.3792,
-          6.5244
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -5875,6 +6016,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Chemical supplier for concentrators",
       "companySize": "Medium",
       "equipment": "Flotation chemicals & mineral reagents",
       "currentProjects": "Active in Nigeria via Lagos import channels"
@@ -5894,12 +6036,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.6578,
+          9.8708
         ],
         "coordinateType": "centroid"
       },
@@ -5910,6 +6052,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Supplies mining tools and equipment to public and private operators",
       "companySize": "Medium",
       "equipment": "Processing machinery, testing equipment, logistics",
       "currentProjects": "Supports lithium, gold & REE exploration companies"
@@ -5945,6 +6088,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Nigeria's largest CAT distributor",
       "companySize": "Large",
       "equipment": "Caterpillar mining trucks, bulldozers, loaders",
       "currentProjects": "Widely used in quarrying, limestone & coal mining"
@@ -5964,12 +6108,12 @@
       },
       "location": {
         "city": "Abuja",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.5978,
+          9.9308
         ],
         "coordinateType": "centroid"
       },
@@ -5980,6 +6124,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Provides heavy civil engineering & quarry services",
       "companySize": "Large",
       "equipment": "Quarry equipment, mine development, civil works",
       "currentProjects": "Active in aggregates & mine access roads"
@@ -6015,6 +6160,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Key supplier of drilling equipment",
       "companySize": "Large",
       "equipment": "Exploration rigs, compressors, drilling consumables",
       "currentProjects": "Used across gold, lithium & tin exploration"
@@ -6034,9 +6180,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.537800000000001,
           9.9908
@@ -6050,6 +6196,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Global mining OEM active through local partners",
       "companySize": "Large",
       "equipment": "Crushers, drill rigs, liners",
       "currentProjects": "Used in tin, columbite & quarry operations"
@@ -6069,9 +6216,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6078,
           9.9208
@@ -6085,6 +6232,7 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
+      "functions": "Major provider for exploration drilling firms",
       "companySize": "Large",
       "equipment": "Core drilling rigs, diamond bits",
       "currentProjects": "Used in advanced lithium, gold & REE drilling"
@@ -6094,7 +6242,7 @@
       "name": "CSR-in-Action",
       "slug": "csr-in-action",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO/CSO",
       "contact": {
         "person": "",
         "position": "",
@@ -6128,7 +6276,7 @@
       "name": "BudgIT",
       "slug": "budgit",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6162,7 +6310,7 @@
       "name": "NEITI-CSO Working Group",
       "slug": "neiti-cso-working-group",
       "category": "NGOs",
-      "type": "Other",
+      "type": "CSO Coalition",
       "contact": {
         "person": "",
         "position": "",
@@ -6196,7 +6344,7 @@
       "name": "Centre for Transparency Advocacy (CTA)",
       "slug": "centre-for-transparency-advocacy-cta",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6230,7 +6378,7 @@
       "name": "Spaces for Change",
       "slug": "spaces-for-change",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6264,7 +6412,7 @@
       "name": "Environmental Rights Action (ERA/FoEN)",
       "slug": "environmental-rights-action-era-foen",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6298,7 +6446,7 @@
       "name": "Global Rights Nigeria",
       "slug": "global-rights-nigeria",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6332,7 +6480,7 @@
       "name": "Civil Society Legislative Advocacy Centre (CISLAC)",
       "slug": "civil-society-legislative-advocacy-centre-cislac",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6366,7 +6514,7 @@
       "name": "Connected Development (CODE)",
       "slug": "connected-development-code",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6400,7 +6548,7 @@
       "name": "Africa Centre for Leadership, Strategy & Development (Centre LSD)",
       "slug": "africa-centre-for-leadership-strategy-development-centre-lsd",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6434,7 +6582,7 @@
       "name": "Extractive360",
       "slug": "extractive360",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Media/CSO",
       "contact": {
         "person": "",
         "position": "",
@@ -6468,7 +6616,7 @@
       "name": "Human & Environmental Development Agenda (HEDA)",
       "slug": "human-environmental-development-agenda-heda",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6502,7 +6650,7 @@
       "name": "Women in Mining in Nigeria (WIMIN)",
       "slug": "women-in-mining-in-nigeria-wimin",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6536,7 +6684,7 @@
       "name": "Host Communities Network of Nigeria (HoCoN)",
       "slug": "host-communities-network-of-nigeria-hocon",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO/Network",
       "contact": {
         "person": "",
         "position": "",
@@ -6545,13 +6693,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
+        "city": "Nigeria (Niger Delta focus",
         "state": "Unknown",
         "lga": "",
         "zone": "Unknown",
         "coordinates": [
-          6.9115,
-          4.8396
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -6570,7 +6718,7 @@
       "name": "AFRI-CIRD (African Centre for Innovative Research & Development)",
       "slug": "afri-cird-african-centre-for-innovative-research-development",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6604,7 +6752,7 @@
       "name": "CEFSAN (Centre for Social Advancement & Development)",
       "slug": "cefsan-centre-for-social-advancement-development",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6638,7 +6786,7 @@
       "name": "Environmental Rights Initiative of Nigeria (ERIN)",
       "slug": "environmental-rights-initiative-of-nigeria-erin",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6648,9 +6796,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6878,
           9.8408
@@ -6672,7 +6820,7 @@
       "name": "PACT",
       "slug": "pact",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6682,9 +6830,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -6706,7 +6854,7 @@
       "name": "Solidaridad West Africa",
       "slug": "solidaridad-west-africa",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6716,9 +6864,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.627800000000001,
           9.9008
@@ -6740,7 +6888,7 @@
       "name": "Oxfam in Nigeria",
       "slug": "oxfam-in-nigeria",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6774,7 +6922,7 @@
       "name": "Natural Resource Governance Institute (NRGI)",
       "slug": "natural-resource-governance-institute-nrgi",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Think Tank/NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6784,9 +6932,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5678,
           9.960799999999999
@@ -6808,7 +6956,7 @@
       "name": "Global Witness",
       "slug": "global-witness",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6818,9 +6966,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6378,
           9.8908
@@ -6842,7 +6990,7 @@
       "name": "Heinrich Böll Foundation (HBF) – Abuja Office",
       "slug": "heinrich-b-ll-foundation-hbf-abuja-office",
       "category": "NGOs",
-      "type": "Other",
+      "type": "Political Foundation/NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6876,7 +7024,7 @@
       "name": "Search for Common Ground (SFCG)",
       "slug": "search-for-common-ground-sfcg",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6886,12 +7034,12 @@
       },
       "location": {
         "city": "",
-        "state": "FCT",
+        "state": "Niger",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          5.577800000000001,
+          9.9508
         ],
         "coordinateType": "centroid"
       },
@@ -6910,7 +7058,7 @@
       "name": "International Alert",
       "slug": "international-alert",
       "category": "NGOs",
-      "type": "Other",
+      "type": "International NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -6920,9 +7068,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.6478,
           9.880799999999999
@@ -6944,7 +7092,7 @@
       "name": "Ziva Communities Initiative",
       "slug": "ziva-communities-initiative",
       "category": "NGOs",
-      "type": "Other",
+      "type": "NGO",
       "contact": {
         "person": "",
         "position": "",
@@ -9153,7 +9301,7 @@
       "name": "World Bank",
       "slug": "world-bank",
       "category": "Donors",
-      "type": "Other",
+      "type": "Multilateral Donor",
       "contact": {
         "person": "",
         "position": "",
@@ -9162,13 +9310,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3686,
+          9.106499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -9187,7 +9335,7 @@
       "name": "African Development Bank (AfDB)",
       "slug": "african-development-bank-afdb",
       "category": "Donors",
-      "type": "Other",
+      "type": "Multilateral Development Bank",
       "contact": {
         "person": "",
         "position": "",
@@ -9197,12 +9345,12 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          5.6378,
+          9.8908
         ],
         "coordinateType": "centroid"
       },
@@ -9221,7 +9369,7 @@
       "name": "United Nations Development Programme (UNDP)",
       "slug": "united-nations-development-programme-undp",
       "category": "Donors",
-      "type": "Other",
+      "type": "UN Agency / Donor",
       "contact": {
         "person": "",
         "position": "",
@@ -9230,13 +9378,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3086,
+          9.1665
         ],
         "coordinateType": "centroid"
       },
@@ -9255,7 +9403,7 @@
       "name": "United Nations Industrial Development Organization (UNIDO)",
       "slug": "united-nations-industrial-development-organization-unido",
       "category": "Donors",
-      "type": "Other",
+      "type": "UN Agency / Donor",
       "contact": {
         "person": "",
         "position": "",
@@ -9265,9 +9413,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.577800000000001,
           9.9508
@@ -9289,7 +9437,7 @@
       "name": "United Nations Children’s Fund (UNICEF)",
       "slug": "united-nations-children-s-fund-unicef",
       "category": "Donors",
-      "type": "Other",
+      "type": "UN Agency",
       "contact": {
         "person": "",
         "position": "",
@@ -9298,13 +9446,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4486,
+          9.026499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -9323,7 +9471,7 @@
       "name": "International Labour Organization (ILO)",
       "slug": "international-labour-organization-ilo",
       "category": "Donors",
-      "type": "Other",
+      "type": "UN Agency",
       "contact": {
         "person": "",
         "position": "",
@@ -9333,9 +9481,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5178,
           10.0108
@@ -9357,7 +9505,7 @@
       "name": "International Finance Corporation (IFC)",
       "slug": "international-finance-corporation-ifc",
       "category": "Donors",
-      "type": "Other",
+      "type": "Multilateral Finance (Private Sector)",
       "contact": {
         "person": "",
         "position": "",
@@ -9391,7 +9539,7 @@
       "name": "European Union (EU Delegation to Nigeria)",
       "slug": "european-union-eu-delegation-to-nigeria",
       "category": "Donors",
-      "type": "Other",
+      "type": "Regional Multilateral Donor",
       "contact": {
         "person": "",
         "position": "",
@@ -9400,13 +9548,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4586,
+          9.016499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -9425,7 +9573,7 @@
       "name": "ECOWAS Commission",
       "slug": "ecowas-commission",
       "category": "Donors",
-      "type": "Other",
+      "type": "Regional Organisation",
       "contact": {
         "person": "",
         "position": "",
@@ -9434,13 +9582,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3286,
+          9.1465
         ],
         "coordinateType": "centroid"
       },
@@ -9459,7 +9607,7 @@
       "name": "FCDO – UK Foreign, Commonwealth & Development Office",
       "slug": "fcdo-uk-foreign-commonwealth-development-office",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Donor (UK)",
       "contact": {
         "person": "",
         "position": "",
@@ -9493,7 +9641,7 @@
       "name": "USAID – United States Agency for International Development",
       "slug": "usaid-united-states-agency-for-international-development",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Donor (US)",
       "contact": {
         "person": "",
         "position": "",
@@ -9502,13 +9650,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4686,
+          9.006499999999999
         ],
         "coordinateType": "centroid"
       },
@@ -9527,7 +9675,7 @@
       "name": "GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit",
       "slug": "giz-deutsche-gesellschaft-f-r-internationale-zusammenarbeit",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Implementer (Germany)",
       "contact": {
         "person": "",
         "position": "",
@@ -9536,13 +9684,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3386000000000005,
+          9.1365
         ],
         "coordinateType": "centroid"
       },
@@ -9561,7 +9709,7 @@
       "name": "Global Affairs Canada",
       "slug": "global-affairs-canada",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Donor (Canada)",
       "contact": {
         "person": "",
         "position": "",
@@ -9570,13 +9718,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "High Commission of Canada",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4086,
+          9.0665
         ],
         "coordinateType": "centroid"
       },
@@ -9595,7 +9743,7 @@
       "name": "Embassy of the Kingdom of the Netherlands",
       "slug": "embassy-of-the-kingdom-of-the-netherlands",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Donor (Netherlands)",
       "contact": {
         "person": "",
         "position": "",
@@ -9604,13 +9752,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4786,
+          8.9965
         ],
         "coordinateType": "centroid"
       },
@@ -9629,7 +9777,7 @@
       "name": "Agence Française de Développement (AFD)",
       "slug": "agence-fran-aise-de-d-veloppement-afd",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Development Finance (France)",
       "contact": {
         "person": "",
         "position": "",
@@ -9638,13 +9786,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.3486,
+          9.1265
         ],
         "coordinateType": "centroid"
       },
@@ -9663,7 +9811,7 @@
       "name": "Japan International Cooperation Agency (JICA)",
       "slug": "japan-international-cooperation-agency-jica",
       "category": "Donors",
-      "type": "Other",
+      "type": "Bilateral Development Agency (Japan)",
       "contact": {
         "person": "",
         "position": "",
@@ -9672,13 +9820,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4186,
+          9.0565
         ],
         "coordinateType": "centroid"
       },
@@ -9697,7 +9845,7 @@
       "name": "Ford Foundation – West Africa Office",
       "slug": "ford-foundation-west-africa-office",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9707,12 +9855,12 @@
       },
       "location": {
         "city": "Lagos",
-        "state": "Lagos",
+        "state": "Niger",
         "lga": "",
-        "zone": "South West",
+        "zone": "North Central",
         "coordinates": [
-          3.3792,
-          6.5244
+          5.6878,
+          9.8408
         ],
         "coordinateType": "centroid"
       },
@@ -9731,7 +9879,7 @@
       "name": "Open Society Foundations (OSF)",
       "slug": "open-society-foundations-osf",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9741,9 +9889,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5578,
           9.970799999999999
@@ -9765,7 +9913,7 @@
       "name": "MacArthur Foundation Nigeria",
       "slug": "macarthur-foundation-nigeria",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9774,13 +9922,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.4286,
+          9.0465
         ],
         "coordinateType": "centroid"
       },
@@ -9799,7 +9947,7 @@
       "name": "Rockefeller Foundation",
       "slug": "rockefeller-foundation",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9809,9 +9957,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.497800000000001,
           9.8308
@@ -9833,7 +9981,7 @@
       "name": "Bill & Melinda Gates Foundation",
       "slug": "bill-melinda-gates-foundation",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9843,9 +9991,9 @@
       },
       "location": {
         "city": "",
-        "state": "Unknown",
+        "state": "Niger",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
           5.5678,
           9.960799999999999
@@ -9867,7 +10015,7 @@
       "name": "Bloomberg Philanthropies",
       "slug": "bloomberg-philanthropies",
       "category": "Donors",
-      "type": "Other",
+      "type": "Philanthropic Foundation",
       "contact": {
         "person": "",
         "position": "",
@@ -9927,7 +10075,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Accredits academic programmes; licenses professionals; enforces competency and ethical standards; regulates geoscience and mining engineering practice."
+      "summaryFunctions": "Accredits academic programmes; licenses professionals; enforces competency and ethical standards; regulates geoscience and mining engineering practice.",
+      "mandate": "Statutory regulatory council mandated to accredit, certify and regulate the practice of mining engineering and geosciences in Nigeria."
     },
     {
       "id": "train-the-nigeri-002",
@@ -9960,7 +10109,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports engineering innovation; sets technical standards; strengthens collaboration among materials, mining and metallurgy professionals."
+      "summaryFunctions": "Organises conferences; supports engineering innovation; sets technical standards; strengthens collaboration among materials, mining and metallurgy professionals.",
+      "mandate": "Professional body promoting metallurgy, mining and materials engineering excellence."
     },
     {
       "id": "train-national-s-003",
@@ -9993,7 +10143,8 @@
       "jurisdiction": "Nationwide exploration mandate",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts geological mapping; evaluates mineral occurrences; supports steel and industrial minerals development; provides mineral data to industry and government."
+      "summaryFunctions": "Conducts geological mapping; evaluates mineral occurrences; supports steel and industrial minerals development; provides mineral data to industry and government.",
+      "mandate": "Federal agency mandated to explore, evaluate and develop steel raw materials including iron ore, limestone and kaolin."
     },
     {
       "id": "train-national-m-004",
@@ -10026,7 +10177,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Runs labs and pilot plants; conducts mineral processing studies; supports steel and alloy R&D; provides technical services and professional training."
+      "summaryFunctions": "Runs labs and pilot plants; conducts mineral processing studies; supports steel and alloy R&D; provides technical services and professional training.",
+      "mandate": "National R&D centre supporting Nigeria’s metallurgical, minerals processing and materials science sector."
     },
     {
       "id": "train-metallurgi-005",
@@ -10059,7 +10211,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Trains technicians for mining and metallurgy; offers accredited diplomas; provides workshops and industrial attachments; builds skilled workforce for mineral value chain."
+      "summaryFunctions": "Trains technicians for mining and metallurgy; offers accredited diplomas; provides workshops and industrial attachments; builds skilled workforce for mineral value chain.",
+      "mandate": "Technical vocational institute offering certified training in metallurgy, welding, industrial maintenance and mineral-related trades."
     },
     {
       "id": "train-geological-006",
@@ -10092,7 +10245,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; publishes geological research; supports field training; promotes responsible geoscience and mineral development."
+      "summaryFunctions": "Organises conferences; publishes geological research; supports field training; promotes responsible geoscience and mineral development.",
+      "mandate": "Professional society advancing geology education, research and responsible georesource development."
     },
     {
       "id": "train-nigerian-e-007",
@@ -10125,7 +10279,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts research; engages government on mining sector reforms; convenes national dialogues; promotes private-sector competitiveness."
+      "summaryFunctions": "Conducts research; engages government on mining sector reforms; convenes national dialogues; promotes private-sector competitiveness.",
+      "mandate": "Private-sector think tank influencing national economic and mineral-sector policy."
     },
     {
       "id": "train-nigerian-i-008",
@@ -10158,7 +10313,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides postgraduate training; conducts applied research; strengthens Nigeria’s mining technical capacity; supports mineral development policy."
+      "summaryFunctions": "Provides postgraduate training; conducts applied research; strengthens Nigeria’s mining technical capacity; supports mineral development policy.",
+      "mandate": "Federal postgraduate institution training professionals in mining engineering, geosciences and mineral management."
     },
     {
       "id": "unive-federal-un-001",
@@ -10191,8 +10347,8 @@
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Applied Geology (Undergraduate & Postgraduate)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Applied Geology (Undergraduate & Postgraduate)"
     },
     {
       "id": "unive-federal-un-002",
@@ -10221,12 +10377,12 @@
       "description": "",
       "website": "https://www.futminna.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering (Undergraduate); Geology (UG/PG)"
     },
     {
       "id": "unive-university-003",
@@ -10255,12 +10411,12 @@
       "description": "",
       "website": "https://www.unijos.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Geology & Mining (UG/PG); Mineral Exploration (PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Geology & Mining (UG/PG); Mineral Exploration (PG)"
     },
     {
       "id": "unive-ahmadu-bel-004",
@@ -10289,12 +10445,12 @@
       "description": "",
       "website": "https://www.abu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering (Undergraduate); Metallurgical & Materials Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-university-005",
@@ -10323,12 +10479,12 @@
       "description": "",
       "website": "https://www.uniben.edu",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering; Metallurgical Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering; Metallurgical Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-university-006",
@@ -10357,12 +10513,12 @@
       "description": "",
       "website": "https://www.unilorin.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Materials & Metallurgical Engineering; Geology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Materials & Metallurgical Engineering; Geology"
     },
     {
       "id": "unive-university-007",
@@ -10391,12 +10547,12 @@
       "description": "",
       "website": "https://www.unn.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Metallurgical & Materials Engineering; Geology (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Metallurgical & Materials Engineering; Geology (UG/PG)"
     },
     {
       "id": "unive-abubakar-t-008",
@@ -10425,12 +10581,12 @@
       "description": "",
       "website": "https://www.atbu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mining Engineering; Metallurgical & Materials Engineering; Geology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mining Engineering; Metallurgical & Materials Engineering; Geology"
     },
     {
       "id": "unive-nasarawa-s-009",
@@ -10459,12 +10615,12 @@
       "description": "",
       "website": "https://www.nsuk.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology & Mining (UG/PG)",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology & Mining (UG/PG)"
     },
     {
       "id": "unive-modibbo-ad-010",
@@ -10493,12 +10649,12 @@
       "description": "",
       "website": "https://www.mautech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology; Mineral Resources Engineering (UG/PG)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Geology; Mineral Resources Engineering (UG/PG)"
     },
     {
       "id": "unive-akwa-ibom--011",
@@ -10527,12 +10683,12 @@
       "description": "",
       "website": "https://www.aksu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology; Applied Geophysics",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology; Applied Geophysics"
     },
     {
       "id": "unive-delta-stat-012",
@@ -10561,12 +10717,12 @@
       "description": "",
       "website": "https://www.delsu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology (UG/PG)",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology (UG/PG)"
     },
     {
       "id": "unive-kaduna-sta-013",
@@ -10595,12 +10751,12 @@
       "description": "",
       "website": "https://www.kasu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology & Mineral Resources",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology & Mineral Resources"
     },
     {
       "id": "unive-ekiti-stat-014",
@@ -10629,12 +10785,12 @@
       "description": "",
       "website": "https://eksu.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geology"
     },
     {
       "id": "unive-nigerian-i-015",
@@ -10663,12 +10819,12 @@
       "description": "",
       "website": "https://www.nimg.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "PGD Mining Engineering; PGD Mineral Exploration; Short Courses",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "PGD Mining Engineering; PGD Mineral Exploration; Short Courses"
     },
     {
       "id": "unive-federal-po-016",
@@ -10697,12 +10853,12 @@
       "description": "",
       "website": "https://www.fedpolybida.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Resources Engineering; Minerals Exploration ND/HND",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral & Petroleum Resources Engineering; Minerals Exploration ND/HND"
     },
     {
       "id": "unive-federal-po-017",
@@ -10731,12 +10887,12 @@
       "description": "",
       "website": "https://fedpolynas.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-kaduna-pol-018",
@@ -10765,12 +10921,12 @@
       "description": "",
       "website": "https://kadunapoly.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-federal-po-019",
@@ -10799,12 +10955,12 @@
       "description": "",
       "website": "https://www.fedpolyado.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-plateau-st-020",
@@ -10833,12 +10989,12 @@
       "description": "",
       "website": "https://plapoly.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Engineering Technology; Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Mineral & Petroleum Engineering Technology; Geological Technology"
     },
     {
       "id": "unive-yaba-colle-021",
@@ -10867,12 +11023,12 @@
       "description": "",
       "website": "https://www.yabatech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral & Petroleum Resources Engineering; Geological Engineering Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral & Petroleum Resources Engineering; Geological Engineering Technology"
     },
     {
       "id": "unive-imt-enugu-022",
@@ -10901,12 +11057,12 @@
       "description": "",
       "website": "https://imt.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geological Technology"
     },
     {
       "id": "unive-federal-po-023",
@@ -10935,12 +11091,12 @@
       "description": "",
       "website": "https://fptb.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering; Geological Technology",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Mineral Resources Engineering; Geological Technology"
     },
     {
       "id": "unive-kwara-stat-024",
@@ -10969,12 +11125,12 @@
       "description": "",
       "website": "https://kwarastatepolytechnic.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Mineral Resources Engineering",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Mineral Resources Engineering"
     },
     {
       "id": "unive-ogun-state-025",
@@ -11003,12 +11159,12 @@
       "description": "",
       "website": "https://ogitech.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geological Technology",
-      "level": "State"
+      "levelScope": "State",
+      "programmes": "Geological Technology"
     },
     {
       "id": "unive-university-026",
@@ -11037,12 +11193,12 @@
       "description": "",
       "website": "https://uniabuja.edu.ng",
       "acronym": "",
-      "valueChainRole": "",
+      "valueChainRole": "Nigerian universities and polytechnics form the backbone of the mineral value chain by supplying skilled human capital, driving geological and metallurgical research, enabling mine development and mineral processing, supporting environmental governance, and providing innovation and technical services across exploration, extraction, beneficiation and downstream material application",
       "jurisdiction": "",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "programmes": "Geology and Mining (Undergraduate)\n\nB.Sc. Geology (Undergraduate)",
-      "level": "Federal"
+      "levelScope": "Federal",
+      "programmes": "Geology and Mining (Undergraduate)\n\nB.Sc. Geology (Undergraduate)"
     }
   ]
 }

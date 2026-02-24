@@ -226,7 +226,10 @@ def process_csv(filepath, category):
                     'slug': generate_slug(name),
                     'category': category,
                     'type': (row.get('Stakeholder Type') or 
-                            row.get('Type') or 'Other').strip(),
+                            row.get('Organisation Type') or 
+                            row.get('Donor Type') or
+                            row.get('Category') or
+                            row.get('Type') or category).strip(),
                     'contact': {
                         'person': '',
                         'position': '',
@@ -259,9 +262,11 @@ def process_csv(filepath, category):
                 # Add optional fields only if they have values
                 optional_fields = {
                     'summaryFunctions': row.get('Summary Functions', '').strip(),
+                    'functions': (row.get('Functions') or row.get('Summary', '')).strip(),
                     'thematicFocus': row.get('Thematic Focus', '').strip(),
                     'mineralFocus': row.get('Mineral Focus', '').strip(),
                     'scale': row.get('Scale', '').strip(),
+                    'levelScope': (row.get('Level/Scope') or row.get('Level', '')).strip(),
                     'companySize': row.get('Company Size', '').strip(),
                     'mineralCommodities': row.get('Mineral Commodities', '').strip(),
                     'equipment': row.get('Equipment/Services', '').strip(),
@@ -273,7 +278,9 @@ def process_csv(filepath, category):
                     'level': row.get('Level', '').strip(),
                     'formalInformal': row.get('Formal/Informal', '').strip(),
                     'notes': row.get('Notes', '').strip(),
-                    'officeAddress': row.get('Office Address', '').strip()
+                    'officeAddress': row.get('Office Address', '').strip(),
+                    'mandate': (row.get('MANDATE (Applies to all Zonal & State Mines Offices)') or 
+                               row.get('Mandate', '')).strip()
                 }
                 
                 # Only add optional fields if they have content

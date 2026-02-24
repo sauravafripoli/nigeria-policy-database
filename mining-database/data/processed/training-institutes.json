@@ -34,7 +34,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Accredits academic programmes; licenses professionals; enforces competency and ethical standards; regulates geoscience and mining engineering practice."
+      "summaryFunctions": "Accredits academic programmes; licenses professionals; enforces competency and ethical standards; regulates geoscience and mining engineering practice.",
+      "mandate": "Statutory regulatory council mandated to accredit, certify and regulate the practice of mining engineering and geosciences in Nigeria."
     },
     {
       "id": "train-the-nigeri-002",
@@ -67,7 +68,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; supports engineering innovation; sets technical standards; strengthens collaboration among materials, mining and metallurgy professionals."
+      "summaryFunctions": "Organises conferences; supports engineering innovation; sets technical standards; strengthens collaboration among materials, mining and metallurgy professionals.",
+      "mandate": "Professional body promoting metallurgy, mining and materials engineering excellence."
     },
     {
       "id": "train-national-s-003",
@@ -100,7 +102,8 @@
       "jurisdiction": "Nationwide exploration mandate",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts geological mapping; evaluates mineral occurrences; supports steel and industrial minerals development; provides mineral data to industry and government."
+      "summaryFunctions": "Conducts geological mapping; evaluates mineral occurrences; supports steel and industrial minerals development; provides mineral data to industry and government.",
+      "mandate": "Federal agency mandated to explore, evaluate and develop steel raw materials including iron ore, limestone and kaolin."
     },
     {
       "id": "train-national-m-004",
@@ -133,7 +136,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Runs labs and pilot plants; conducts mineral processing studies; supports steel and alloy R&D; provides technical services and professional training."
+      "summaryFunctions": "Runs labs and pilot plants; conducts mineral processing studies; supports steel and alloy R&D; provides technical services and professional training.",
+      "mandate": "National R&D centre supporting Nigeria’s metallurgical, minerals processing and materials science sector."
     },
     {
       "id": "train-metallurgi-005",
@@ -166,7 +170,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Trains technicians for mining and metallurgy; offers accredited diplomas; provides workshops and industrial attachments; builds skilled workforce for mineral value chain."
+      "summaryFunctions": "Trains technicians for mining and metallurgy; offers accredited diplomas; provides workshops and industrial attachments; builds skilled workforce for mineral value chain.",
+      "mandate": "Technical vocational institute offering certified training in metallurgy, welding, industrial maintenance and mineral-related trades."
     },
     {
       "id": "train-geological-006",
@@ -199,7 +204,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Organises conferences; publishes geological research; supports field training; promotes responsible geoscience and mineral development."
+      "summaryFunctions": "Organises conferences; publishes geological research; supports field training; promotes responsible geoscience and mineral development.",
+      "mandate": "Professional society advancing geology education, research and responsible georesource development."
     },
     {
       "id": "train-nigerian-e-007",
@@ -232,7 +238,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Conducts research; engages government on mining sector reforms; convenes national dialogues; promotes private-sector competitiveness."
+      "summaryFunctions": "Conducts research; engages government on mining sector reforms; convenes national dialogues; promotes private-sector competitiveness.",
+      "mandate": "Private-sector think tank influencing national economic and mineral-sector policy."
     },
     {
       "id": "train-nigerian-i-008",
@@ -265,7 +272,8 @@
       "jurisdiction": "Nationwide",
       "influenceLevel": "",
       "dateAdded": "2026-01-29",
-      "summaryFunctions": "Provides postgraduate training; conducts applied research; strengthens Nigeria’s mining technical capacity; supports mineral development policy."
+      "summaryFunctions": "Provides postgraduate training; conducts applied research; strengthens Nigeria’s mining technical capacity; supports mineral development policy.",
+      "mandate": "Federal postgraduate institution training professionals in mining engineering, geosciences and mineral management."
     }
   ]
 }

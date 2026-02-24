@@ -17,7 +17,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -33,7 +33,9 @@
       "valueChainRole": "Policy leadership, regulation and strategic coordination across the mineral value chain.",
       "jurisdiction": "Federal Republic of Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Sets policy and legal framework for mining; oversees regulatory agencies; coordinates reforms, federal–state relations and international cooperation in the minerals sector.",
+      "mandate": "Formulate and implement national policies for solid minerals development, regulate and supervise the mining sector,\n and drive investment and value addition."
     },
     {
       "id": "feder-mining-cad-002",
@@ -49,13 +51,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -65,7 +67,9 @@
       "valueChainRole": "Administration of mineral rights, licensing and tenure management.",
       "jurisdiction": "Nationwide mineral title coverage",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Processes applications for exploration and mining licences; maintains the digital cadastre; grants, renews and revokes titles; and provides tenure information to government and investors.",
+      "mandate": "Administer and manage mineral titles in Nigeria through a transparent mining cadastre system."
     },
     {
       "id": "feder-mines-insp-003",
@@ -81,13 +85,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -97,7 +101,9 @@
       "valueChainRole": "Operational oversight, safety enforcement and production monitoring.",
       "jurisdiction": "All licensed mine sites in Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Inspects mine sites; investigates accidents and unsafe practices; verifies production data; and issues compliance directives and sanctions where necessary.",
+      "mandate": "Enforce mine health, safety and technical standards and monitor compliance with mining regulations."
     },
     {
       "id": "feder-nigerian-g-004",
@@ -113,13 +119,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -129,7 +135,9 @@
       "valueChainRole": "Upstream geological mapping, resource identification and exploration support.",
       "jurisdiction": "Entire national territory and offshore areas under Nigerian control",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Carries out geological, geochemical and geophysical surveys; produces maps and reports; identifies mineral targets; and provides geodata to government, investors and researchers.",
+      "mandate": "Generate, store and disseminate geoscientific and mineral resource data for Nigeria."
     },
     {
       "id": "feder-national-e-005",
@@ -145,13 +153,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -161,7 +169,9 @@
       "valueChainRole": "Environmental compliance, pollution control and enforcement in mining and processing.",
       "jurisdiction": "Federal Republic of Nigeria (excluding upstream petroleum operations)",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Monitors environmental performance of facilities; enforces EIAs and sector regulations; investigates complaints and imposes sanctions for non‑compliance in mining and related activities.",
+      "mandate": "Enforce environmental laws, regulations and standards (excluding upstream oil and gas) across Nigeria."
     },
     {
       "id": "feder-raw-materi-006",
@@ -177,7 +187,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -193,7 +203,9 @@
       "valueChainRole": "Linking minerals to industry, processing and manufacturing value chains.",
       "jurisdiction": "Nationwide raw materials and industrial sectors",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Conducts studies on industrial raw materials; advises government and industry on local sourcing; supports projects that upgrade and substitute imported raw materials using Nigerian minerals.",
+      "mandate": "Promote research, development and utilisation of Nigeria’s raw materials for industrialisation."
     },
     {
       "id": "feder-nigeria-ex-008",
@@ -209,7 +221,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -225,7 +237,9 @@
       "valueChainRole": "Revenue transparency, governance and accountability across the value chain.",
       "jurisdiction": "All extractive sectors and government entities handling extractive revenues in Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Produces independent reconciliation reports; discloses payments and revenues; engages government, companies and civil society to strengthen governance of the minerals sector.",
+      "mandate": "Promote transparency and accountability in the management of revenues from Nigeria’s extractive industries."
     },
     {
       "id": "feder-the-depart-009",
@@ -241,13 +255,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -257,7 +271,9 @@
       "valueChainRole": "Sector‑specific environmental oversight within the mining value chain.",
       "jurisdiction": "Mining and quarrying operations across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Reviews and monitors mine environmental management plans; works with NESREA and state authorities on remediation, closure and reclamation issues.",
+      "mandate": "Oversee and coordinate environmental compliance obligations specific to mining operations under MMSD."
     },
     {
       "id": "feder-artisanal--010",
@@ -273,13 +289,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -289,7 +305,9 @@
       "valueChainRole": "ASM formalisation, support services and integration into the formal minerals economy.",
       "jurisdiction": "Artisanal and small‑scale mining operators nationwide",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Supports cooperatives and licensing of ASM; provides extension and technical assistance; and promotes safer, more environmentally responsible practices among small‑scale miners.",
+      "mandate": "Formalise, support and regulate artisanal and small‑scale mining activities in Nigeria."
     },
     {
       "id": "feder-solid-mine-011",
@@ -305,7 +323,7 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
+        "city": "",
         "state": "FCT",
         "lga": "",
         "zone": "North Central",
@@ -321,7 +339,9 @@
       "valueChainRole": "Project finance, de‑risking exploration and supporting early‑stage development.",
       "jurisdiction": "Eligible solid minerals projects across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Invests in geoscience data, exploration and strategic projects; partners with private investors; and supports projects that enhance Nigeria’s mineral value addition.",
+      "mandate": "Provide financing and catalytic investments to stimulate exploration and development of Nigeria’s solid minerals."
     },
     {
       "id": "feder-national-a-012",
@@ -337,13 +357,13 @@
         "address": ""
       },
       "location": {
-        "city": "Abuja",
-        "state": "FCT",
+        "city": "",
+        "state": "Unknown",
         "lga": "",
-        "zone": "North Central",
+        "zone": "Unknown",
         "coordinates": [
-          7.3986,
-          9.0765
+          7.5,
+          9.0
         ],
         "coordinateType": "centroid"
       },
@@ -353,7 +373,9 @@
       "valueChainRole": "Legislative oversight, law‑making and budget scrutiny for the minerals sector.",
       "jurisdiction": "Federal legislative oversight across all mining institutions and programmes",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Reviews and amends mining and minerals laws; oversees MMSD and its agencies; and approves sectoral budgets and key policy instruments.",
+      "mandate": "Exercise legislative oversight over the mines and steel sector and review relevant laws and budgets."
     },
     {
       "id": "feder-national-s-013",
@@ -385,7 +407,9 @@
       "valueChainRole": "Upstream exploration for steel‑related minerals (iron ore, coal, limestone, etc.).",
       "jurisdiction": "Prospective iron and steel raw material provinces across Nigeria",
       "influenceLevel": "",
-      "dateAdded": "2026-01-29"
+      "dateAdded": "2026-01-29",
+      "functions": "Carries out geological exploration and evaluation of iron ore, coal and other inputs; supports planning and development of the domestic steel industry.",
+      "mandate": "Explore and evaluate raw materials required for the iron and steel industry in Nigeria."
     }
   ]
 }
