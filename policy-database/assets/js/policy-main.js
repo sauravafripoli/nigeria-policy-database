@@ -112,8 +112,8 @@ function populateFilterOptions() {
     const priorities = new Set();
     
     PolicyDB.allPolicies.forEach(policy => {
-        if (policy.family) families.add(policy.family);
-        if (policy.type) types.add(policy.type);
+        if (policy.policyFamily) families.add(policy.policyFamily);
+        if (policy.policyType) types.add(policy.policyType);
         if (policy.status) statuses.add(policy.status);
         if (policy.jurisdiction) jurisdictions.add(policy.jurisdiction);
         if (policy.valueChainStage) valueChains.add(policy.valueChainStage);
@@ -228,8 +228,8 @@ function applyFilters() {
         if (PolicyDB.filters.search) {
             const searchLower = PolicyDB.filters.search;
             const searchableText = [
-                policy.name,
-                policy.summary,
+                policy.policyName,
+                policy.policySummary,
                 policy.institutionalResponsibility,
                 policy.stakeholdersImpacted
             ].join(' ').toLowerCase();
@@ -241,13 +241,13 @@ function applyFilters() {
         
         // Family filter
         if (PolicyDB.filters.family !== 'all') {
-            const familySlug = policy.family.toLowerCase().replace(/\s+/g, '-');
+            const familySlug = policy.policyFamily.toLowerCase().replace(/\s+/g, '-');
             if (familySlug !== PolicyDB.filters.family) return false;
         }
         
         // Type filter
         if (PolicyDB.filters.type !== 'all') {
-            const typeSlug = policy.type.toLowerCase().replace(/\s+/g, '-');
+            const typeSlug = policy.policyType.toLowerCase().replace(/\s+/g, '-');
             if (typeSlug !== PolicyDB.filters.type) return false;
         }
         
@@ -363,9 +363,9 @@ function renderTableView() {
         <table class="policies-table">
             <thead>
                 <tr>
-                    <th onclick="sortTable('name')">Policy Name <span class="sort-icon">⇅</span></th>
-                    <th onclick="sortTable('family')">Family <span class="sort-icon">⇅</span></th>
-                    <th onclick="sortTable('year')">Year <span class="sort-icon">⇅</span></th>
+                    <th onclick="sortTable('policyName')">Policy Name <span class="sort-icon">⇅</span></th>
+                    <th onclick="sortTable('policyFamily')">Family <span class="sort-icon">⇅</span></th>
+                    <th onclick="sortTable('yearIntroduced')">Year <span class="sort-icon">⇅</span></th>
                     <th onclick="sortTable('status')">Status <span class="sort-icon">⇅</span></th>
                     <th onclick="sortTable('reformPriority')">Priority <span class="sort-icon">⇅</span></th>
                     <th>Actions</th>
@@ -374,16 +374,16 @@ function renderTableView() {
             <tbody>
     `;
     
-    pagePolicies.forEach(policy => {
+    pagePolicies.forEach((policy, index) => {
         html += `
             <tr>
-                <td><span class="policy-name">${escapeHtml(policy.name)}</span></td>
-                <td>${escapeHtml(policy.family)}</td>
-                <td>${escapeHtml(policy.year)}</td>
-                <td><span class="policy-badge badge-${getPriorityClass(policy.status)}">${escapeHtml(policy.status)}</span></td>
-                <td><span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">${escapeHtml(policy.reformPriority)}</span></td>
+                <td><span class="policy-name">${formatValue(policy.policyName)}</span></td>
+                <td>${formatValue(policy.policyFamily)}</td>
+                <td>${formatValue(policy.yearIntroduced)}</td>
+                <td><span class="policy-badge badge-${getPriorityClass(policy.status)}">${formatValue(policy.status)}</span></td>
+                <td><span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">${formatValue(policy.reformPriority)}</span></td>
                 <td>
-                    <button class="btn-view-details" onclick="showPolicyDetails('${policy.id}')">
+                    <button class="btn-view-details" onclick="showPolicyDetails(${index})">
                         View Details
                     </button>
                 </td>
@@ -414,21 +414,21 @@ function renderCardsView() {
     
     let html = '<div class="policies-grid">';
     
-    pagePolicies.forEach(policy => {
+    pagePolicies.forEach((policy, index) => {
         const linkedCount = policy.linkedStakeholders?.length || 0;
         
         html += `
-            <div class="policy-card" onclick="showPolicyDetails('${policy.id}')">
+            <div class="policy-card" onclick="showPolicyDetails(${index})">
                 <div class="policy-card-header">
-                    <h3 class="policy-card-title">${escapeHtml(policy.name)}</h3>
+                    <h3 class="policy-card-title">${formatValue(policy.policyName)}</h3>
                     <div class="policy-card-meta">
-                        <span class="policy-badge badge-${getPriorityClass(policy.status)}">${escapeHtml(policy.status)}</span>
-                        <span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">${escapeHtml(policy.reformPriority)}</span>
-                        <span class="policy-badge">${escapeHtml(policy.year)}</span>
+                        <span class="policy-badge badge-${getPriorityClass(policy.status)}">${formatValue(policy.status)}</span>
+                        <span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">${formatValue(policy.reformPriority)}</span>
+                        <span class="policy-badge">${formatValue(policy.yearIntroduced)}</span>
                     </div>
                 </div>
                 <div class="policy-card-summary">
-                    ${escapeHtml(policy.summary || 'No summary available').substring(0, 200)}${policy.summary?.length > 200 ? '...' : ''}
+                    ${formatValue(policy.policySummary, 'No summary available').substring(0, 200)}${policy.policySummary?.length > 200 ? '...' : ''}
                 </div>
                 <div class="policy-card-footer">
                     <span class="stakeholder-count">
@@ -531,8 +531,9 @@ function sortTable(column) {
 /**
  * Show policy details in modal
  */
-function showPolicyDetails(policyId) {
-    const policy = PolicyDB.allPolicies.find(p => p.id === policyId);
+function showPolicyDetails(index) {
+    const start = (PolicyDB.currentPage - 1) * PolicyDB.itemsPerPage;
+    const policy = PolicyDB.filteredPolicies[start + index];
     if (!policy) return;
     
     const modal = document.getElementById('policy-modal');
@@ -540,23 +541,23 @@ function showPolicyDetails(policyId) {
     
     let html = `
         <div class="modal-header">
-            <h2>${escapeHtml(policy.name)}</h2>
+            <h2>${formatValue(policy.policyName)}</h2>
             <div class="modal-meta">
-                <span class="policy-badge badge-${getPriorityClass(policy.status)}">${escapeHtml(policy.status)}</span>
-                <span class="policy-badge">${escapeHtml(policy.family)}</span>
-                <span class="policy-badge">${escapeHtml(policy.year)}</span>
-                <span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">Priority: ${escapeHtml(policy.reformPriority)}</span>
+                <span class="policy-badge badge-${getPriorityClass(policy.status)}">${formatValue(policy.status)}</span>
+                <span class="policy-badge">${formatValue(policy.policyFamily)}</span>
+                <span class="policy-badge">${formatValue(policy.yearIntroduced)}</span>
+                <span class="policy-badge badge-${getPriorityClass(policy.reformPriority)}">Priority: ${formatValue(policy.reformPriority)}</span>
             </div>
         </div>
         <div class="modal-body">
     `;
     
     // Summary
-    if (policy.summary) {
+    if (policy.policySummary) {
         html += `
             <div class="detail-section">
                 <h3>Policy Summary</h3>
-                <p>${escapeHtml(policy.summary)}</p>
+                <p>${formatValue(policy.policySummary)}</p>
             </div>
         `;
     }
@@ -566,7 +567,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>Institutional Responsibility</h3>
-                <p>${escapeHtml(policy.institutionalResponsibility)}</p>
+                <p>${formatValue(policy.institutionalResponsibility)}</p>
             </div>
         `;
     }
@@ -576,7 +577,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>Value Chain Stage</h3>
-                <p>${escapeHtml(policy.valueChainStage)}</p>
+                <p>${formatValue(policy.valueChainStage)}</p>
             </div>
         `;
     }
@@ -586,7 +587,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>ESG / Due Diligence Elements</h3>
-                <p>${escapeHtml(policy.esgElements)}</p>
+                <p>${formatValue(policy.esgElements)}</p>
             </div>
         `;
     }
@@ -596,7 +597,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>Governance & Political Economy Issues</h3>
-                <p>${escapeHtml(policy.governanceIssues)}</p>
+                <p>${formatValue(policy.governanceIssues)}</p>
             </div>
         `;
     }
@@ -606,7 +607,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>Implementation Challenges</h3>
-                <p>${escapeHtml(policy.implementationChallenges)}</p>
+                <p>${formatValue(policy.implementationChallenges)}</p>
             </div>
         `;
     }
@@ -616,7 +617,7 @@ function showPolicyDetails(policyId) {
         html += `
             <div class="detail-section">
                 <h3>Stakeholders Impacted</h3>
-                <p>${escapeHtml(policy.stakeholdersImpacted)}</p>
+                <p>${formatValue(policy.stakeholdersImpacted)}</p>
             </div>
         `;
     }
@@ -632,10 +633,7 @@ function showPolicyDetails(policyId) {
         policy.linkedStakeholders.forEach(stakeholder => {
             html += `
                 <div class="stakeholder-item">
-                    <a href="../mining-database/?stakeholder=${stakeholder.id}" class="stakeholder-name">
-                        ${escapeHtml(stakeholder.name)}
-                    </a>
-                    <span class="stakeholder-category">${escapeHtml(stakeholder.category)}</span>
+                    <span class="stakeholder-name">${formatValue(stakeholder)}</span>
                 </div>
             `;
         });
@@ -644,18 +642,15 @@ function showPolicyDetails(policyId) {
     }
     
     // External Links
-    if (policy.links && policy.links.length > 0) {
+    if (policy.links) {
         html += `
             <div class="detail-section">
                 <h3>External Resources</h3>
                 <div class="external-links">
+                    <a href="${formatValue(policy.links)}" target="_blank" class="external-link">🔗 ${formatValue(policy.links)}</a>
+                </div>
+            </div>
         `;
-        
-        policy.links.forEach(link => {
-            html += `<a href="${escapeHtml(link)}" target="_blank" class="external-link">🔗 ${escapeHtml(link)}</a>`;
-        });
-        
-        html += '</div></div>';
     }
     
     html += '</div>';
@@ -728,6 +723,16 @@ function escapeHtml(text) {
         "'": '&#039;'
     };
     return String(text).replace(/[&<>"']/g, m => map[m]);
+}
+
+/**
+ * Utility: Format value (handle null, undefined, empty strings)
+ */
+function formatValue(value, placeholder = '—') {
+    if (value === null || value === undefined || value === '' || value === 'null' || value === 'undefined') {
+        return placeholder;
+    }
+    return escapeHtml(value);
 }
 
 /**

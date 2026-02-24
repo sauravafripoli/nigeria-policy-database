@@ -1,11 +1,21 @@
 {
   "metadata": {
-    "generatedAt": "2026-02-24T16:07:31.096901",
+    "generatedAt": "2026-02-24T17:01:41.669508",
     "totalPolicies": 11
   },
   "statistics": {
     "byFamily": {
-      "Uncategorized": 11
+      "Mining Law & Licensing": 1,
+      "Mining Regulation & Procedures": 1,
+      "Mining & Industrial Policy": 1,
+      "Strategy": 1,
+      "Geological Mapping & Exploration": 1,
+      "Environmental & ESG": 1,
+      "ASM Governance": 1,
+      "Geological Data Governance": 1,
+      "Transparency & Governance": 1,
+      "Subnational Mineral Governance": 1,
+      "Social Governance": 1
     },
     "byType": {
       "Legal Framework": 1,
@@ -15,7 +25,18 @@
       "Government Project": 1,
       "Uncategorized": 6
     },
-    "byYear": {},
+    "byYear": {
+      "2007": 1,
+      "2011": 2,
+      "2008": 1,
+      "2016": 1,
+      "2018": 1,
+      "2009": 1,
+      "2020": 1,
+      "2006": 1,
+      "2007–present": 1,
+      "2015–2024": 1
+    },
     "byStatus": {
       "In force": 7,
       "Active": 2,
@@ -23,16 +44,24 @@
       "Required for large-scale mining": 1
     },
     "byJurisdiction": {
-      "Unknown": 11
+      "Federal": 9,
+      "State": 1,
+      "Federal + Communities": 1
     },
     "byStakeholder": {
-      "MCO": 4,
-      "MMSD": 7,
-      "NESREA": 2,
-      "NGSA": 4,
-      "NEITI": 1
+      "Federal Government State Governments Mining Companies and Investors Local Communities Environmental Agencies Miners and Artisanal Miners": 1,
+      "Investors, Mining Companies, ASM, local communities, state agencies": 1,
+      "Federal govt, private sector, downstream producers": 1,
+      "Investors, MDAs, communities": 1,
+      "Investors, NGSA, state govts": 1,
+      "Communities, miners, regulators": 1,
+      "ASM miners, communities, security agencies": 1,
+      "Researchers, investors, states": 1,
+      "Government, companies, civil society": 1,
+      "States, communities, ASM": 1,
+      "Communities, companies, state govts": 1
     },
     "totalPolicies": 11,
-    "policiesWithStakeholders": 9
+    "policiesWithStakeholders": 11
   }
 }

@@ -122,7 +122,7 @@ def split_list_items(text, delimiter=';'):
 
 
 def process_policy_csv():
-    """Process the policy CSV file"""
+    """Process the policy CSV file - 17 fields only, camelCase"""
     policies = []
     
     filepath = DATA_DIR / POLICY_CSV
@@ -136,7 +136,9 @@ def process_policy_csv():
     
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
+            # Read with cleaned column names (strip spaces)
             reader = csv.DictReader(f)
+            reader.fieldnames = [name.strip() for name in reader.fieldnames]
             
             for row_number, row in enumerate(reader, 1):
                 # Skip empty rows
@@ -148,71 +150,36 @@ def process_policy_csv():
                 if not name:
                     continue
                 
-                # Extract year
-                year_str = row.get('Year Introduced', '').strip()
-                year = parse_year(year_str)
-                
-                # Clean and prepare all fields
-                policy_family = row.get('Policy Family / Cluster', '').strip()
-                policy_type = row.get('Policy Type', '').strip()
-                status = row.get('Status', '').strip()
-                jurisdiction = row.get('Jurisdiction', '').strip()
-                summary = clean_multiline_text(row.get('Policy Summary', ''))
-                institution = row.get('Institutional Responsibility', '').strip()
-                value_chain = row.get('Value Chain Stage', '').strip()
-                esg_elements = row.get('ESG / Due Diligence Elements', '').strip()
-                governance_issues = row.get('Governance & Political Economy Issues', '').strip()
-                challenges = row.get('Implementation Challenges', '').strip()
+                # Extract stakeholders from the CSV field and split by semicolon
                 stakeholders_raw = row.get('Stakeholders Impacted by the Policy', '').strip()
-                reform_priority = row.get('Reform Priority', '').strip()
-                links = row.get('Links', '').strip()
-                source_type = row.get('Source Type', '').strip()
-                last_verified = row.get('Last Verified', '').strip()
+                stakeholders_list = split_list_items(stakeholders_raw, delimiter=';')
                 
-                # Auto-detect stakeholders from multiple fields
-                auto_stakeholders = set()
-                fields_to_check = [
-                    institution,
-                    stakeholders_raw,
-                    summary,
-                    governance_issues,
-                    challenges
-                ]
-                
-                for field in fields_to_check:
-                    detected = extract_stakeholders(field)
-                    auto_stakeholders.update(detected)
-                
-                # Build policy object
+                # Build policy object - ONLY 17 CSV fields in camelCase
                 policy = {
-                    'id': generate_id(name, year, row_number),
-                    'slug': generate_slug(name),
-                    'name': name,
-                    'policyFamily': policy_family,
-                    'policyType': policy_type,
-                    'year': year,
-                    'yearIntroduced': year_str,
-                    'status': status,
-                    'jurisdiction': jurisdiction,
-                    'summary': summary,
-                    'institutionalResponsibility': institution,
-                    'valueChainStage': value_chain,
-                    'esgElements': esg_elements,
-                    'governanceIssues': governance_issues,
-                    'implementationChallenges': challenges,
+                    'policyName': name,
+                    'policyFamily': row.get('Policy Family / Cluster', '').strip(),
+                    'policyType': row.get('Policy Type', '').strip(),
+                    'yearIntroduced': row.get('Year Introduced', '').strip(),
+                    'status': row.get('Status', '').strip(),
+                    'jurisdiction': row.get('Jurisdiction', '').strip(),
+                    'policySummary': clean_multiline_text(row.get('Policy Summary', '')),
+                    'institutionalResponsibility': row.get('Institutional Responsibility', '').strip(),
+                    'valueChainStage': row.get('Value Chain Stage', '').strip(),
+                    'esgElements': row.get('ESG / Due Diligence Elements', '').strip(),
+                    'governanceIssues': row.get('Governance & Political Economy Issues', '').strip(),
+                    'implementationChallenges': row.get('Implementation Challenges', '').strip(),
                     'stakeholdersImpacted': stakeholders_raw,
-                    'linkedStakeholders': sorted(list(auto_stakeholders)),
-                    'reformPriority': reform_priority,
-                    'links': links,
-                    'sourceType': source_type,
-                    'lastVerified': last_verified,
-                    'dateAdded': datetime.now().strftime('%Y-%m-%d')
+                    'linkedStakeholders': stakeholders_list,
+                    'reformPriority': row.get('Reform Priority', '').strip(),
+                    'links': row.get('Links', '').strip(),
+                    'sourceType': row.get('Source Type', '').strip(),
+                    'lastVerified': row.get('Last Verified', '').strip()
                 }
                 
                 policies.append(policy)
                 
                 # Print progress
-                stakeholder_info = f" → Linked to {len(auto_stakeholders)} stakeholders" if auto_stakeholders else ""
+                stakeholder_info = f" → {len(stakeholders_list)} stakeholders" if stakeholders_list else ""
                 print(f"  ✓ [{row_number:2d}] {name[:50]}{stakeholder_info}")
         
         return policies
@@ -247,9 +214,8 @@ def generate_statistics(policies):
         stats['byType'][ptype] = stats['byType'].get(ptype, 0) + 1
         
         # Count by year
-        if policy['year']:
-            year = str(policy['year'])
-            stats['byYear'][year] = stats['byYear'].get(year, 0) + 1
+        year = policy['yearIntroduced'] or 'Unknown'
+        stats['byYear'][year] = stats['byYear'].get(year, 0) + 1
         
         # Count by status
         status = policy['status'] or 'Unknown'
@@ -278,16 +244,15 @@ def generate_stakeholder_links(policies):
                 stakeholder_links[stakeholder] = []
             
             stakeholder_links[stakeholder].append({
-                'id': policy['id'],
-                'name': policy['name'],
-                'year': policy['year'],
+                'policyName': policy['policyName'],
+                'yearIntroduced': policy['yearIntroduced'],
                 'policyType': policy['policyType'],
                 'status': policy['status']
             })
     
     # Sort policies by year for each stakeholder
     for stakeholder in stakeholder_links:
-        stakeholder_links[stakeholder].sort(key=lambda x: x['year'] or 0, reverse=True)
+        stakeholder_links[stakeholder].sort(key=lambda x: x['yearIntroduced'] or '', reverse=True)
     
     return stakeholder_links
 

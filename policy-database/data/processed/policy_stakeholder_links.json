@@ -1,93 +1,97 @@
 {
-    "stakeholderToPolicies": {
-        "feder-mines-insp-003": [
-            {
-                "id": "policy-nigerian-minerals-an-002",
-                "name": "Nigerian Minerals and Mining Act",
-                "slug": "nigerian-minerals-and-mining-act"
-            },
-            {
-                "id": "policy-nigerian-minerals-an-003",
-                "name": "Nigerian Minerals and Mining Regulations",
-                "slug": "nigerian-minerals-and-mining-regulations"
-            }
-        ],
-        "civil-nta-056": [
-            {
-                "id": "policy-nigerian-minerals-an-002",
-                "name": "Nigerian Minerals and Mining Act",
-                "slug": "nigerian-minerals-and-mining-act"
-            },
-            {
-                "id": "policy-nigerian-minerals-an-003",
-                "name": "Nigerian Minerals and Mining Regulations",
-                "slug": "nigerian-minerals-and-mining-regulations"
-            }
-        ],
-        "feder-mining-cad-002": [
-            {
-                "id": "policy-nigerian-minerals-an-003",
-                "name": "Nigerian Minerals and Mining Regulations",
-                "slug": "nigerian-minerals-and-mining-regulations"
-            }
-        ],
-        "feder-nigerian-g-004": [
-            {
-                "id": "policy-nigerian-minerals-an-003",
-                "name": "Nigerian Minerals and Mining Regulations",
-                "slug": "nigerian-minerals-and-mining-regulations"
-            }
-        ]
-    },
-    "policyToStakeholders": {
-        "policy-nigerian-minerals-an-002": [
-            {
-                "id": "feder-mines-insp-003",
-                "name": "Mines Inspectorate",
-                "category": "Federal Government",
-                "slug": "mines-inspectorate"
-            },
-            {
-                "id": "civil-nta-056",
-                "name": "NTA",
-                "category": "Civil Society",
-                "slug": "nta"
-            }
-        ],
-        "policy-nigerian-minerals-an-003": [
-            {
-                "id": "feder-mining-cad-002",
-                "name": "Mining Cadastre Office (MCO)",
-                "category": "Federal Government",
-                "slug": "mining-cadastre-office-mco"
-            },
-            {
-                "id": "feder-mines-insp-003",
-                "name": "Mines Inspectorate",
-                "category": "Federal Government",
-                "slug": "mines-inspectorate"
-            },
-            {
-                "id": "feder-nigerian-g-004",
-                "name": "Nigerian Geological Survey Agency (NGSA)",
-                "category": "Federal Government",
-                "slug": "nigerian-geological-survey-agency-ngsa"
-            },
-            {
-                "id": "civil-nta-056",
-                "name": "NTA",
-                "category": "Civil Society",
-                "slug": "nta"
-            }
-        ],
-        "policy-national-minerals-me-004": [],
-        "policy-roadmap-for-the-grow-005": [],
-        "policy-national-integrated--006": [],
-        "policy-national-environment-007": [],
-        "policy-artisanal-and-small--008": [],
-        "policy-ngsa-act-009": [],
-        "policy-neiti-implementation-010": [],
-        "policy-state-mining-policie-011": [],
-        "policy-community-developmen-012": []
-    }
+  "metadata": {
+    "totalStakeholders": 11,
+    "totalPolicies": 11,
+    "lastUpdated": "2026-02-24"
+  },
+  "links": {
+    "Federal Government State Governments Mining Companies and Investors Local Communities Environmental Agencies Miners and Artisanal Miners": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Investors, Mining Companies, ASM, local communities, state agencies": [
+      {
+        "policyName": "Nigerian Minerals and Mining Regulations",
+        "yearIntroduced": "2011",
+        "policyType": "Regulatory",
+        "status": "In force"
+      }
+    ],
+    "Federal govt, private sector, downstream producers": [
+      {
+        "policyName": "National Minerals & Metals Policy",
+        "yearIntroduced": "2008",
+        "policyType": "Policy",
+        "status": "In force"
+      }
+    ],
+    "Investors, MDAs, communities": [
+      {
+        "policyName": "Roadmap for the Growth and Development of the Nigerian Mining Industry",
+        "yearIntroduced": "2016",
+        "policyType": "Strategic Roadmap",
+        "status": "In force"
+      }
+    ],
+    "Investors, NGSA, state govts": [
+      {
+        "policyName": "National Integrated Mineral Exploration Project (NIMEP)",
+        "yearIntroduced": "2018",
+        "policyType": "Government Project",
+        "status": "In force"
+      }
+    ],
+    "Communities, miners, regulators": [
+      {
+        "policyName": "National Environmental (Mining & Processing) Regulations (NESREA)",
+        "yearIntroduced": "2009",
+        "policyType": "",
+        "status": "In force"
+      }
+    ],
+    "ASM miners, communities, security agencies": [
+      {
+        "policyName": "Artisanal and Small-Scale Mining (ASM) Formalisation Programme",
+        "yearIntroduced": "2020",
+        "policyType": "",
+        "status": "Active"
+      }
+    ],
+    "Researchers, investors, states": [
+      {
+        "policyName": "NGSA Act",
+        "yearIntroduced": "2006",
+        "policyType": "",
+        "status": "In force"
+      }
+    ],
+    "Government, companies, civil society": [
+      {
+        "policyName": "NEITI Implementation Framework",
+        "yearIntroduced": "2007–present",
+        "policyType": "",
+        "status": "Active"
+      }
+    ],
+    "States, communities, ASM": [
+      {
+        "policyName": "State Mining Policies & Mineral Development Companies",
+        "yearIntroduced": "2015–2024",
+        "policyType": "",
+        "status": "Active/developing"
+      }
+    ],
+    "Communities, companies, state govts": [
+      {
+        "policyName": "Community Development Agreements",
+        "yearIntroduced": "2011",
+        "policyType": "",
+        "status": "Required for large-scale mining"
+      }
+    ]
+  }
 }
