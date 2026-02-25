@@ -694,30 +694,94 @@ function closeModal() {
  * Export to CSV
  */
 function exportToCSV() {
-    const headers = ['Policy Name', 'Family', 'Type', 'Year', 'Status', 'Jurisdiction', 'Reform Priority', 'Summary'];
-    const rows = [headers];
+    const data = PolicyDB.filteredPolicies;
     
-    PolicyDB.filteredPolicies.forEach(policy => {
-        rows.push([
-            policy.name,
-            policy.family,
-            policy.type,
-            policy.year,
-            policy.status,
-            policy.jurisdiction,
-            policy.reformPriority,
-            policy.summary
-        ]);
+    if (data.length === 0) {
+        alert('No data to export. Please adjust your filters to include policies.');
+        return;
+    }
+    
+    // Get current date and time
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    const timeStr = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+    
+    // Build CSV with APRI branding header
+    let csv = '';
+    
+    // === HEADER SECTION ===
+   csv += '"AFRICA POLICY RESEARCH INSTITUTE (APRI)"\n';
+    csv += '"Nigeria Mining Stakeholder Database"\n';
+    csv += '"\n';
+    csv += `"Report Generated: ${dateStr} at ${timeStr}"\n`;
+    csv += `"Total Records: ${data.length} stakeholders"\n`;
+    csv += `"Website: https://afripoli.org/"\n`;
+    csv += `"Contact: office@afripoli.org"\n`;
+    csv += '"\n';
+    
+    // Active filters info
+    const activeFiltersList = [];
+    if (PolicyDB.filters.search) activeFiltersList.push(`Search: "${PolicyDB.filters.search}"`);
+    if (PolicyDB.filters.family !== 'all') activeFiltersList.push(`Family: ${PolicyDB.filters.family}`);
+    if (PolicyDB.filters.type !== 'all') activeFiltersList.push(`Type: ${PolicyDB.filters.type}`);
+    if (PolicyDB.filters.status !== 'all') activeFiltersList.push(`Status: ${PolicyDB.filters.status}`);
+    if (PolicyDB.filters.jurisdiction !== 'all') activeFiltersList.push(`Jurisdiction: ${PolicyDB.filters.jurisdiction}`);
+    if (PolicyDB.filters.valueChain !== 'all') activeFiltersList.push(`Value Chain: ${PolicyDB.filters.valueChain}`);
+    if (PolicyDB.filters.reformPriority !== 'all') activeFiltersList.push(`Priority: ${PolicyDB.filters.reformPriority}`);
+    
+    if (activeFiltersList.length > 0) {
+        csv += '"Active Filters:"\n';
+        activeFiltersList.forEach(filter => {
+            csv += `"  - ${filter}"\n`;
+        });
+        csv += '"\n';
+    }
+    
+    csv += '"\n';
+    csv += '"==========================================="\n';
+    csv += '"\n';
+    
+    // === DATA SECTION ===
+    const headers = ['Policy Name', 'Family', 'Type', 'Year', 'Status', 'Jurisdiction', 'Reform Priority', 'Summary'];
+    csv += headers.join(',') + '\n';
+    
+    data.forEach(policy => {
+        const row = [
+            `"${(policy.policyName || '').replace(/"/g, '""')}"`,
+            `"${(policy.policyFamily || '').replace(/"/g, '""')}"`,
+            `"${(policy.policyType || '').replace(/"/g, '""')}"`,
+            `"${(policy.yearIntroduced || '').replace(/"/g, '""')}"`,
+            `"${(policy.status || '').replace(/"/g, '""')}"`,
+            `"${(policy.jurisdiction || '').replace(/"/g, '""')}"`,
+            `"${(policy.reformPriority || '').replace(/"/g, '""')}"`,
+            `"${(policy.policySummary || '').replace(/"/g, '""')}"`
+        ];
+        csv += row.join(',') + '\n';
     });
     
-    const csvContent = rows.map(row => 
-        row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(',')
-    ).join('\n');
+    // === FOOTER SECTION ===
+    csv += '\n';
+    csv += '"==========================================="\n';
+    csv += '"\n';
+    csv += '"COPYRIGHT & TERMS OF USE"\n';
+    csv += `"© ${now.getFullYear()} Africa Policy Research Institute (APRI). All rights reserved."\n`;
+    csv += '"\n';
+    csv += '"This data is provided for research and informational purposes only."\n';
+    csv += '"Redistribution or commercial use requires written permission from APRI."\n';
+    csv += '"\n';
+    csv += '"For inquiries, partnerships, or data licensing:"\n';
+    csv += '"  Email: office@afripoli.org"\n';
+    csv += '"  Website: https://afripoli.org/"\n';
+    csv += '"  Phone: +49 30-33909525"\n';
+    csv += '"\n';
+    csv += '"Maintained by: Africa Policy Research Institute"\n';
+    csv += `"Last Updated: ${dateStr}"\n`;
     
-    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    // Download the CSV
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
-    link.download = `nigeria-mining-policies-${new Date().toISOString().split('T')[0]}.csv`;
+    link.download = `nigeria-mining-policies-${now.toISOString().split('T')[0]}.csv`;
     link.click();
 }
 
