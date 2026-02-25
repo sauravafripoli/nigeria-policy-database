@@ -159,9 +159,13 @@ def process_policy_csv():
                 if not name:
                     continue
                 
-                # Extract stakeholders from the CSV field and split by semicolon
+                # Extract stakeholders from the CSV field and split by newlines
                 stakeholders_raw = row.get('Stakeholders Impacted by the Policy', '').strip()
                 stakeholders_list = split_list_items(stakeholders_raw, delimiter=';')
+                
+                # Extract value chain stages and split by newlines
+                value_chain_raw = row.get('Value Chain Stage', '').strip()
+                value_chain_list = split_list_items(value_chain_raw, delimiter=';')
                 
                 # Build policy object - ONLY 17 CSV fields in camelCase
                 policy = {
@@ -173,7 +177,7 @@ def process_policy_csv():
                     'jurisdiction': row.get('Jurisdiction', '').strip(),
                     'policySummary': clean_multiline_text(row.get('Policy Summary', '')),
                     'institutionalResponsibility': row.get('Institutional Responsibility', '').strip(),
-                    'valueChainStage': row.get('Value Chain Stage', '').strip(),
+                    'valueChainStage': value_chain_list,
                     'esgElements': row.get('ESG / Due Diligence Elements', '').strip(),
                     'governanceIssues': row.get('Governance & Political Economy Issues', '').strip(),
                     'implementationChallenges': row.get('Implementation Challenges', '').strip(),

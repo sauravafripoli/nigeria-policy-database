@@ -116,7 +116,11 @@ function populateFilterOptions() {
         if (policy.policyType) types.add(policy.policyType);
         if (policy.status) statuses.add(policy.status);
         if (policy.jurisdiction) jurisdictions.add(policy.jurisdiction);
-        if (policy.valueChainStage) valueChains.add(policy.valueChainStage);
+        if (policy.valueChainStage && Array.isArray(policy.valueChainStage)) {
+            policy.valueChainStage.forEach(vc => valueChains.add(vc));
+        } else if (policy.valueChainStage) {
+            valueChains.add(policy.valueChainStage);
+        }
         if (policy.reformPriority) priorities.add(policy.reformPriority);
     });
     
@@ -215,7 +219,13 @@ function handleSearch(e) {
  */
 function handleFilterChange(e) {
     const filterId = e.target.id.replace('filter-', '');
-    PolicyDB.filters[filterId] = e.target.value;
+    // Map filter IDs to correct property names
+    const filterMap = {
+        'valuechain': 'valueChain',
+        'reformpriority': 'reformPriority'
+    };
+    const filterKey = filterMap[filterId] || filterId;
+    PolicyDB.filters[filterKey] = e.target.value;
     applyFilters();
 }
 
@@ -265,8 +275,18 @@ function applyFilters() {
         
         // Value chain filter
         if (PolicyDB.filters.valueChain !== 'all') {
-            const vcSlug = policy.valueChainStage.toLowerCase().replace(/\s+/g, '-');
-            if (!vcSlug.includes(PolicyDB.filters.valueChain)) return false;
+            if (Array.isArray(policy.valueChainStage)) {
+                const hasMatch = policy.valueChainStage.some(vc => {
+                    const vcSlug = vc.toLowerCase().replace(/\s+/g, '-');
+                    return vcSlug === PolicyDB.filters.valueChain;
+                });
+                if (!hasMatch) return false;
+            } else if (policy.valueChainStage) {
+                const vcSlug = policy.valueChainStage.toLowerCase().replace(/\s+/g, '-');
+                if (vcSlug !== PolicyDB.filters.valueChain) return false;
+            } else {
+                return false;
+            }
         }
         
         // Reform priority filter
@@ -573,11 +593,14 @@ function showPolicyDetails(index) {
     }
     
     // Value Chain Stage
-    if (policy.valueChainStage) {
+    if (policy.valueChainStage && policy.valueChainStage.length > 0) {
+        const vcDisplay = Array.isArray(policy.valueChainStage) 
+            ? policy.valueChainStage.map(vc => formatValue(vc)).join(', ')
+            : formatValue(policy.valueChainStage);
         html += `
             <div class="detail-section">
                 <h3>Value Chain Stage</h3>
-                <p>${formatValue(policy.valueChainStage)}</p>
+                <p>${vcDisplay}</p>
             </div>
         `;
     }

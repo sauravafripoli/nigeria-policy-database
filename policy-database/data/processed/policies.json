@@ -83,7 +83,9 @@
       "jurisdiction": "Federal",
       "policySummary": "The Nigerian Minerals and Mining Act, 2007, provides a framework for the regulation, administration, and incentivization of mining activities in Nigeria. The act governs the exploration, exploitation, and management of minerals in Nigeria. Ownership and control of minerals, water, and related resources are vested in the state. The exploration or exploitation of minerals requires proper authority. Certain lands are excluded from mineral exploration and exploitation. Priority and competitive bidding processes for mineral rights.",
       "institutionalResponsibility": "The Minister of Mines and Steel Development oversees the implementation of the Act.\nEstablishment of the Mining Cadastre Office and its zonal offices to manage mineral titles and maintain registers.\nCreation of departments such as the Mines Inspectorate Department and Mines Environmental Compliance Department.\nEstablishment of State Mineral Resources and Environmental Management Committees.\nRegulations and delegation of powers by the Minister",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Environmental impact requirements (weak)\n community obligations, safety measures",
       "governanceIssues": "Elite capture of licences, \nweak enforcement and  discretionary practices",
       "implementationChallenges": "Limited inspectorate capacity, overlapping mandates with NESREA and states",
@@ -110,7 +112,9 @@
       "jurisdiction": "Federal",
       "policySummary": "Federal Government of Nigeria, which holds ownership and control of all mineral resources in trust for the people under the Constitution (Section 44(3)) and the Nigerian Minerals and Mining Act, 2007 (NMMA). The Minerals and Mining Regulations 2011 establish rules to regulate the acquisition, operation, and management of mineral titles in Nigeria. It outlines obligations for environmental protection, safety standards, environmental compliance, waste disposal, community compensation, and corporate social responsibility in mining operations. Establishment of the Solid Minerals Development Fund to drive investment and growth in the mining sector",
       "institutionalResponsibility": "Ministry of Mines and Steel Development (MMSD)\nMining Cadastre Office (MCO)\nMines Inspectorate Department\nMines Environmental Compliance Department\nNigerian Geological Survey Agency (NGSA)\nState Mineral Resources and Environmental Management Committees",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "EIA requirements, water use conditions, \ncommunity protection provisions",
       "governanceIssues": "Regulatory overlap",
       "implementationChallenges": "Inconsistent enforcement nationwide",
@@ -133,7 +137,10 @@
       "jurisdiction": "Federal",
       "policySummary": "Sector policy focusing on mineral development, geological mapping, infrastructure, beneficiation and value-addition pathways, including incentives to local investors and attracting foreign investment through favourable trade, fiscal, and monetary measures.",
       "institutionalResponsibility": "",
-      "valueChainStage": "Upstream\nMidstream",
+      "valueChainStage": [
+        "Upstream",
+        "Midstream"
+      ],
       "esgElements": "Weak ESG integration; focuses more \non economic development",
       "governanceIssues": "Disconnect between policy intentions and licensing enforcement",
       "implementationChallenges": "Funding constraints, outdated targets",
@@ -155,7 +162,10 @@
       "jurisdiction": "Federal",
       "policySummary": "Strategic plan to reposition mining as growth engine; identifies seven priority minerals, including lithium and niobium, and targets midstream processing and local value chains by 2025.",
       "institutionalResponsibility": "MMSD, NGSA, SMDF, MCO",
-      "valueChainStage": "Upstream\nMidstream",
+      "valueChainStage": [
+        "Upstream",
+        "Midstream"
+      ],
       "esgElements": "Limited; mostly focused on investment rather than ESG",
       "governanceIssues": "Lmited execution, bureaucratic silo",
       "implementationChallenges": "Funding, lack of coordination among MDAs",
@@ -177,7 +187,9 @@
       "jurisdiction": "Federal",
       "policySummary": "NGSA-led programme to generate modern geophysical and geochemical data for priority minerals, including gold, PGM, nickel, chromium, cobolt, rare earth minerals, lead zinc, silver, copper, barite and iron ore resources in Nigeria.",
       "institutionalResponsibility": "NGSA, MMSD",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Data focused",
       "governanceIssues": "Data accessibility, data sovereignty issues",
       "implementationChallenges": "Funding gaps; incomplete coverage",
@@ -199,7 +211,10 @@
       "jurisdiction": "Federal",
       "policySummary": "Environmental standards for mining operations covering waste, emissions, water, hazardous materials and rehabilitation.",
       "institutionalResponsibility": "NESREA, MMSD",
-      "valueChainStage": "Upstream\n  Midstream",
+      "valueChainStage": [
+        "Upstream",
+        "Midstream"
+      ],
       "esgElements": "Pollution control, water quality, tailings safety",
       "governanceIssues": "Weak enforcement, agency overlap with MMSD",
       "implementationChallenges": "Low capacity at state levels",
@@ -221,7 +236,9 @@
       "jurisdiction": "Federal",
       "policySummary": "Programme to support formalisation, training, environmental management and licensing of ASM cooperatives; aims to reduce illegal mining and improve traceability.",
       "institutionalResponsibility": "MMSD, MCO, SMDF",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Basic safety, environmental training, monitoring",
       "governanceIssues": "Weak incentives for formalisation, corruption barriers",
       "implementationChallenges": "Resistance from informal operators",
@@ -243,7 +260,9 @@
       "jurisdiction": "Federal",
       "policySummary": "Establishes NGSA’s mandate for geological mapping, exploration data generation, archival management and national geoscience database governance.",
       "institutionalResponsibility": "NGSA",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Indirect — enables risk assessment",
       "governanceIssues": "Legacy colonial data not digitised; poor data access",
       "implementationChallenges": "Fragmented datasets",
@@ -265,7 +284,10 @@
       "jurisdiction": "Federal",
       "policySummary": "Nigeria’s domestic implementation of the EITI Standard, requiring revenue reporting, licence register transparency, beneficial ownership disclosure and audits.",
       "institutionalResponsibility": "NEITI",
-      "valueChainStage": "Upstream \n Midstream",
+      "valueChainStage": [
+        "Upstream",
+        "Midstream"
+      ],
       "esgElements": "Governance, transparency, anti-corruption",
       "governanceIssues": "Limited enforcement; political interference",
       "implementationChallenges": "Data gaps; non-compliance by companies",
@@ -287,7 +309,9 @@
       "jurisdiction": "State",
       "policySummary": "States have created mining development companies and local regulations to participate in joint ventures, regulate community agreements and support ASM cooperatives.",
       "institutionalResponsibility": "State Ministries of Solid Minerals",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Community agreements, environmental monitoring",
       "governanceIssues": "Federal–state conflicts, overlapping authority",
       "implementationChallenges": "Capacity gaps; unclear legal status",
@@ -309,7 +333,9 @@
       "jurisdiction": "Federal + Communities",
       "policySummary": "Mandatory agreements between mining companies and host communities outlining benefits, compensation, employment and social investment obligations.",
       "institutionalResponsibility": "MMSD, Companies, Communities",
-      "valueChainStage": "Upstream",
+      "valueChainStage": [
+        "Upstream"
+      ],
       "esgElements": "Social safeguards, benefit-sharing",
       "governanceIssues": "Weak monitoring, elite capture within communities",
       "implementationChallenges": "Poor enforcement, dispute resolution gaps",
