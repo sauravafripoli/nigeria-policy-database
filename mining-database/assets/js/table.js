@@ -325,7 +325,13 @@ function viewOnMap(id) {
     
     // Highlight marker on map and open popup
     if (window.miningMap && stakeholder.location && stakeholder.location.coordinates) {
-        const [lng, lat] = stakeholder.location.coordinates;
+        let [lng, lat] = stakeholder.location.coordinates;
+        
+        // If coordinates are 0 or missing, use center of Nigeria (same logic as map)
+        if (!lat || !lng || (lat === 0 && lng === 0)) {
+            lat = 9.0820;  // Center of Nigeria latitude
+            lng = 8.6753;  // Center of Nigeria longitude
+        }
         
         // Pan to marker
         window.miningMap.leafletMap.setView([lat, lng], 10, {
@@ -334,14 +340,21 @@ function viewOnMap(id) {
         });
         
         // Find and open the marker popup
+        // For unknown locations, search within a larger radius since they're randomly placed
+        const searchRadius = (lat === 9.0820 && lng === 8.6753) ? 1.0 : 0.001;
+        
         setTimeout(() => {
             let found = false;
             window.miningMap.markersLayer.eachLayer((layer) => {
                 if (layer.getLatLng && layer.getPopup) {
                     const markerLatLng = layer.getLatLng();
-                    if (Math.abs(markerLatLng.lat - lat) < 0.001 && Math.abs(markerLatLng.lng - lng) < 0.001) {
-                        layer.openPopup();
-                        found = true;
+                    if (Math.abs(markerLatLng.lat - lat) < searchRadius && Math.abs(markerLatLng.lng - lng) < searchRadius) {
+                        // For multiple matches (unknown locations), check if it's the right stakeholder by name
+                        const popupContent = layer.getPopup().getContent();
+                        if (popupContent.includes(stakeholder.name)) {
+                            layer.openPopup();
+                            found = true;
+                        }
                     }
                 }
             });

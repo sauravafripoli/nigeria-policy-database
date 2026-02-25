@@ -201,10 +201,15 @@ class MiningMap {
                 return;
             }
             
-            const [lng, lat] = stakeholder.location.coordinates;
+            let [lng, lat] = stakeholder.location.coordinates;
             
-            if (!lat || !lng) {
-                return;
+            // If coordinates are 0 or missing, use center of Nigeria with small random offset
+            if (!lat || !lng || (lat === 0 && lng === 0)) {
+                // Center of Nigeria with random offset (±0.5 degrees ~ 55km radius)
+                const offsetLat = (Math.random() - 0.5) * 1.0;  // Random offset ±0.5 degrees
+                const offsetLng = (Math.random() - 0.5) * 1.0;
+                lat = 9.0820 + offsetLat;   // Center of Nigeria latitude
+                lng = 8.6753 + offsetLng;   // Center of Nigeria longitude
             }
             
             // Create circle marker
