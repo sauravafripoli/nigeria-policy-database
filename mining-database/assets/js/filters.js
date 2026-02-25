@@ -268,8 +268,8 @@ function exportToCSV() {
     csv += '"\n';
     csv += `"Report Generated: ${dateStr} at ${timeStr}"\n`;
     csv += `"Total Records: ${data.length} stakeholders"\n`;
-    csv += `"Website: https://apri.africa"\n`;
-    csv += `"Contact: info@apri.africa"\n`;
+    csv += `"Website: https://afripoli.org/"\n`;
+    csv += `"Contact: office@afripoli.org"\n`;
     csv += '"\n';
     
     // Active filters info
@@ -295,17 +295,9 @@ function exportToCSV() {
     const headers = [
         'Name',
         'Category',
-        'Type',
         'State',
-        'LGA',
-        'Zone',
-        'Contact Person',
-        'Position',
-        'Email',
-        'Phone',
-        'Address',
-        'Website',
-        'Description'
+        'Mandate/Description',
+        'Website'
     ];
     
     csv += headers.join(',') + '\n';
@@ -314,17 +306,9 @@ function exportToCSV() {
         const row = [
             `"${s.name.replace(/"/g, '""')}"`,
             `"${s.category}"`,
-            `"${s.type}"`,
             `"${s.location.state}"`,
-            `"${s.location.lga || ''}"`,
-            `"${s.location.zone || ''}"`,
-            `"${s.contact.person || ''}"`,
-            `"${s.contact.position || ''}"`,
-            `"${s.contact.email || ''}"`,
-            `"${s.contact.phone || ''}"`,
-            `"${(s.contact.address || '').replace(/"/g, '""')}"`,
-            `"${s.website || ''}"`,
-            `"${(s.description || '').replace(/"/g, '""')}"`
+            `"${(s.description || '').replace(/"/g, '""')}"`,
+            `"${s.website || ''}"`
         ];
         csv += row.join(',') + '\n';
     });
@@ -340,9 +324,9 @@ function exportToCSV() {
     csv += '"Redistribution or commercial use requires written permission from APRI."\n';
     csv += '"\n';
     csv += '"For inquiries, partnerships, or data licensing:"\n';
-    csv += '"  Email: info@apri.africa"\n';
-    csv += '"  Website: https://apri.africa"\n';
-    csv += '"  Phone: +234 XXX XXX XXXX"\n';
+    csv += '"  Email: office@afripoli.org"\n';
+    csv += '"  Website: https://afripoli.org/"\n';
+    csv += '"  Phone: +49 30-33909525"\n';
     csv += '"\n';
     csv += '"Data Source: Nigeria Mining Stakeholder Database"\n';
     csv += '"Maintained by: Africa Policy Research Institute"\n';
