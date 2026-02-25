@@ -2,8 +2,8 @@
   "metadata": {
     "totalPolicies": 11,
     "policiesWithStakeholders": 11,
-    "uniqueStakeholders": 11,
-    "lastUpdated": "2026-02-24",
+    "uniqueStakeholders": 17,
+    "lastUpdated": "2026-02-25",
     "source": "Mining Policy Database CSV Import"
   },
   "statistics": {
@@ -52,8 +52,14 @@
       "Federal + Communities": 1
     },
     "byStakeholder": {
-      "Federal Government State Governments Mining Companies and Investors Local Communities Environmental Agencies Miners and Artisanal Miners": 1,
-      "Investors, Mining Companies, ASM, local communities, state agencies": 1,
+      "Federal Government": 1,
+      "State Governments": 1,
+      "Mining Companies and Investors": 1,
+      "Local Communities": 1,
+      "Environmental Agencies": 1,
+      "Miners and Artisanal Miners": 1,
+      "Investors, Mining Companies, ASM,": 1,
+      "local communities, state agencies": 1,
       "Federal govt, private sector, downstream producers": 1,
       "Investors, MDAs, communities": 1,
       "Investors, NGSA, state govts": 1,
@@ -83,7 +89,12 @@
       "implementationChallenges": "Limited inspectorate capacity, overlapping mandates with NESREA and states",
       "stakeholdersImpacted": "Federal Government\nState Governments\nMining Companies and Investors\nLocal Communities\nEnvironmental Agencies\nMiners and Artisanal Miners",
       "linkedStakeholders": [
-        "Federal Government State Governments Mining Companies and Investors Local Communities Environmental Agencies Miners and Artisanal Miners"
+        "Federal Government",
+        "State Governments",
+        "Mining Companies and Investors",
+        "Local Communities",
+        "Environmental Agencies",
+        "Miners and Artisanal Miners"
       ],
       "reformPriority": "High",
       "links": "https://www.minesandsteel.gov.ng/wp-content/uploads/2016/04/Nigerian_Minerals_and_Mining_Act_2007.pdf",
@@ -105,7 +116,8 @@
       "implementationChallenges": "Inconsistent enforcement nationwide",
       "stakeholdersImpacted": "Investors, Mining Companies, ASM, \nlocal communities, state agencies",
       "linkedStakeholders": [
-        "Investors, Mining Companies, ASM, local communities, state agencies"
+        "Investors, Mining Companies, ASM,",
+        "local communities, state agencies"
       ],
       "reformPriority": "High",
       "links": "https://nigeriaminingcadastre.gov.ng/eMC/Document/DonwloadLegal?name=Nigeria_Mining_Regulations_2011.pdf",

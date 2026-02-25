@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "totalStakeholders": 11,
+    "totalStakeholders": 17,
     "totalPolicies": 11,
-    "lastUpdated": "2026-02-24"
+    "lastUpdated": "2026-02-25"
   },
   "links": {
-    "Federal Government State Governments Mining Companies and Investors Local Communities Environmental Agencies Miners and Artisanal Miners": [
+    "Federal Government": [
       {
         "policyName": "Nigerian Minerals and Mining Act",
         "yearIntroduced": "2007",
@@ -13,7 +13,55 @@
         "status": "In force"
       }
     ],
-    "Investors, Mining Companies, ASM, local communities, state agencies": [
+    "State Governments": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Mining Companies and Investors": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Local Communities": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Environmental Agencies": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Miners and Artisanal Miners": [
+      {
+        "policyName": "Nigerian Minerals and Mining Act",
+        "yearIntroduced": "2007",
+        "policyType": "Legal Framework",
+        "status": "In force"
+      }
+    ],
+    "Investors, Mining Companies, ASM,": [
+      {
+        "policyName": "Nigerian Minerals and Mining Regulations",
+        "yearIntroduced": "2011",
+        "policyType": "Regulatory",
+        "status": "In force"
+      }
+    ],
+    "local communities, state agencies": [
       {
         "policyName": "Nigerian Minerals and Mining Regulations",
         "yearIntroduced": "2011",

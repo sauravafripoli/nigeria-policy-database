@@ -108,17 +108,26 @@ def clean_multiline_text(text):
 
 
 def split_list_items(text, delimiter=';'):
-    """Split text into list items"""
+    """Split text into list items - handles semicolons, newlines, or commas"""
     if not text:
         return []
     
-    # Clean the text first
-    text = clean_multiline_text(text)
+    # Don't clean multiline text if we want to preserve newlines as separators
+    # First try splitting by newlines (most common in stakeholder fields)
+    if '\n' in text:
+        items = [item.strip() for item in text.split('\n') if item.strip()]
+        if items:  # If we got results, return them
+            return items
     
-    # Split by delimiter
-    items = [item.strip() for item in text.split(delimiter) if item.strip()]
+    # If no newlines, try semicolons
+    if delimiter in text:
+        items = [item.strip() for item in text.split(delimiter) if item.strip()]
+        if items:
+            return items
     
-    return items
+    # If no delimiters found, return the whole text as single item
+    text_cleaned = text.strip()
+    return [text_cleaned] if text_cleaned else []
 
 
 def process_policy_csv():
