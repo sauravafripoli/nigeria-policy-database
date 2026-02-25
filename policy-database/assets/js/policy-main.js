@@ -76,10 +76,10 @@ async function initPolicyDatabase() {
         
         if (policyParam) {
             console.log('Policy parameter detected:', policyParam);
-            // Wait a bit for rendering to complete
+            // Wait for rendering to complete before highlighting
             setTimeout(() => {
                 highlightPolicy(policyParam);
-            }, 500);
+            }, 1000);
         }
         
     } catch (error) {
@@ -893,6 +893,7 @@ function debounce(func, wait) {
  */
 function highlightPolicy(policyName) {
     console.log('Highlighting policy:', policyName);
+    console.log('Total policies available:', PolicyDB.allPolicies.length);
     
     // Find the policy (case-insensitive match)
     const policy = PolicyDB.allPolicies.find(p => 
@@ -901,11 +902,43 @@ function highlightPolicy(policyName) {
     
     if (!policy) {
         console.warn('Policy not found:', policyName);
+        console.log('Available policy names:', PolicyDB.allPolicies.map(p => p.policyName));
         return;
     }
     
-    // Show the policy details modal
-    showPolicyDetails(policy);
+    console.log('Found policy:', policy.policyName);
+    
+    // Find the index of the policy in the filtered policies array
+    const start = (PolicyDB.currentPage - 1) * PolicyDB.itemsPerPage;
+    const indexInPage = PolicyDB.filteredPolicies.slice(start, start + PolicyDB.itemsPerPage)
+        .findIndex(p => p.policyName === policy.policyName);
+    
+    console.log('Policy index in current page:', indexInPage);
+    
+    // Show the policy details modal with the correct index
+    if (indexInPage !== -1) {
+        showPolicyDetails(indexInPage);
+    } else {
+        // Policy is not on current page, find which page it's on
+        const globalIndex = PolicyDB.filteredPolicies.findIndex(p => p.policyName === policy.policyName);
+        console.log('Policy global index:', globalIndex);
+        
+        if (globalIndex !== -1) {
+            // Calculate which page the policy is on
+            const targetPage = Math.floor(globalIndex / PolicyDB.itemsPerPage) + 1;
+            console.log('Policy is on page:', targetPage);
+            
+            // Go to that page first
+            PolicyDB.currentPage = targetPage;
+            renderPolicies();
+            
+            // Then show the modal
+            const newIndexInPage = globalIndex % PolicyDB.itemsPerPage;
+            setTimeout(() => {
+                showPolicyDetails(newIndexInPage);
+            }, 100);
+        }
+    }
     
     // Scroll to the policy card if it exists in the current view
     setTimeout(() => {

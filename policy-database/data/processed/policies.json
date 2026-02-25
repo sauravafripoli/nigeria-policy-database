@@ -3,7 +3,7 @@
     "totalPolicies": 11,
     "policiesWithStakeholders": 11,
     "uniqueStakeholders": 17,
-    "linkedToDatabase": 937,
+    "linkedToDatabase": 911,
     "lastUpdated": "2026-02-25",
     "source": "Mining Policy Database CSV Import"
   },
@@ -5028,32 +5028,6 @@
       "sourceType": "Governance Standard",
       "lastVerified": "December 2025",
       "linkedStakeholderIds": [
-        "ngos-csr-in-act-001",
-        "ngos-budgit-002",
-        "ngos-neiti-cso--003",
-        "ngos-centre-for-004",
-        "ngos-spaces-for-005",
-        "ngos-environmen-006",
-        "ngos-global-rig-007",
-        "ngos-civil-soci-008",
-        "ngos-connected--009",
-        "ngos-africa-cen-010",
-        "ngos-extractive-011",
-        "ngos-human-envi-012",
-        "ngos-women-in-m-013",
-        "ngos-host-commu-014",
-        "ngos-afri-cird--015",
-        "ngos-cefsan-cen-016",
-        "ngos-environmen-017",
-        "ngos-pact-018",
-        "ngos-solidarida-019",
-        "ngos-oxfam-in-n-020",
-        "ngos-natural-re-021",
-        "ngos-global-wit-022",
-        "ngos-heinrich-b-023",
-        "ngos-search-for-024",
-        "ngos-internatio-025",
-        "ngos-ziva-commu-026",
         "civil-network-fo-001",
         "civil-kaf-care-f-002",
         "civil-inter-fait-003",
@@ -5124,162 +5098,6 @@
         "civil-child-righ-068"
       ],
       "linkedStakeholderProfiles": [
-        {
-          "id": "ngos-csr-in-act-001",
-          "name": "CSR-in-Action",
-          "category": "NGOs",
-          "type": "NGO/CSO"
-        },
-        {
-          "id": "ngos-budgit-002",
-          "name": "BudgIT",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-neiti-cso--003",
-          "name": "NEITI-CSO Working Group",
-          "category": "NGOs",
-          "type": "CSO Coalition"
-        },
-        {
-          "id": "ngos-centre-for-004",
-          "name": "Centre for Transparency Advocacy (CTA)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-spaces-for-005",
-          "name": "Spaces for Change",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-environmen-006",
-          "name": "Environmental Rights Action (ERA/FoEN)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-global-rig-007",
-          "name": "Global Rights Nigeria",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-civil-soci-008",
-          "name": "Civil Society Legislative Advocacy Centre (CISLAC)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-connected--009",
-          "name": "Connected Development (CODE)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-africa-cen-010",
-          "name": "Africa Centre for Leadership, Strategy & Development (Centre LSD)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-extractive-011",
-          "name": "Extractive360",
-          "category": "NGOs",
-          "type": "Media/CSO"
-        },
-        {
-          "id": "ngos-human-envi-012",
-          "name": "Human & Environmental Development Agenda (HEDA)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-women-in-m-013",
-          "name": "Women in Mining in Nigeria (WIMIN)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-host-commu-014",
-          "name": "Host Communities Network of Nigeria (HoCoN)",
-          "category": "NGOs",
-          "type": "NGO/Network"
-        },
-        {
-          "id": "ngos-afri-cird--015",
-          "name": "AFRI-CIRD (African Centre for Innovative Research & Development)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-cefsan-cen-016",
-          "name": "CEFSAN (Centre for Social Advancement & Development)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-environmen-017",
-          "name": "Environmental Rights Initiative of Nigeria (ERIN)",
-          "category": "NGOs",
-          "type": "NGO"
-        },
-        {
-          "id": "ngos-pact-018",
-          "name": "PACT",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-solidarida-019",
-          "name": "Solidaridad West Africa",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-oxfam-in-n-020",
-          "name": "Oxfam in Nigeria",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-natural-re-021",
-          "name": "Natural Resource Governance Institute (NRGI)",
-          "category": "NGOs",
-          "type": "Think Tank/NGO"
-        },
-        {
-          "id": "ngos-global-wit-022",
-          "name": "Global Witness",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-heinrich-b-023",
-          "name": "Heinrich Böll Foundation (HBF) – Abuja Office",
-          "category": "NGOs",
-          "type": "Political Foundation/NGO"
-        },
-        {
-          "id": "ngos-search-for-024",
-          "name": "Search for Common Ground (SFCG)",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-internatio-025",
-          "name": "International Alert",
-          "category": "NGOs",
-          "type": "International NGO"
-        },
-        {
-          "id": "ngos-ziva-commu-026",
-          "name": "Ziva Communities Initiative",
-          "category": "NGOs",
-          "type": "NGO"
-        },
         {
           "id": "civil-network-fo-001",
           "name": "Network for Empowerment and Development Initiative (NEDIN)",

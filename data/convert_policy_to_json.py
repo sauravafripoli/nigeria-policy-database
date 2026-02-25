@@ -212,7 +212,7 @@ def find_stakeholders_by_category(policy_stakeholder_name, stakeholder_database)
         'artisanal miners': ['Artisanal Miners'],
         'asm': ['Artisanal Miners'],
         'ngos': ['NGOs'],
-        'civil society': ['Civil Society', 'NGOs'],
+        'civil society': ['Civil Society'],  # Separated from NGOs
         'donors': ['Donors'],
         'universities': ['Universities'],
         'training': ['Training Institutes']
