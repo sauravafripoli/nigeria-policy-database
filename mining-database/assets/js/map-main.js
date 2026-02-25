@@ -133,9 +133,38 @@ class MiningMap {
             // Update category counts
             this.updateCategoryCounts();
             
+            // Load policy database links
+            await this.loadPolicyLinks();
+            
         } catch (error) {
             console.error('Error loading data:', error);
             throw error;
+        }
+    }
+    
+    async loadPolicyLinks() {
+        try {
+            console.log('Loading policy database links...');
+            
+            // Try to load policy-stakeholder mapping
+            const policyLinksUrl = '/nigeria/theme/nigeria/policy-database/data/processed/policy_to_stakeholder_database.json';
+            const response = await fetch(policyLinksUrl);
+            
+            if (!response.ok) {
+                console.log('Policy links not available yet');
+                this.policyLinks = {};
+                return;
+            }
+            
+            const data = await response.json();
+            // Extract the stakeholderPolicies mapping
+            this.policyLinks = data.stakeholderPolicies || {};
+            const totalLinks = Object.keys(this.policyLinks).length;
+            console.log(`Loaded policy links for ${totalLinks} stakeholders`);
+            
+        } catch (error) {
+            console.log('Could not load policy links:', error.message);
+            this.policyLinks = {};
         }
     }
     
@@ -571,6 +600,9 @@ class MiningMap {
                 ` : ''}
             </div>
             
+            <!-- Related Policies Section -->
+            ${this.renderRelatedPolicies(stakeholder)}
+            
             <!-- Action Buttons -->
             <div class="detail-actions">
                 <button class="btn-detail btn-detail-primary" onclick="window.miningMap.closeModal(); setTimeout(() => { window.miningMap.viewStakeholderOnMap('${stakeholder.id}'); }, 300);">
@@ -610,6 +642,56 @@ class MiningMap {
         document.addEventListener('keydown', this.escapeKeyHandler);
     }
     
+    renderRelatedPolicies(stakeholder) {
+        // Check if we have policy links for this stakeholder
+        if (!this.policyLinks || !stakeholder.id) {
+            return '';
+        }
+        
+        const policies = this.policyLinks[stakeholder.id];
+        
+        if (!policies || policies.length === 0) {
+            return '';
+        }
+        
+        const count = policies.length;
+        
+        let html = `
+            <div class="detail-section related-policies-section">
+                <h3>📄 Related Policies (${count})</h3>
+                <div class="policy-profiles-grid">
+        `;
+        
+        policies.forEach(policy => {
+            html += `
+                <div class="policy-profile-card">
+                    <a href="/nigeria/index.php?id=policies&policy=${encodeURIComponent(policy.policyName)}" 
+                       class="policy-profile-name">
+                        ${policy.policyName}
+                    </a>
+                    <div class="policy-profile-meta">
+                        ${policy.policyFamily ? `<span class="policy-meta-badge">${policy.policyFamily}</span>` : ''}
+                        ${policy.policyType ? `<span class="policy-meta-badge">${policy.policyType}</span>` : ''}
+                        ${policy.yearIntroduced ? `<span class="policy-meta-badge">${policy.yearIntroduced}</span>` : ''}
+                        ${policy.status ? `<span class="policy-meta-badge">${policy.status}</span>` : ''}
+                    </div>
+                </div>
+            `;
+        });
+        
+        html += `
+                </div>
+                <div class="view-all-link">
+                    <a href="/nigeria/index.php?id=policies">
+                        🔗 View All Policies →
+                    </a>
+                </div>
+            </div>
+        `;
+        
+        return html;
+    }
+    
     closeModal() {
         const modal = document.getElementById('detail-modal');
         if (modal) {
@@ -620,6 +702,40 @@ class MiningMap {
         if (this.escapeKeyHandler) {
             document.removeEventListener('keydown', this.escapeKeyHandler);
             this.escapeKeyHandler = null;
+        }
+    }
+    
+    highlightStakeholder(stakeholderId) {
+        console.log('Highlighting stakeholder:', stakeholderId);
+        
+        // Find the stakeholder in our data
+        const stakeholder = this.stakeholderData.find(s => s.id === stakeholderId);
+        
+        if (!stakeholder) {
+            console.warn('Stakeholder not found:', stakeholderId);
+            return;
+        }
+        
+        // Show the detail modal
+        this.showDetail(stakeholder);
+        
+        // Also try to focus the marker on the map if it exists
+        if (this.markers[stakeholderId]) {
+            const marker = this.markers[stakeholderId];
+            
+            // Get marker position
+            const latLng = marker.getLatLng();
+            
+            // Pan to marker with zoom
+            this.leafletMap.setView(latLng, 10, {
+                animate: true,
+                duration: 1
+            });
+            
+            // Open popup after a short delay
+            setTimeout(() => {
+                marker.openPopup();
+            }, 500);
         }
     }
     
@@ -830,4 +946,16 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing hybrid map...');
     mapInstance = new MiningMap('#map-container');
     window.miningMap = mapInstance;
+    
+    // Check for URL parameter to highlight a specific stakeholder
+    const urlParams = new URLSearchParams(window.location.search);
+    const highlightId = urlParams.get('highlight');
+    
+    if (highlightId) {
+        console.log('Highlight parameter detected:', highlightId);
+        // Wait for map to fully initialize before highlighting
+        setTimeout(() => {
+            mapInstance.highlightStakeholder(highlightId);
+        }, 1000);
+    }
 });

@@ -130,6 +130,182 @@ def split_list_items(text, delimiter=';'):
     return [text_cleaned] if text_cleaned else []
 
 
+def load_stakeholder_database():
+    """Load all stakeholders from the mining database"""
+    # Path to mining database all stakeholders file
+    mining_db_path = BASE_DIR / 'mining-database' / 'data' / 'processed'
+    all_stakeholders_file = mining_db_path / 'all_stakeholders.json'
+    
+    if not all_stakeholders_file.exists():
+        print(f"Warning: Stakeholder database not found at {all_stakeholders_file}")
+        return []
+    
+    try:
+        with open(all_stakeholders_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            # Extract stakeholders array from the structure
+            stakeholders = data.get('stakeholders', [])
+        print(f"Loaded {len(stakeholders)} stakeholders from mining database")
+        return stakeholders
+    except Exception as e:
+        print(f"Error loading stakeholder database: {e}")
+        return []
+
+
+def normalize_name(name):
+    """Normalize stakeholder name for matching"""
+    if not name:
+        return ''
+    # Convert to lowercase, remove extra spaces, remove punctuation
+    name = name.lower().strip()
+    name = re.sub(r'[^\w\s]', '', name)  # Remove punctuation
+    name = re.sub(r'\s+', ' ', name)  # Collapse spaces
+    return name
+
+
+def find_stakeholder_match(policy_stakeholder_name, stakeholder_database):
+    """Find matching stakeholder in database by name (fuzzy match)"""
+    if not policy_stakeholder_name:
+        return None
+    
+    policy_name_normalized = normalize_name(policy_stakeholder_name)
+    
+    # Try exact match first
+    for stakeholder in stakeholder_database:
+        stakeholder_name_normalized = normalize_name(stakeholder.get('name', ''))
+        if policy_name_normalized == stakeholder_name_normalized:
+            return stakeholder
+    
+    # Try partial match (policy name contains stakeholder name or vice versa)
+    for stakeholder in stakeholder_database:
+        stakeholder_name_normalized = normalize_name(stakeholder.get('name', ''))
+        
+        # Skip very short names to avoid false matches
+        if len(stakeholder_name_normalized) < 4:
+            continue
+            
+        if (stakeholder_name_normalized in policy_name_normalized or 
+            policy_name_normalized in stakeholder_name_normalized):
+            return stakeholder
+    
+    return None
+
+
+def find_stakeholders_by_category(policy_stakeholder_name, stakeholder_database):
+    """Find all stakeholders matching a category name"""
+    if not policy_stakeholder_name:
+        return []
+    
+    policy_name_normalized = normalize_name(policy_stakeholder_name)
+    matches = []
+    
+    # Category mapping
+    category_keywords = {
+        'federal government': ['Federal Government'],
+        'state government': ['State Agencies', 'State Companies'],
+        'mining companies': ['Mining Companies'],
+        'investors': ['Mining Companies'],
+        'communities': ['Civil Society', 'Associations'],
+        'local communities': ['Civil Society', 'Associations'],
+        'environmental agencies': ['Federal Government'],  # Filter by NESREA, FMEP, etc.
+        'miners': ['Artisanal Miners'],
+        'artisanal miners': ['Artisanal Miners'],
+        'asm': ['Artisanal Miners'],
+        'ngos': ['NGOs'],
+        'civil society': ['Civil Society', 'NGOs'],
+        'donors': ['Donors'],
+        'universities': ['Universities'],
+        'training': ['Training Institutes']
+    }
+    
+    # Check if the policy stakeholder matches a category keyword
+    for keyword, categories in category_keywords.items():
+        if keyword in policy_name_normalized:
+            # Get all stakeholders in those categories
+            for stakeholder in stakeholder_database:
+                if stakeholder.get('category') in categories:
+                    # Additional filtering for environmental agencies
+                    if 'environmental' in policy_name_normalized:
+                        stakeholder_name = normalize_name(stakeholder.get('name', ''))
+                        if any(term in stakeholder_name for term in ['environmental', 'nesrea', 'environment']):
+                            matches.append(stakeholder)
+                    else:
+                        matches.append(stakeholder)
+            break
+    
+    return matches
+
+
+def link_policies_to_stakeholders(policies, stakeholder_database):
+    """Link policies to stakeholders and create bidirectional references"""
+    
+    # Map stakeholder IDs to their policies
+    stakeholder_to_policies = {}
+    
+    for policy in policies:
+        linked_stakeholder_ids = []
+        linked_stakeholder_details = []
+        
+        for stakeholder_name in policy.get('linkedStakeholders', []):
+            # Try specific name match first
+            match = find_stakeholder_match(stakeholder_name, stakeholder_database)
+            
+            if match:
+                stakeholder_id = match.get('id')
+                if stakeholder_id and stakeholder_id not in linked_stakeholder_ids:
+                    linked_stakeholder_ids.append(stakeholder_id)
+                    linked_stakeholder_details.append({
+                        'id': stakeholder_id,
+                        'name': match.get('name', ''),
+                        'category': match.get('category', ''),
+                        'type': match.get('type', '')
+                    })
+                    
+                    # Track reverse mapping (stakeholder -> policies)
+                    if stakeholder_id not in stakeholder_to_policies:
+                        stakeholder_to_policies[stakeholder_id] = []
+                    
+                    stakeholder_to_policies[stakeholder_id].append({
+                        'policyName': policy['policyName'],
+                        'policyFamily': policy.get('policyFamily', ''),
+                        'policyType': policy.get('policyType', ''),
+                        'yearIntroduced': policy.get('yearIntroduced', ''),
+                        'status': policy.get('status', '')
+                    })
+            else:
+                # Try category-based matching
+                category_matches = find_stakeholders_by_category(stakeholder_name, stakeholder_database)
+                
+                for match in category_matches:  # Link all matching stakeholders
+                    stakeholder_id = match.get('id')
+                    if stakeholder_id and stakeholder_id not in linked_stakeholder_ids:
+                        linked_stakeholder_ids.append(stakeholder_id)
+                        linked_stakeholder_details.append({
+                            'id': stakeholder_id,
+                            'name': match.get('name', ''),
+                            'category': match.get('category', ''),
+                            'type': match.get('type', '')
+                        })
+                        
+                        # Track reverse mapping (stakeholder -> policies)
+                        if stakeholder_id not in stakeholder_to_policies:
+                            stakeholder_to_policies[stakeholder_id] = []
+                        
+                        stakeholder_to_policies[stakeholder_id].append({
+                            'policyName': policy['policyName'],
+                            'policyFamily': policy.get('policyFamily', ''),
+                            'policyType': policy.get('policyType', ''),
+                            'yearIntroduced': policy.get('yearIntroduced', ''),
+                            'status': policy.get('status', '')
+                        })
+        
+        # Add linked stakeholder information to policy
+        policy['linkedStakeholderIds'] = linked_stakeholder_ids
+        policy['linkedStakeholderProfiles'] = linked_stakeholder_details
+    
+    return stakeholder_to_policies
+
+
 def process_policy_csv():
     """Process the policy CSV file - 17 fields only, camelCase"""
     policies = []
@@ -273,12 +449,17 @@ def generate_stakeholder_links(policies):
 def main():
     """Main processing function"""
     print("=" * 70)
-    print("Policy Database - CSV to JSON Converter")
+    print("Policy Database - CSV to JSON Converter with Stakeholder Linking")
     print("=" * 70)
     print()
     
     # Create output directory
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    
+    # Load stakeholder database
+    print("Loading stakeholder database...")
+    stakeholder_database = load_stakeholder_database()
+    print()
     
     # Process CSV
     policies = process_policy_csv()
@@ -290,10 +471,19 @@ def main():
     print()
     print("-" * 70)
     
+    # Link policies to stakeholders
+    print("Linking policies to stakeholders...")
+    policy_stakeholder_map = link_policies_to_stakeholders(policies, stakeholder_database)
+    
+    # Count successful links
+    total_links = sum(len(policy.get('linkedStakeholderIds', [])) for policy in policies)
+    print(f"✓ Created {total_links} policy-stakeholder links")
+    print()
+    
     # Generate statistics
     stats = generate_statistics(policies)
     
-    # Generate stakeholder links
+    # Generate stakeholder links (text-based, for backward compatibility)
     stakeholder_links = generate_stakeholder_links(policies)
     
     # Save master policies file
@@ -302,6 +492,7 @@ def main():
             'totalPolicies': len(policies),
             'policiesWithStakeholders': stats['policiesWithStakeholders'],
             'uniqueStakeholders': len(stakeholder_links),
+            'linkedToDatabase': total_links,
             'lastUpdated': datetime.now().strftime('%Y-%m-%d'),
             'source': 'Mining Policy Database CSV Import'
         },
@@ -315,7 +506,22 @@ def main():
     
     print(f"✓ Saved master file: policies.json")
     
-    # Save stakeholder links file
+    # Save policy-to-stakeholder database mapping
+    db_mapping_file = OUTPUT_DIR / 'policy_to_stakeholder_database.json'
+    with open(db_mapping_file, 'w', encoding='utf-8') as f:
+        json.dump({
+            'metadata': {
+                'description': 'Maps stakeholder database IDs to related policies',
+                'totalStakeholders': len(policy_stakeholder_map),
+                'totalLinks': total_links,
+                'lastUpdated': datetime.now().strftime('%Y-%m-%d')
+            },
+            'stakeholderPolicies': policy_stakeholder_map
+        }, f, indent=2, ensure_ascii=False)
+    
+    print(f"✓ Saved database mapping: policy_to_stakeholder_database.json")
+    
+    # Save stakeholder links file (text-based, for backward compatibility)
     stakeholder_file = OUTPUT_DIR / 'policy_stakeholder_links.json'
     with open(stakeholder_file, 'w', encoding='utf-8') as f:
         json.dump({

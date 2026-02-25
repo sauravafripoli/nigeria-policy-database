@@ -838,3 +838,85 @@ circle.stakeholder:hover {
         padding: 16px;
     }
 }
+
+/* ============================================
+   POLICY PROFILE CARDS (Related Policies Section)
+============================================ */
+.related-policies-section {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 2px solid #f3f4f6;
+}
+
+.policy-profiles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.policy-profile-card {
+    background: white;
+    border: 2px solid #f3f4f6;
+    border-radius: 8px;
+    padding: 15px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.policy-profile-card:hover {
+    border-color: #3b82f6;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+    transform: translateY(-2px);
+}
+
+.policy-profile-name {
+    color: #2563eb;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.policy-profile-name:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
+.policy-profile-meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+
+.policy-meta-badge {
+    display: inline-block;
+    background: #dbeafe;
+    color: #1e40af;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.view-all-link {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+}
+
+.view-all-link a {
+    color: #2563eb;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.view-all-link a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}

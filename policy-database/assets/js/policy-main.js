@@ -70,6 +70,18 @@ async function initPolicyDatabase() {
         // Setup event listeners
         setupEventListeners();
         
+        // Check for URL parameter to highlight a specific policy
+        const urlParams = new URLSearchParams(window.location.search);
+        const policyParam = urlParams.get('policy');
+        
+        if (policyParam) {
+            console.log('Policy parameter detected:', policyParam);
+            // Wait a bit for rendering to complete
+            setTimeout(() => {
+                highlightPolicy(policyParam);
+            }, 500);
+        }
+        
     } catch (error) {
         console.error('Error loading policy data:', error);
         showError('Failed to load policy data. Please process the data first.');
@@ -635,7 +647,7 @@ function showPolicyDetails(index) {
         `;
     }
     
-    // Stakeholders Impacted
+    // Linked Stakeholders (from text field)
     if (policy.stakeholdersImpacted) {
         html += `
             <div class="detail-section">
@@ -645,11 +657,47 @@ function showPolicyDetails(index) {
         `;
     }
     
-    // Linked Stakeholders
-    if (policy.linkedStakeholders && policy.linkedStakeholders.length > 0) {
+    // Linked Stakeholder Profiles (from database)
+    if (policy.linkedStakeholderProfiles && policy.linkedStakeholderProfiles.length > 0) {
         html += `
             <div class="detail-section">
-                <h3>Linked Stakeholders (${policy.linkedStakeholders.length})</h3>
+                <h3>🔗 Related Stakeholder Organizations (${policy.linkedStakeholderProfiles.length})</h3>
+                <div class="stakeholders-list stakeholder-profiles-grid">
+        `;
+        
+        policy.linkedStakeholderProfiles.forEach(stakeholder => {
+            html += `
+                <div class="stakeholder-profile-card">
+                    <div class="stakeholder-card-header">
+                        <a href="/nigeria/index.php?id=stakeholders&highlight=${stakeholder.id}" 
+                           class="stakeholder-profile-name">
+                            ${formatValue(stakeholder.name)}
+                        </a>
+                    </div>
+                    <div class="stakeholder-card-meta">
+                        <span class="stakeholder-category">${formatValue(stakeholder.category)}</span>
+                    </div>
+                </div>
+            `;
+        });
+        
+        html += `
+                </div>
+                <div class="view-all-link">
+                    <a href="/nigeria/index.php?id=stakeholders" style="color: #d97706; font-weight: 600;">
+                        View All Stakeholders in Database →
+                    </a>
+                </div>
+            </div>
+        `;
+    }
+    
+    // Text-based stakeholders list (if no database links)
+    if ((!policy.linkedStakeholderProfiles || policy.linkedStakeholderProfiles.length === 0) 
+        && policy.linkedStakeholders && policy.linkedStakeholders.length > 0) {
+        html += `
+            <div class="detail-section">
+                <h3>Stakeholder Categories (${policy.linkedStakeholders.length})</h3>
                 <div class="stakeholders-list">
         `;
         
@@ -835,6 +883,46 @@ function debounce(func, wait) {
         clearTimeout(timeout);
         timeout = setTimeout(later, wait);
     };
+}
+
+/**
+ * Show error message
+ */
+/**
+ * Highlight and show details for a specific policy
+ */
+function highlightPolicy(policyName) {
+    console.log('Highlighting policy:', policyName);
+    
+    // Find the policy (case-insensitive match)
+    const policy = PolicyDB.allPolicies.find(p => 
+        p.policyName && p.policyName.toLowerCase() === policyName.toLowerCase()
+    );
+    
+    if (!policy) {
+        console.warn('Policy not found:', policyName);
+        return;
+    }
+    
+    // Show the policy details modal
+    showPolicyDetails(policy);
+    
+    // Scroll to the policy card if it exists in the current view
+    setTimeout(() => {
+        const policyCards = document.querySelectorAll('.policy-card');
+        for (const card of policyCards) {
+            const cardTitle = card.querySelector('.policy-title');
+            if (cardTitle && cardTitle.textContent.trim() === policy.policyName) {
+                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Add a temporary highlight effect
+                card.style.boxShadow = '0 0 0 3px #ffc03c';
+                setTimeout(() => {
+                    card.style.boxShadow = '';
+                }, 2000);
+                break;
+            }
+        }
+    }, 300);
 }
 
 /**
