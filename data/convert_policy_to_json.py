@@ -21,7 +21,7 @@ POLICY_CSV = 'Version 1_Database_Comprehensive List of all Stakeholders.xlsx - M
 
 # Stakeholder abbreviations for automatic linking
 STAKEHOLDER_ABBREVIATIONS = {
-    'MMSD': ['Mining Cadastre Office', 'MMSD'],
+    'MMSD': ['The Ministry of Mines and Steels Development', 'MMSD'],
     'NGSA': ['Nigerian Geological Survey Agency', 'NGSA'],
     'MCO': ['Mining Cadastre Office', 'MCO', 'Cadastre'],
     'NEITI': ['Nigeria Extractive Industries Transparency Initiative', 'NEITI'],
