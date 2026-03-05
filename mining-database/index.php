@@ -55,19 +55,46 @@ $dataExists = file_exists(__DIR__ . '/data/processed/all_stakeholders.json');
                 <button class="pill active" data-category="all">
                     All Stakeholders <span class="count" id="count-all">0</span>
                 </button>
-                <button class="pill" data-category="federal-government" style="--pill-color: #ffc03c;">
+                <button class="pill" data-category="federal-government">
                     Federal Government <span class="count" id="count-federal">0</span>
                 </button>
-                <button class="pill" data-category="mining-consultancies" style="--pill-color: #f59e0b;">
+                <button class="pill" data-category="state-agencies">
+                    State Agencies <span class="count" id="count-state">0</span>
+                </button>
+                <button class="pill" data-category="mmsd-offices">
+                    MMSD Offices <span class="count" id="count-mmsd">0</span>
+                </button>
+                <button class="pill" data-category="mining-companies">
+                    Mining Companies <span class="count" id="count-mining">0</span>
+                </button>
+                <button class="pill" data-category="mining-consultancies">
                     Mining Consultancies <span class="count" id="count-consultancies">0</span>
                 </button>
-                <button class="pill" data-category="civil-society" style="--pill-color: #22c55e;">
+                <button class="pill" data-category="artisanal-miners">
+                    Artisanal Miners <span class="count" id="count-artisanal">0</span>
+                </button>
+                <button class="pill" data-category="associations">
+                    Associations <span class="count" id="count-associations">0</span>
+                </button>
+                <button class="pill" data-category="state-companies">
+                    State Companies <span class="count" id="count-state-companies">0</span>
+                </button>
+                <button class="pill" data-category="infrastructure">
+                    Infrastructure <span class="count" id="count-infrastructure">0</span>
+                </button>
+                <button class="pill" data-category="ngos">
+                    NGOs <span class="count" id="count-ngos">0</span>
+                </button>
+                <button class="pill" data-category="civil-society">
                     Civil Society <span class="count" id="count-civil">0</span>
                 </button>
-                <button class="pill" data-category="training-institutes" style="--pill-color: #eab308;">
+                <button class="pill" data-category="donors">
+                    Donors <span class="count" id="count-donors">0</span>
+                </button>
+                <button class="pill" data-category="training-institutes">
                     Training Institutes <span class="count" id="count-training">0</span>
                 </button>
-                <button class="pill" data-category="universities" style="--pill-color: #ea580c;">
+                <button class="pill" data-category="universities">
                     Universities <span class="count" id="count-universities">0</span>
                 </button>
             </div>
