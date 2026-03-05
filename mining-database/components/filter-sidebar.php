@@ -19,63 +19,84 @@
     <!-- State Filter -->
     <div class="filter-group">
         <label for="state-filter">Filter by State</label>
-        <select id="state-filter" class="filter-select">
-            <option value="all">All States (37)</option>
-            <optgroup label="North Central">
-                <option value="FCT">FCT Abuja</option>
-                <option value="Benue">Benue</option>
-                <option value="Kogi">Kogi</option>
-                <option value="Kwara">Kwara</option>
-                <option value="Nasarawa">Nasarawa</option>
-                <option value="Niger">Niger</option>
-                <option value="Plateau">Plateau</option>
-            </optgroup>
-            <optgroup label="North East">
-                <option value="Adamawa">Adamawa</option>
-                <option value="Bauchi">Bauchi</option>
-                <option value="Borno">Borno</option>
-                <option value="Gombe">Gombe</option>
-                <option value="Taraba">Taraba</option>
-                <option value="Yobe">Yobe</option>
-            </optgroup>
-            <optgroup label="North West">
-                <option value="Jigawa">Jigawa</option>
-                <option value="Kaduna">Kaduna</option>
-                <option value="Kano">Kano</option>
-                <option value="Katsina">Katsina</option>
-                <option value="Kebbi">Kebbi</option>
-                <option value="Sokoto">Sokoto</option>
-                <option value="Zamfara">Zamfara</option>
-            </optgroup>
-            <optgroup label="South East">
-                <option value="Abia">Abia</option>
-                <option value="Anambra">Anambra</option>
-                <option value="Ebonyi">Ebonyi</option>
-                <option value="Enugu">Enugu</option>
-                <option value="Imo">Imo</option>
-            </optgroup>
-            <optgroup label="South South">
-                <option value="Akwa Ibom">Akwa Ibom</option>
-                <option value="Bayelsa">Bayelsa</option>
-                <option value="Cross River">Cross River</option>
-                <option value="Delta">Delta</option>
-                <option value="Edo">Edo</option>
-                <option value="Rivers">Rivers</option>
-            </optgroup>
-            <optgroup label="South West">
-                <option value="Ekiti">Ekiti</option>
-                <option value="Lagos">Lagos</option>
-                <option value="Ogun">Ogun</option>
-                <option value="Ondo">Ondo</option>
-                <option value="Osun">Osun</option>
-                <option value="Oyo">Oyo</option>
-            </optgroup>
-        </select>
+        <div class="custom-state-dropdown" id="state-dropdown">
+            <div class="custom-state-trigger" id="state-trigger">
+                <span id="state-display">All States (37)</span>
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor">
+                    <path d="M6 8L2 4h8z"/>
+                </svg>
+            </div>
+            <div class="custom-state-menu" id="state-menu">
+                <div class="state-option" data-value="all">
+                    <input type="checkbox" id="state-all" checked>
+                    <label for="state-all">All States (37)</label>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">North Central</div>
+                    <div class="state-option" data-value="FCT"><input type="checkbox" id="state-fct"><label for="state-fct">FCT Abuja</label></div>
+                    <div class="state-option" data-value="Benue"><input type="checkbox" id="state-benue"><label for="state-benue">Benue</label></div>
+                    <div class="state-option" data-value="Kogi"><input type="checkbox" id="state-kogi"><label for="state-kogi">Kogi</label></div>
+                    <div class="state-option" data-value="Kwara"><input type="checkbox" id="state-kwara"><label for="state-kwara">Kwara</label></div>
+                    <div class="state-option" data-value="Nasarawa"><input type="checkbox" id="state-nasarawa"><label for="state-nasarawa">Nasarawa</label></div>
+                    <div class="state-option" data-value="Niger"><input type="checkbox" id="state-niger"><label for="state-niger">Niger</label></div>
+                    <div class="state-option" data-value="Plateau"><input type="checkbox" id="state-plateau"><label for="state-plateau">Plateau</label></div>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">North East</div>
+                    <div class="state-option" data-value="Adamawa"><input type="checkbox" id="state-adamawa"><label for="state-adamawa">Adamawa</label></div>
+                    <div class="state-option" data-value="Bauchi"><input type="checkbox" id="state-bauchi"><label for="state-bauchi">Bauchi</label></div>
+                    <div class="state-option" data-value="Borno"><input type="checkbox" id="state-borno"><label for="state-borno">Borno</label></div>
+                    <div class="state-option" data-value="Gombe"><input type="checkbox" id="state-gombe"><label for="state-gombe">Gombe</label></div>
+                    <div class="state-option" data-value="Taraba"><input type="checkbox" id="state-taraba"><label for="state-taraba">Taraba</label></div>
+                    <div class="state-option" data-value="Yobe"><input type="checkbox" id="state-yobe"><label for="state-yobe">Yobe</label></div>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">North West</div>
+                    <div class="state-option" data-value="Jigawa"><input type="checkbox" id="state-jigawa"><label for="state-jigawa">Jigawa</label></div>
+                    <div class="state-option" data-value="Kaduna"><input type="checkbox" id="state-kaduna"><label for="state-kaduna">Kaduna</label></div>
+                    <div class="state-option" data-value="Kano"><input type="checkbox" id="state-kano"><label for="state-kano">Kano</label></div>
+                    <div class="state-option" data-value="Katsina"><input type="checkbox" id="state-katsina"><label for="state-katsina">Katsina</label></div>
+                    <div class="state-option" data-value="Kebbi"><input type="checkbox" id="state-kebbi"><label for="state-kebbi">Kebbi</label></div>
+                    <div class="state-option" data-value="Sokoto"><input type="checkbox" id="state-sokoto"><label for="state-sokoto">Sokoto</label></div>
+                    <div class="state-option" data-value="Zamfara"><input type="checkbox" id="state-zamfara"><label for="state-zamfara">Zamfara</label></div>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">South East</div>
+                    <div class="state-option" data-value="Abia"><input type="checkbox" id="state-abia"><label for="state-abia">Abia</label></div>
+                    <div class="state-option" data-value="Anambra"><input type="checkbox" id="state-anambra"><label for="state-anambra">Anambra</label></div>
+                    <div class="state-option" data-value="Ebonyi"><input type="checkbox" id="state-ebonyi"><label for="state-ebonyi">Ebonyi</label></div>
+                    <div class="state-option" data-value="Enugu"><input type="checkbox" id="state-enugu"><label for="state-enugu">Enugu</label></div>
+                    <div class="state-option" data-value="Imo"><input type="checkbox" id="state-imo"><label for="state-imo">Imo</label></div>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">South South</div>
+                    <div class="state-option" data-value="Akwa Ibom"><input type="checkbox" id="state-akwa"><label for="state-akwa">Akwa Ibom</label></div>
+                    <div class="state-option" data-value="Bayelsa"><input type="checkbox" id="state-bayelsa"><label for="state-bayelsa">Bayelsa</label></div>
+                    <div class="state-option" data-value="Cross River"><input type="checkbox" id="state-cross"><label for="state-cross">Cross River</label></div>
+                    <div class="state-option" data-value="Delta"><input type="checkbox" id="state-delta"><label for="state-delta">Delta</label></div>
+                    <div class="state-option" data-value="Edo"><input type="checkbox" id="state-edo"><label for="state-edo">Edo</label></div>
+                    <div class="state-option" data-value="Rivers"><input type="checkbox" id="state-rivers"><label for="state-rivers">Rivers</label></div>
+                </div>
+                <div class="state-group">
+                    <div class="state-group-label">South West</div>
+                    <div class="state-option" data-value="Ekiti"><input type="checkbox" id="state-ekiti"><label for="state-ekiti">Ekiti</label></div>
+                    <div class="state-option" data-value="Lagos"><input type="checkbox" id="state-lagos"><label for="state-lagos">Lagos</label></div>
+                    <div class="state-option" data-value="Ogun"><input type="checkbox" id="state-ogun"><label for="state-ogun">Ogun</label></div>
+                    <div class="state-option" data-value="Ondo"><input type="checkbox" id="state-ondo"><label for="state-ondo">Ondo</label></div>
+                    <div class="state-option" data-value="Osun"><input type="checkbox" id="state-osun"><label for="state-osun">Osun</label></div>
+                    <div class="state-option" data-value="Oyo"><input type="checkbox" id="state-oyo"><label for="state-oyo">Oyo</label></div>
+                </div>
+            </div>
+        </div>
     </div>
     
     <!-- Category Filter -->
     <div class="filter-group">
         <label>Categories</label>
+        <div class="category-filter-controls">
+            <button type="button" class="btn-select-all" onclick="selectAllCategories()">Select All</button>
+            <button type="button" class="btn-clear-all" onclick="clearAllCategories()">Clear All</button>
+        </div>
         <div class="checkbox-group" id="category-checkboxes">
             <label>
                 <input type="checkbox" value="Federal Government" checked data-category="federal-government">
@@ -146,37 +167,6 @@
                 <input type="checkbox" value="Training Institutes" checked data-category="training-institutes">
                 <span class="checkbox-label">Training Institutes</span>
                 <span class="count" id="check-count-training">0</span>
-            </label>
-        </div>
-    </div>
-    
-    <!-- Zone Filter -->
-    <div class="filter-group">
-        <label>Geopolitical Zone</label>
-        <div class="checkbox-group">
-            <label>
-                <input type="checkbox" value="North Central" checked>
-                <span class="checkbox-label">North Central</span>
-            </label>
-            <label>
-                <input type="checkbox" value="North East" checked>
-                <span class="checkbox-label">North East</span>
-            </label>
-            <label>
-                <input type="checkbox" value="North West" checked>
-                <span class="checkbox-label">North West</span>
-            </label>
-            <label>
-                <input type="checkbox" value="South East" checked>
-                <span class="checkbox-label">South East</span>
-            </label>
-            <label>
-                <input type="checkbox" value="South South" checked>
-                <span class="checkbox-label">South South</span>
-            </label>
-            <label>
-                <input type="checkbox" value="South West" checked>
-                <span class="checkbox-label">South West</span>
             </label>
         </div>
     </div>

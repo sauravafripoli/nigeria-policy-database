@@ -1,6 +1,6 @@
 Category,Name,City,State,Zone
-"Associations","Geological Society of Africa (GSAf)","","Unknown","Unknown"
-"Associations","African Union African Minerals Development Centre (AMDC)","","Unknown","Unknown"
+"Associations","Geological Society of Africa (GSAf)","Ibadan","Oyo","South West"
+"Associations","African Union African Minerals Development Centre (AMDC)","Abuja","FCT","North Central"
 
 
 
@@ -18,14 +18,14 @@ Category,Name,City,State,Zone
 "Donors","United Nations Children’s Fund (UNICEF)","Abuja","FCT","North Central"
 "Donors","United Nations Development Programme (UNDP)","Abuja","FCT","North Central"
 "Donors","World Bank","Abuja","FCT","North Central"
-"Donors","African Development Bank (AfDB)","","Unknown","Unknown"
-"Donors","Bill & Melinda Gates Foundation","","Unknown","Unknown"
+"Donors","African Development Bank (AfDB)","Abuja","FCT","North Central"
+"Donors","Bill & Melinda Gates Foundation","Abuja","FCT","North Central"
 "Donors","Ford Foundation – West Africa Office","Lagos","Lagos","South West"
-"Donors","International Labour Organization (ILO)","","Unknown","Unknown"
-"Donors","Open Society Foundations (OSF)","","Unknown","Unknown"
-"Donors","Rockefeller Foundation","","Unknown","Unknown"
-"Donors","United Nations Industrial Development Organization (UNIDO)","","Unknown","Unknown"
-"Donors","Bloomberg Philanthropies","","Unknown","Unknown"
+"Donors","International Labour Organization (ILO)","Abuja","FCT","North Central"
+"Donors","Open Society Foundations (OSF)","Abuja","FCT","North Central"
+"Donors","Rockefeller Foundation","Abuja","FCT","North Central"
+"Donors","United Nations Industrial Development Organization (UNIDO)","Abuja","FCT","North Central"
+"Donors","Bloomberg Philanthropies","Abuja","FCT","North Central"
 
 
 
@@ -38,7 +38,7 @@ Category,Name,City,State,Zone
 "Infrastructure","Bristol Scientific Nigeria Ltd","Lagos","Lagos","South West"
 "Infrastructure","Julius Berger Mining Division","Abuja","FCT","North Central"
 "Infrastructure","Rapidlink Resources Limited","Abuja","FCT","North Central"
-"Infrastructure","Sandvik Mining & Rock Solutions","","Unknown","Unknown"
+"Infrastructure","Sandvik Mining & Rock Solutions","Lagos","Lagos","South West"
 "Infrastructure","Xugong Nigeria Company Limited (XCMG Nigeria)","Lagos","Lagos","South West"
 
 
@@ -51,16 +51,16 @@ Category,Name,City,State,Zone
 "Mining Companies","Red Mining Company Ltd","Abuja","FCT","North Central"
 "Mining Companies","Resource House Ltd","Abuja","FCT","North Central"
 "Mining Companies","SBOG Nigeria Ltd","Abuja","FCT","North Central"
-"Mining Companies","Dangote Mining Division","Unknown","Unknown","Unknown"
-"Mining Consultancies","Tectonics Engineering Group","","Unknown","Unknown"
+"Mining Companies","Dangote Mining Division","Lagos","Unknown","Unknown"
+"Mining Consultancies","Tectonics Engineering Group","Abuja","FCT","North Central"
 
 
 "NGOs","Environmental Rights Initiative of Nigeria (ERIN)","","Unknown","Unknown"
 "NGOs","Global Witness","","Unknown","Unknown"
-"NGOs","International Alert","","Unknown","Unknown"
-"NGOs","Natural Resource Governance Institute (NRGI)","","Unknown","Unknown"
-"NGOs","PACT","","Unknown","Unknown"
+"NGOs","International Alert","Abuja","FCT","North Central"
+"NGOs","Natural Resource Governance Institute (NRGI)","Abuja","FCT","North Central"
+"NGOs","PACT","Abuja","FCT","North Central"
 "NGOs","Search for Common Ground (SFCG)","","FCT","North Central"
-"NGOs","Solidaridad West Africa","","Unknown","Unknown"
-"NGOs","Host Communities Network of Nigeria (HoCoN)","Unknown","Unknown","Unknown"
+"NGOs","Solidaridad West Africa","Enugu","Enugu","South East"
+"NGOs","Host Communities Network of Nigeria (HoCoN)","Abuja","FCT","North Central"
 

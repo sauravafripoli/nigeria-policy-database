@@ -100,7 +100,7 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
     <!-- Stakeholder Database -->
     <div class="feature-card">
         <h3>🗺️ Stakeholder Database</h3>
-        <p>Interactive map and directory of over 500+ stakeholders across 14 categories in Nigeria's mining sector.</p>
+        <p>Interactive map and directory of over 300+ stakeholders across 14 categories in Nigeria's mining sector.</p>
         <a href="<?php get_site_url(); ?>index.php?id=stakeholders" class="btn-primary" style="margin-top: 20px; padding: 10px 20px; font-size: 14px;">
             View Database
         </a>

@@ -40,6 +40,10 @@
         <!-- Leaflet CSS for map rendering -->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
         
+        <!-- Leaflet MarkerCluster CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+        
         <!-- D3.js for data visualization and filters -->
         <script src="https://d3js.org/d3.v7.min.js"></script>
 		

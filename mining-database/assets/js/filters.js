@@ -6,9 +6,8 @@
 // Active filters
 let activeFilters = {
     search: '',
-    state: 'all',
-    categories: [],
-    zones: []
+    states: [],
+    categories: []
 };
 
 // Initialize filters
@@ -28,13 +27,97 @@ function initializeFilters() {
         }, 300));
     }
     
-    // State filter
-    const stateFilter = document.getElementById('state-filter');
-    if (stateFilter) {
-        stateFilter.addEventListener('change', (e) => {
-            activeFilters.state = e.target.value;
-            applyFilters();
+    // Custom state dropdown
+    const stateTrigger = document.getElementById('state-trigger');
+    const stateMenu = document.getElementById('state-menu');
+    const stateDropdown = document.getElementById('state-dropdown');
+    
+    if (stateTrigger && stateMenu) {
+        // Toggle dropdown
+        stateTrigger.addEventListener('click', (e) => {
+            e.stopPropagation();
+            stateDropdown.classList.toggle('open');
         });
+        
+        // Close on outside click
+        document.addEventListener('click', (e) => {
+            if (!stateDropdown.contains(e.target)) {
+                stateDropdown.classList.remove('open');
+            }
+        });
+        
+        // Handle checkbox changes
+        const stateCheckboxes = stateMenu.querySelectorAll('input[type="checkbox"]');
+        const allCheckbox = document.getElementById('state-all');
+        
+        stateCheckboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', () => {
+                if (checkbox.id === 'state-all') {
+                    // If "All" is checked, uncheck others
+                    if (checkbox.checked) {
+                        stateCheckboxes.forEach(cb => {
+                            if (cb !== checkbox) cb.checked = false;
+                        });
+                    }
+                } else {
+                    // If any specific state is checked, uncheck "All"
+                    if (checkbox.checked && allCheckbox) {
+                        allCheckbox.checked = false;
+                    }
+                }
+                
+                updateStateFilter();
+            });
+        });
+        
+        // Make zone labels clickable to toggle all states in that zone
+        const zoneLabels = stateMenu.querySelectorAll('.state-group-label');
+        zoneLabels.forEach(label => {
+            label.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const stateGroup = label.parentElement;
+                const stateOptions = stateGroup.querySelectorAll('.state-option input[type="checkbox"]');
+                
+                // Check if all states in this zone are currently selected
+                const allChecked = Array.from(stateOptions).every(cb => cb.checked);
+                
+                // Uncheck "All States" if checked
+                if (allCheckbox) allCheckbox.checked = false;
+                
+                // Toggle: if all checked, uncheck all; if not all checked, check all
+                stateOptions.forEach(cb => cb.checked = !allChecked);
+                
+                updateStateFilter();
+            });
+        });
+    }
+    
+    function updateStateFilter() {
+        const stateCheckboxes = document.querySelectorAll('#state-menu input[type="checkbox"]:checked');
+        const allCheckbox = document.getElementById('state-all');
+        const stateDisplay = document.getElementById('state-display');
+        
+        if (allCheckbox && allCheckbox.checked) {
+            activeFilters.states = [];
+            stateDisplay.textContent = 'All States (37)';
+        } else {
+            const selectedStates = Array.from(stateCheckboxes)
+                .map(cb => cb.parentElement.dataset.value)
+                .filter(val => val && val !== 'all');
+            
+            activeFilters.states = selectedStates;
+            
+            const count = selectedStates.length;
+            if (count === 0) {
+                stateDisplay.textContent = 'Select states...';
+            } else if (count === 1) {
+                stateDisplay.textContent = selectedStates[0];
+            } else {
+                stateDisplay.textContent = `${count} states selected`;
+            }
+        }
+        
+        applyFilters();
     }
     
     // Category checkboxes
@@ -42,15 +125,6 @@ function initializeFilters() {
     categoryCheckboxes.forEach(checkbox => {
         checkbox.addEventListener('change', () => {
             updateCategoryFilters();
-            applyFilters();
-        });
-    });
-    
-    // Zone checkboxes
-    const zoneCheckboxes = document.querySelectorAll('.filter-group input[type="checkbox"][value*="North"], .filter-group input[type="checkbox"][value*="South"]');
-    zoneCheckboxes.forEach(checkbox => {
-        checkbox.addEventListener('change', () => {
-            updateZoneFilters();
             applyFilters();
         });
     });
@@ -129,11 +203,6 @@ function updateCategoryFilters() {
     console.log('Category filters updated:', activeFilters.categories);
 }
 
-function updateZoneFilters() {
-    const checkboxes = document.querySelectorAll('.filter-group input[type="checkbox"][value*="North"]:checked, .filter-group input[type="checkbox"][value*="South"]:checked');
-    activeFilters.zones = Array.from(checkboxes).map(cb => cb.value);
-}
-
 function applyFilters() {
     console.log('Applying filters:', activeFilters);
     
@@ -153,9 +222,9 @@ function applyFilters() {
         });
     }
     
-    // State filter
-    if (activeFilters.state !== 'all') {
-        filtered = filtered.filter(s => s.location.state === activeFilters.state);
+    // State filter (multi-select)
+    if (activeFilters.states.length > 0) {
+        filtered = filtered.filter(s => activeFilters.states.includes(s.location.state));
     }
     
     // Category filter - FIXED: Handle empty array correctly
@@ -170,11 +239,6 @@ function applyFilters() {
         filtered = filtered.filter(s => activeFilters.categories.includes(s.category));
     }
     // If all categories checked or no category filter exists, show all (filtered by other filters)
-    
-    // Zone filter
-    if (activeFilters.zones.length > 0) {
-        filtered = filtered.filter(s => activeFilters.zones.includes(s.location.zone));
-    }
     
     // Update global filtered data
     filteredStakeholders = filtered;
@@ -213,17 +277,20 @@ function resetFilters() {
     // Reset filter state
     activeFilters = {
         search: '',
-        state: 'all',
-        categories: [],
-        zones: []
+        states: [],
+        categories: []
     };
     
     // Reset UI
     const searchInput = document.getElementById('search-input');
     if (searchInput) searchInput.value = '';
     
-    const stateFilter = document.getElementById('state-filter');
-    if (stateFilter) stateFilter.value = 'all';
+    // Reset custom state dropdown
+    const stateCheckboxes = document.querySelectorAll('#state-menu input[type="checkbox"]');
+    stateCheckboxes.forEach(cb => cb.checked = false);
+    const allCheckbox = document.getElementById('state-all');
+    if (allCheckbox) allCheckbox.checked = true;
+    if (typeof updateStateFilter === 'function') updateStateFilter();
     
     // Check all checkboxes
     const allCheckboxes = document.querySelectorAll('.filter-group input[type="checkbox"]');
@@ -231,7 +298,6 @@ function resetFilters() {
     
     // Update category filters array after checking all
     updateCategoryFilters();
-    updateZoneFilters();
     
     // Reset category pills
     const categoryPills = document.querySelectorAll('.category-pills .pill');
@@ -275,9 +341,8 @@ function exportToCSV() {
     // Active filters info
     const activeFiltersList = [];
     if (activeFilters.search) activeFiltersList.push(`Search: "${activeFilters.search}"`);
-    if (activeFilters.state !== 'all') activeFiltersList.push(`State: ${activeFilters.state}`);
+    if (activeFilters.states.length > 0) activeFiltersList.push(`States: ${activeFilters.states.join(', ')}`);
     if (activeFilters.categories.length > 0) activeFiltersList.push(`Categories: ${activeFilters.categories.join(', ')}`);
-    if (activeFilters.zones.length > 0) activeFiltersList.push(`Zones: ${activeFilters.zones.join(', ')}`);
     
     if (activeFiltersList.length > 0) {
         csv += '"Active Filters:"\n';
@@ -361,7 +426,24 @@ function debounce(func, wait) {
     };
 }
 
+// Category filter helper functions
+function selectAllCategories() {
+    const categoryCheckboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+    categoryCheckboxes.forEach(cb => cb.checked = true);
+    updateCategoryFilters();
+    applyFilters();
+}
+
+function clearAllCategories() {
+    const categoryCheckboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+    categoryCheckboxes.forEach(cb => cb.checked = false);
+    updateCategoryFilters();
+    applyFilters();
+}
+
 // Make functions available globally
 window.applyFilters = applyFilters;
 window.resetFilters = resetFilters;
 window.exportToCSV = exportToCSV;
+window.selectAllCategories = selectAllCategories;
+window.clearAllCategories = clearAllCategories;

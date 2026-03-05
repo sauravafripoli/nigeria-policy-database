@@ -95,7 +95,35 @@ class MiningMap {
         
         // Create layer groups
         this.statesLayer = L.layerGroup().addTo(this.leafletMap);
-        this.markersLayer = L.layerGroup().addTo(this.leafletMap);
+        
+        // Create marker cluster group
+        this.markersLayer = L.markerClusterGroup({
+            maxClusterRadius: 60,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            zoomToBoundsOnClick: true,
+            disableClusteringAtZoom: 14,  // Keep clustering longer to avoid overlap
+            spiderfyDistanceMultiplier: 1.2,  // Spread pins out more naturally
+            iconCreateFunction: (cluster) => {
+                const count = cluster.getChildCount();
+                let size = 'small';
+                let className = 'marker-cluster-small';
+                
+                if (count > 50) {
+                    size = 'large';
+                    className = 'marker-cluster-large';
+                } else if (count > 20) {
+                    size = 'medium';
+                    className = 'marker-cluster-medium';
+                }
+                
+                return L.divIcon({
+                    html: `<div><span>${count}</span></div>`,
+                    className: `marker-cluster ${className}`,
+                    iconSize: L.point(32, 32)
+                });
+            }
+        }).addTo(this.leafletMap);
         
         console.log('Leaflet map setup complete');
     }
@@ -241,15 +269,24 @@ class MiningMap {
                 lng = 8.6753 + offsetLng;   // Center of Nigeria longitude
             }
             
-            // Create circle marker
-            const marker = L.circleMarker([lat, lng], {
-                radius: 6,
-                fillColor: categoryColors[stakeholder.category] || '#6b7280',
-                color: '#ffffff',
-                weight: 2,
-                opacity: 0.9,
-                fillOpacity: 0.85
+            // Create custom pin marker icon
+            const markerColor = categoryColors[stakeholder.category] || '#6b7280';
+            const customIcon = L.divIcon({
+                className: 'custom-marker-icon',
+                html: `<div class="marker-pin" style="background-color: ${markerColor};">
+                          <div class="marker-pin-dot"></div>
+                       </div>`,
+                iconSize: [16, 22],
+                iconAnchor: [8, 22],
+                popupAnchor: [0, -22]
             });
+            
+            const marker = L.marker([lat, lng], {
+                icon: customIcon
+            });
+            
+            // Store stakeholder ID on marker for easy identification
+            marker.stakeholderId = stakeholder.id;
             
             // Add popup with stakeholder info
             marker.bindPopup(this.createPopupContent(stakeholder), {
@@ -753,22 +790,48 @@ class MiningMap {
             mapSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
         
-        // Pan to marker location and zoom in
-        const lat = stakeholder.location.coordinates[1];
-        const lng = stakeholder.location.coordinates[0];
-        this.leafletMap.setView([lat, lng], 10, {
+        // Get coordinates
+        let lat = stakeholder.location.coordinates[1];
+        let lng = stakeholder.location.coordinates[0];
+        
+        // If coordinates are 0 or missing, use center of Nigeria
+        if (!lat || !lng || (lat === 0 && lng === 0)) {
+            lat = 9.0820;
+            lng = 8.6753;
+        }
+        
+        // Zoom to level 16 to break clusters
+        this.leafletMap.setView([lat, lng], 16, {
             animate: true,
             duration: 1.0
         });
         
-        // Find and open the marker popup
+        // Find and open the marker popup by stakeholder ID
         setTimeout(() => {
+            let found = false;
+            
             this.markersLayer.eachLayer((layer) => {
-                if (layer.feature && layer.feature.properties.id === stakeholderId) {
-                    layer.openPopup();
+                // Check if this marker has the matching stakeholder ID
+                if (layer.stakeholderId && layer.stakeholderId === stakeholderId) {
+                    // Re-center on exact marker location (in case it was spiderfied)
+                    this.leafletMap.setView(layer.getLatLng(), 16, {
+                        animate: false
+                    });
+                    
+                    // Open the popup
+                    setTimeout(() => {
+                        layer.openPopup();
+                    }, 100);
+                    
+                    found = true;
+                    return;
                 }
             });
-        }, 500);
+            
+            if (!found) {
+                console.log('Marker not found for stakeholder ID:', stakeholderId);
+            }
+        }, 1000);
     }
     
     generateLegend() {

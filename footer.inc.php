@@ -245,6 +245,9 @@
 <!-- Leaflet JS for map rendering -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
+<!-- Leaflet MarkerCluster JS -->
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
 <!-- Keep TopoJSON for potential future use -->
 <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
 

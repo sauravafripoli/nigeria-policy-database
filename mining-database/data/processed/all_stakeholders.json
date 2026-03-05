@@ -3515,13 +3515,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
-        "state": "Unknown",
+        "city": "Lagos",
+        "state": "Lagos",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          0,
-          0
+          3.4692,
+          6.4344
         ],
         "coordinateType": "centroid"
       },
@@ -4343,13 +4343,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -4375,13 +4375,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -4412,13 +4412,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -4449,13 +4449,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -4523,13 +4523,14 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
+
         ],
         "coordinateType": "centroid"
       },
@@ -4560,13 +4561,14 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
+      
         ],
         "coordinateType": "centroid"
       },
@@ -5477,13 +5479,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Ibadan",
+        "state": "Oyo",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          0,
-          0
+          3.5787,
+          8.1974
         ],
         "coordinateType": "centroid"
       },
@@ -5511,13 +5513,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -6179,13 +6181,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Lagos",
+        "state": "Lagos",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South West",
         "coordinates": [
-          0,
-          0
+          3.3492,
+          6.5544
         ],
         "coordinateType": "centroid"
       },
@@ -6693,13 +6695,13 @@
         "address": ""
       },
       "location": {
-        "city": "Unknown",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -6829,13 +6831,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -6863,13 +6865,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Enugu",
+        "state": "Enugu",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "South East",
         "coordinates": [
-          0,
-          0
+          6.4572,
+          7.5248
         ],
         "coordinateType": "centroid"
       },
@@ -6931,13 +6933,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          9.0765,
+          7.3981
         ],
         "coordinateType": "centroid"
       },
@@ -7067,13 +7069,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9344,13 +9346,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9412,13 +9414,14 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
+  
         ],
         "coordinateType": "centroid"
       },
@@ -9480,13 +9483,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9888,13 +9891,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9956,13 +9959,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },
@@ -9990,13 +9993,13 @@
         "address": ""
       },
       "location": {
-        "city": "",
-        "state": "Unknown",
+        "city": "Abuja",
+        "state": "Federal Capital Territory",
         "lga": "",
-        "zone": "Unknown",
+        "zone": "North Central",
         "coordinates": [
-          0,
-          0
+          7.3986,
+          9.0765
         ],
         "coordinateType": "centroid"
       },

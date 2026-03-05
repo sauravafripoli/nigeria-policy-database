@@ -333,36 +333,40 @@ function viewOnMap(id) {
             lng = 8.6753;  // Center of Nigeria longitude
         }
         
-        // Pan to marker
-        window.miningMap.leafletMap.setView([lat, lng], 10, {
+        // Zoom to a level where clustering is disabled (15+) to see individual pin
+        window.miningMap.leafletMap.setView([lat, lng], 16, {
             animate: true,
             duration: 1
         });
         
-        // Find and open the marker popup
-        // For unknown locations, search within a larger radius since they're randomly placed
-        const searchRadius = (lat === 9.0820 && lng === 8.6753) ? 1.0 : 0.001;
-        
+        // Find and open the marker popup by stakeholder ID
+        // Wait longer to ensure cluster has expanded and markers are visible
         setTimeout(() => {
             let found = false;
+            
+            // Search within marker cluster layer using stakeholder ID
             window.miningMap.markersLayer.eachLayer((layer) => {
-                if (layer.getLatLng && layer.getPopup) {
-                    const markerLatLng = layer.getLatLng();
-                    if (Math.abs(markerLatLng.lat - lat) < searchRadius && Math.abs(markerLatLng.lng - lng) < searchRadius) {
-                        // For multiple matches (unknown locations), check if it's the right stakeholder by name
-                        const popupContent = layer.getPopup().getContent();
-                        if (popupContent.includes(stakeholder.name)) {
-                            layer.openPopup();
-                            found = true;
-                        }
-                    }
+                // Check if this is a marker (not a cluster) and has the matching stakeholder ID
+                if (layer.stakeholderId && layer.stakeholderId === stakeholder.id) {
+                    // Zoom to the exact marker location (in case it was spiderfied)
+                    window.miningMap.leafletMap.setView(layer.getLatLng(), 16, {
+                        animate: false
+                    });
+                    
+                    // Open the popup
+                    setTimeout(() => {
+                        layer.openPopup();
+                    }, 100);
+                    
+                    found = true;
+                    return;
                 }
             });
             
             if (!found) {
-                console.log('Marker not found for stakeholder:', stakeholder.name);
+                console.log('Marker not found for stakeholder:', stakeholder.name, 'ID:', stakeholder.id);
             }
-        }, 500);
+        }, 1000);  // Increased delay to allow cluster animation to complete
     }
     
     console.log('View on map:', stakeholder.name);
