@@ -129,17 +129,13 @@ function initializeFilters() {
         });
     });
     
-    // Category pills
+    // Category pills (multi-select with toggle)
     const categoryPills = document.querySelectorAll('.category-pills .pill');
     categoryPills.forEach(pill => {
         pill.addEventListener('click', () => {
             const categorySlug = pill.dataset.category;
             
             console.log('Pill clicked:', categorySlug);
-            
-            // Update active state
-            categoryPills.forEach(p => p.classList.remove('active'));
-            pill.classList.add('active');
             
             // Map slug to actual category name
             const categoryMap = {
@@ -161,19 +157,44 @@ function initializeFilters() {
                 'training-institutes': 'Training Institutes'
             };
             
-            // Apply filter
+            // Handle "All" pill
             if (categorySlug === 'all') {
-                // Check all checkboxes
-                categoryCheckboxes.forEach(cb => cb.checked = true);
+                const isActive = pill.classList.contains('active');
+                
+                if (isActive) {
+                    // Deselect all - uncheck all and remove active from all pills
+                    categoryCheckboxes.forEach(cb => cb.checked = false);
+                    categoryPills.forEach(p => p.classList.remove('active'));
+                } else {
+                    // Select all - check all and make all pills active
+                    categoryCheckboxes.forEach(cb => cb.checked = true);
+                    categoryPills.forEach(p => p.classList.add('active'));
+                }
+                
                 updateCategoryFilters();
             } else {
+                // Toggle individual category
                 const categoryName = categoryMap[categorySlug];
                 
                 if (categoryName) {
-                    // Update checkboxes - uncheck all, then check only the selected one
-                    categoryCheckboxes.forEach(cb => {
-                        cb.checked = cb.value === categoryName;
-                    });
+                    const checkbox = Array.from(categoryCheckboxes).find(cb => cb.value === categoryName);
+                    
+                    if (checkbox) {
+                        // Toggle checkbox and pill state
+                        checkbox.checked = !checkbox.checked;
+                        pill.classList.toggle('active');
+                        
+                        // Remove "All" active state since we're selecting specific categories
+                        const allPill = document.querySelector('.category-pills .pill[data-category="all"]');
+                        if (allPill) allPill.classList.remove('active');
+                        
+                        // If all checkboxes are now checked, activate "All" pill
+                        const allChecked = Array.from(categoryCheckboxes).every(cb => cb.checked);
+                        if (allChecked && allPill) {
+                            allPill.classList.add('active');
+                        }
+                    }
+                    
                     updateCategoryFilters();
                 } else {
                     console.warn('Unknown category slug:', categorySlug);
