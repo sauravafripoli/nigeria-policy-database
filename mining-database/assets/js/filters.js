@@ -223,14 +223,16 @@ function initializeFilters() {
                         checkbox.checked = !checkbox.checked;
                         pill.classList.toggle('active');
                         
-                        // Remove "All" active state since we're selecting specific categories
-                        const allPill = document.querySelector('.category-pills .pill[data-category="all"]');
-                        if (allPill) allPill.classList.remove('active');
-                        
-                        // If all checkboxes are now checked, activate "All" pill
+                        // Check if all checkboxes are now checked
                         const allChecked = Array.from(categoryCheckboxes).every(cb => cb.checked);
-                        if (allChecked && allPill) {
-                            allPill.classList.add('active');
+                        const allPill = document.querySelector('.category-pills .pill[data-category="all"]');
+                        
+                        if (allChecked) {
+                            // If all are checked, activate "All" pill
+                            if (allPill) allPill.classList.add('active');
+                        } else {
+                            // If not all are checked, deactivate "All" pill
+                            if (allPill) allPill.classList.remove('active');
                         }
                     }
                     
@@ -494,6 +496,11 @@ function debounce(func, wait) {
 function selectAllCategories() {
     const categoryCheckboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
     categoryCheckboxes.forEach(cb => cb.checked = true);
+    
+    // Activate all pills
+    const categoryPills = document.querySelectorAll('.category-pills .pill');
+    categoryPills.forEach(p => p.classList.add('active'));
+    
     updateCategoryFilters();
     applyFilters();
 }
@@ -501,6 +508,11 @@ function selectAllCategories() {
 function clearAllCategories() {
     const categoryCheckboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
     categoryCheckboxes.forEach(cb => cb.checked = false);
+    
+    // Deactivate all pills
+    const categoryPills = document.querySelectorAll('.category-pills .pill');
+    categoryPills.forEach(p => p.classList.remove('active'));
+    
     updateCategoryFilters();
     applyFilters();
 }
