@@ -958,22 +958,64 @@ class MiningMap {
     filterByCategory(category) {
         console.log('Filter by category:', category);
         
-        if (category === 'all') {
-            filteredStakeholders = allStakeholders;
-        } else {
-            filteredStakeholders = allStakeholders.filter(d => d.category === category);
-        }
+        // Get category slug for syncing with pills
+        const categorySlugMap = {
+            'Federal Government': 'federal-government',
+            'State Agencies': 'state-agencies',
+            'MMSD Offices': 'mmsd-offices',
+            'Mining Companies': 'mining-companies',
+            'Mining Consultancies': 'mining-consultancies',
+            'Artisanal Miners': 'artisanal-miners',
+            'Associations': 'associations',
+            'State Companies': 'state-companies',
+            'Infrastructure': 'infrastructure',
+            'NGOs': 'ngos',
+            'Civil Society': 'civil-society',
+            'Donors': 'donors',
+            'Universities': 'universities',
+            'Training Institutes': 'training-institutes'
+        };
         
-        this.renderStakeholders();
+        // Single select behavior - uncheck all, then check only this one
+        const categoryCheckboxes = document.querySelectorAll('.filter-group input[type="checkbox"][data-category]');
+        const targetCheckbox = Array.from(categoryCheckboxes).find(cb => cb.value === category);
         
-        const statShowing = document.getElementById('stat-showing');
-        if (statShowing) {
-            statShowing.textContent = filteredStakeholders.length;
-        }
-        
-        // Update table if function exists
-        if (window.updateTable) {
-            window.updateTable(filteredStakeholders);
+        if (targetCheckbox) {
+            // Check if this category is already the only one selected
+            const isOnlySelected = targetCheckbox.checked && 
+                Array.from(categoryCheckboxes).filter(cb => cb.checked).length === 1;
+            
+            if (isOnlySelected) {
+                // If clicking the only selected category, select all
+                categoryCheckboxes.forEach(cb => cb.checked = true);
+                
+                // Activate all pills
+                const allPills = document.querySelectorAll('.category-pills .pill');
+                allPills.forEach(p => p.classList.add('active'));
+            } else {
+                // Uncheck all others, check only this one
+                categoryCheckboxes.forEach(cb => cb.checked = (cb === targetCheckbox));
+                
+                // Update pills - deactivate all, activate only this one
+                const allPills = document.querySelectorAll('.category-pills .pill');
+                allPills.forEach(p => p.classList.remove('active'));
+                
+                const categorySlug = categorySlugMap[category];
+                if (categorySlug) {
+                    const pill = document.querySelector(`.category-pills .pill[data-category="${categorySlug}"]`);
+                    if (pill) {
+                        pill.classList.add('active');
+                    }
+                }
+            }
+            
+            // Update filters and apply
+            if (window.updateCategoryFilters) {
+                window.updateCategoryFilters();
+            }
+            if (window.applyFilters) {
+                window.applyFilters();
+            }
         }
     }
     

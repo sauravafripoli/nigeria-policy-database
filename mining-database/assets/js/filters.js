@@ -125,9 +125,48 @@ function initializeFilters() {
     categoryCheckboxes.forEach(checkbox => {
         checkbox.addEventListener('change', () => {
             updateCategoryFilters();
+            syncPillsWithCheckboxes();
             applyFilters();
         });
     });
+    
+    // Function to sync hero pills with sidebar checkboxes
+    function syncPillsWithCheckboxes() {
+        const categoryMap = {
+            'Federal Government': 'federal-government',
+            'State Agencies': 'state-agencies',
+            'MMSD Offices': 'mmsd-offices',
+            'Mining Companies': 'mining-companies',
+            'Mining Consultancies': 'mining-consultancies',
+            'Artisanal Miners': 'artisanal-miners',
+            'Associations': 'associations',
+            'State Companies': 'state-companies',
+            'Infrastructure': 'infrastructure',
+            'NGOs': 'ngos',
+            'Civil Society': 'civil-society',
+            'Donors': 'donors',
+            'Universities': 'universities',
+            'Training Institutes': 'training-institutes'
+        };
+        
+        // Update each pill based on checkbox state
+        categoryCheckboxes.forEach(checkbox => {
+            const categorySlug = categoryMap[checkbox.value];
+            if (categorySlug) {
+                const pill = document.querySelector(`.category-pills .pill[data-category="${categorySlug}"]`);
+                if (pill) {
+                    pill.classList.toggle('active', checkbox.checked);
+                }
+            }
+        });
+        
+        // Update "All" pill - active if all checkboxes are checked
+        const allChecked = Array.from(categoryCheckboxes).every(cb => cb.checked);
+        const allPill = document.querySelector('.category-pills .pill[data-category="all"]');
+        if (allPill) {
+            allPill.classList.toggle('active', allChecked);
+        }
+    }
     
     // Category pills (multi-select with toggle)
     const categoryPills = document.querySelectorAll('.category-pills .pill');
@@ -217,6 +256,10 @@ function initializeFilters() {
         exportBtn.addEventListener('click', exportToCSV);
     }
 }
+
+// Make updateCategoryFilters available globally for map legend
+window.updateCategoryFilters = updateCategoryFilters;
+window.applyFilters = applyFilters;
 
 function updateCategoryFilters() {
     const checkboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]:checked');
