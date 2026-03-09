@@ -17,7 +17,7 @@ if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
 
 .home-hero h1 {
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 800;
     margin-bottom: 20px;
     color: #111827;
 }

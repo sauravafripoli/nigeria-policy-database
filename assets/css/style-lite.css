@@ -7,7 +7,7 @@
 ================================================================ */
 
 :root {
-    --vr-font-primary:  "Rubik", Helvetica, sans-serif;--vr-font-secondary:  "Rubik", Helvetica, sans-serif;--vr-font-tertiary:  "Roboto", Helvetica, sans-serif;--vr-theme-color: #f8ae1a;--vr-block-color: #161616;--vr-mega-menu-color: #f9f9f9;}
+    --vr-font-primary:  "Open Sans", "Rubik", Helvetica, sans-serif;--vr-font-secondary:  "Open Sans", "Rubik", Helvetica, sans-serif;--vr-font-tertiary:  "Open Sans", "Roboto", Helvetica, sans-serif;--vr-theme-color: #f8ae1a;--vr-block-color: #161616;--vr-mega-menu-color: #f9f9f9;}
     .section-videos .video-large .image {height: 100% !important;}
     .modal-newsletter .image {background-image: url('https://afripoli.org/assets/img/newsletter.webp');
 }
@@ -111,7 +111,9 @@ ul {
 /* --- Typography --- */
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-family: var(--vr-font-secondary);
+    
 }
+
 
 small,.small {
     font-weight: 400

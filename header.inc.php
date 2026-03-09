@@ -30,9 +30,12 @@
 		<title><?php get_page_clean_title(); ?> - <?php get_site_name(); ?></title>
 		<meta name="robots" content="index, follow">
 		<link rel="shortcut icon" type="image/png" href="//afripoli.org/uploads/logo/logo_60a657d21d6f4.png"/>
-		<!--New apri font -->
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-		
+	
+	<!-- Primary Font - Open Sans -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+	
 		<!-- Old webfont -->
 		<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
