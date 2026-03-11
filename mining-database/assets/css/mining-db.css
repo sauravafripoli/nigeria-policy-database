@@ -958,7 +958,7 @@ circle.stakeholder:hover {
 
 .btn-detail-primary {
     background: var(--primary-blue);
-    color: white;
+    color: black;
     border: none;
 }
 

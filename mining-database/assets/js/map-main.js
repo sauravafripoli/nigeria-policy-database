@@ -680,17 +680,12 @@ class MiningMap {
     }
     
     renderRelatedPolicies(stakeholder) {
-        // Check if we have policy links for this stakeholder
-        if (!this.policyLinks || !stakeholder.id) {
+        // Check if stakeholder has related policies
+        if (!stakeholder.relatedPolicies || stakeholder.relatedPolicies.length === 0) {
             return '';
         }
         
-        const policies = this.policyLinks[stakeholder.id];
-        
-        if (!policies || policies.length === 0) {
-            return '';
-        }
-        
+        const policies = stakeholder.relatedPolicies;
         const count = policies.length;
         
         let html = `
@@ -707,7 +702,6 @@ class MiningMap {
                         ${policy.policyName}
                     </a>
                     <div class="policy-profile-meta">
-                        ${policy.policyFamily ? `<span class="policy-meta-badge">${policy.policyFamily}</span>` : ''}
                         ${policy.policyType ? `<span class="policy-meta-badge">${policy.policyType}</span>` : ''}
                         ${policy.yearIntroduced ? `<span class="policy-meta-badge">${policy.yearIntroduced}</span>` : ''}
                         ${policy.status ? `<span class="policy-meta-badge">${policy.status}</span>` : ''}
